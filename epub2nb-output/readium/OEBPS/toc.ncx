@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Důmyslný rytíř Don Quijote de la Mancha II</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KNIHA TŘETÍ</text>
+      </navLabel>
+      <content src="Text/don_quijote_005.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>VĚNOVÁNÍHRABĚTI DE LEMOS</text>
+        </navLabel>
+        <content src="Text/don_quijote_007.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>PŘEDMLUVA</text>
+        </navLabel>
+        <content src="Text/don_quijote_008.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>KAPITOLA I., jak farář a holič rozmlouvali s donem Quijotem o jeho nemoci.</text>
+        </navLabel>
+        <content src="Text/don_quijote_009.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>KAPITOLA II., ve které se vypráví o pozoruhodném sporu Sancha Panzy s neteří a hospodyní dona Quijota a o jiných zajímavých událostech.</text>
+        </navLabel>
+        <content src="Text/don_quijote_010.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>KAPITOLA III., v níž se vypravuje o směšném uvažování dona Quijota, Sancha Panzy a bakaláře Sansona Carrasca.</text>
+        </navLabel>
+        <content src="Text/don_quijote_011.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>KAPITOLA IV., ve které Sancho Panza odpovídá na pochybnosti a dotazy Sansona Carrasca a kde se vypráví o různých událostech zasluhujících, aby se o nich mluvilo a vědělo.</text>
+        </navLabel>
+        <content src="Text/don_quijote_012.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>KAPITOLA V., ve které je zaznamenána vtipná a půvabná rozmluva Sancha Panzy s jeho ženou Terezou a jiné události hodné zapamatování.</text>
+        </navLabel>
+        <content src="Text/don_quijote_013.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>KAPITOLA VI., vyprávějící o příhodě dona Quijota, jeho neteře a hospodyně, jedna z nejhlavnějších kapitol celého vyprávění.</text>
+        </navLabel>
+        <content src="Text/don_quijote_014.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>KAPITOLA VII., ve které se vypráví o rozmluvě mezi donem Quijotem a jeho zbrojnošem a různé jiné znamenité události.</text>
+        </navLabel>
+        <content src="Text/don_quijote_015.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>KAPITOLA VIII., vyprávějící příhody dona Quijota při návštěvě u paní Dulciney z Tobosa.</text>
+        </navLabel>
+        <content src="Text/don_quijote_016.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>KAPITOLA IX., ve které se vypravuje, čeho se v ní dovíme.</text>
+        </navLabel>
+        <content src="Text/don_quijote_017.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>KAPITOLA X., která vypráví, jakou lstí začaroval Sancho paní Dulcineu, a jiné události směšné i pravdivé.</text>
+        </navLabel>
+        <content src="Text/don_quijote_018.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>KAPITOLA XI. o podivném dobrodružství dona Quijota u vozu Dvořanů smrti.</text>
+        </navLabel>
+        <content src="Text/don_quijote_019.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>KAPITOLA XII., vyprávějící o zajímavé příhodě odvážného dona Quijota se statečným rytířem Zrcadlovým.</text>
+        </navLabel>
+        <content src="Text/don_quijote_020.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>KAPITOLA XIII., pokračující o dobrodružství Lesního rytíře a rozumné, nové a milé rozmluvě zbrojnošů.</text>
+        </navLabel>
+        <content src="Text/don_quijote_021.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>KAPITOLA XIV. pokračující v líčení dobrodružství Lesního rytíře.</text>
+        </navLabel>
+        <content src="Text/don_quijote_022.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>KAPITOLA XV., objasňující původ Zrcadlového rytíře a jeho zbrojnoše.</text>
+        </navLabel>
+        <content src="Text/don_quijote_023.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>KAPITOLA XVI. o příhodě dona Quijota s rozumným rytířem z Manche.</text>
+        </navLabel>
+        <content src="Text/don_quijote_024.xhtml#toc_marker-1-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>KAPITOLA XVII., jež líčí nejzazší mez, k níž došla a mohla dojít neslýchaná statečnost dona Quijota v dobrodružství se lvy, které mělo šťastný konec.</text>
+        </navLabel>
+        <content src="Text/don_quijote_025.xhtml#toc_marker-1-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>KAPITOLA XVIII., jak se dařilo donu Quijotovi v domě rytíře Zeleného pláště a jiné nezvyklé věci.</text>
+        </navLabel>
+        <content src="Text/don_quijote_026.xhtml#toc_marker-1-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>KAPITOLA XIX. o příběhu zamilovaného pastýře a o jiných opravdu pěkných příhodách.</text>
+        </navLabel>
+        <content src="Text/don_quijote_027.xhtml#toc_marker-1-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>KAPITOLA XX., kde se vypráví o svatbě bohatého Camacha a o příběhu chudého Basilia.</text>
+        </navLabel>
+        <content src="Text/don_quijote_028.xhtml#toc_marker-1-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>KAPITOLA XXI., líčící dále svatbu Camachovu a jiné výborné události.</text>
+        </navLabel>
+        <content src="Text/don_quijote_029.xhtml#toc_marker-1-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>KAPITOLA XXII., kde se líčí nádherné dobrodružství v jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se zdarem ukončil.</text>
+        </navLabel>
+        <content src="Text/don_quijote_030.xhtml#toc_marker-1-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>KAPITOLA XXIII. o neuvěřitelných věcech, které výborný don Quijote spatřil v hluboké propasti Montesínově a jež pro svou nemožnost a úžasnost uvádějí v podezření z nepravdivosti tuto kapitolu.</text>
+        </navLabel>
+        <content src="Text/don_quijote_031.xhtml#toc_marker-1-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>KAPITOLA XXIV., vyprávějící tisíc hloupostí stejně nepatrných jako nutných k pochopení této znamenité historie.</text>
+        </navLabel>
+        <content src="Text/don_quijote_032.xhtml#toc_marker-1-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>KAPITOLA XXV., kde se přesně vypráví o dobrodružství s hýkáním, o půvabnosti loutkářově a skvělých výpovědích věštící opice.</text>
+        </navLabel>
+        <content src="Text/don_quijote_033.xhtml#toc_marker-1-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>KAPITOLA XXVI., pokračující v půvabném dobrodružství loutkáře a vypravující jiné opravdu zajímavé věci.</text>
+        </navLabel>
+        <content src="Text/don_quijote_034.xhtml#toc_marker-1-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KAPITOLA XXVII., kde se vypráví, kdo byl mistr Pedro a jeho opice a jaká nehoda stihla dona Quijota v hýkavém dobrodružství, které neskončilo, jak by si byl přál a jak myslil.</text>
+        </navLabel>
+        <content src="Text/don_quijote_035.xhtml#toc_marker-1-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>KAPITOLA XXVIII., o které Benengeli tvrdí, že věci v ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně.</text>
+        </navLabel>
+        <content src="Text/don_quijote_036.xhtml#toc_marker-1-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>KAPITOLA XXIX., líčící slavné dobrodružství začarovaného člunu.</text>
+        </navLabel>
+        <content src="Text/don_quijote_037.xhtml#toc_marker-1-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>KAPITOLA XXX. o příhodě dona Quijota u půvabné lovkyně.</text>
+        </navLabel>
+        <content src="Text/don_quijote_038.xhtml#toc_marker-1-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>KAPITOLA XXXI. o mnohých významných věcech.</text>
+        </navLabel>
+        <content src="Text/don_quijote_039.xhtml#toc_marker-1-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>KAPITOLA XXXII., zaznamenávající odpověď dona Quijota kazateli a jiné vážné a veselé příběhy.</text>
+        </navLabel>
+        <content src="Text/don_quijote_040.xhtml#toc_marker-1-34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>KAPITOLA XXXIII. o vtipném rozhovoru vévodkyně a jejích dívek se Sanchem Panzou, hodném, abychom si jej přečtli a zapamatovali.</text>
+        </navLabel>
+        <content src="Text/don_quijote_041.xhtml#toc_marker-1-35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>KAPITOLA XXXIV., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z Tobosa, což je jedna z nejkrásnějších příhod celé historie.</text>
+        </navLabel>
+        <content src="Text/don_quijote_042.xhtml#toc_marker-1-36"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>KAPITOLA XXXV., co dalšího se don Quijote dověděl o tom, jak vysvobodit Dulcineu, a jiná zajímavá dobrodružství.</text>
+        </navLabel>
+        <content src="Text/don_quijote_043.xhtml#toc_marker-1-37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>KNIHA ČTVRTÁ</text>
+      </navLabel>
+      <content src="Text/don_quijote_044.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>KAPITOLA XXXVI. o podivném a nevídaném dobrodružství dueni Doloridy, nazývané také hraběnkou Trojfaldovou, a o dopisu Sancha Panzy jeho manželce Tereze Sanchové.</text>
+        </navLabel>
+        <content src="Text/don_quijote_046.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>KAPITOLA XXXVII., pokračující v slavném dobrodružství dueni Doloridy.</text>
+        </navLabel>
+        <content src="Text/don_quijote_047.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>KAPITOLA XXXVIII., vypravující, co řekla o smutném svém příběhu dueňa Dolorida.</text>
+        </navLabel>
+        <content src="Text/don_quijote_048.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>KAPITOLA XXXIX. o dalším průběhu úžasné a významné příhody paní Trojfaldové.</text>
+        </navLabel>
+        <content src="Text/don_quijote_049.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>KAPITOLA XL. o věcech týkajících se této příhody a tohoto památného dobrodružství.</text>
+        </navLabel>
+        <content src="Text/don_quijote_050.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>KAPITOLA XLI. o příchodu Clavileña a konci tohoto dlouhého dobrodružství.</text>
+        </navLabel>
+        <content src="Text/don_quijote_051.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>KAPITOLA XLII. o tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i o jiných veledůležitých věcech.</text>
+        </navLabel>
+        <content src="Text/don_quijote_052.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>KAPITOLA XLIII. o dalších radách, jež dal don Quijote Sanchu Panzovi.</text>
+        </navLabel>
+        <content src="Text/don_quijote_053.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>KAPITOLA XLIV., jak se Sancho Panza stal vladařem a co podivného potkalo dona Quijota v zámku.</text>
+        </navLabel>
+        <content src="Text/don_quijote_054.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>KAPITOLA XLV. o tom, jak se velký Sancho Panza ujal ostrova a jak počal vládnout.</text>
+        </navLabel>
+        <content src="Text/don_quijote_055.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>KAPITOLA XLVI. o strašném úděsu zvonečkovém a kočičím, který zažil don Quijote za hovoru o vášni zamilované Altisidory.</text>
+        </navLabel>
+        <content src="Text/don_quijote_056.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>KAPITOLA XLVII., kde je pokračováno o tom, jak si vedl Sancho Panza ve svém vladaření.</text>
+        </navLabel>
+        <content src="Text/don_quijote_057.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>KAPITOLA XLVIII. o tom, co potkalo dona Quijota s paní Rodríguezovou, dueňou vévodkyně, a o jiných příhodách hodných zapsání a věčné paměti.</text>
+        </navLabel>
+        <content src="Text/don_quijote_058.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>KAPITOLA XLIX. o tom, co se stalo Sanchu Panzovi při toulce ostrovem.</text>
+        </navLabel>
+        <content src="Text/don_quijote_059.xhtml#toc_marker-2-14"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>KAPITOLA L., kde se odkrývá, kdo byli čarodějové a katové, již natloukli dueně a poštípali a poškrábali dona Quijota, a vypráví o příhodách pážete, nesoucího psaní Tereze Panzové, ženě Sancha Panzy.</text>
+        </navLabel>
+        <content src="Text/don_quijote_060.xhtml#toc_marker-2-15"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>KAPITOLA LI. o dalším vladaření Sancha Panzy a jiných pěkných příhodách.</text>
+        </navLabel>
+        <content src="Text/don_quijote_061.xhtml#toc_marker-2-16"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>KAPITOLA LIL, kde se vypráví dobrodružství druhé dueni Doloridy či Angustiady, jinak paní Rodríguezové.</text>
+        </navLabel>
+        <content src="Text/don_quijote_062.xhtml#toc_marker-2-17"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>KAPITOLA LIII. o úmorném skoncování vladaření Sancha Panzy.</text>
+        </navLabel>
+        <content src="Text/don_quijote_063.xhtml#toc_marker-2-18"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>KAPITOLA LIV., která jedná o věcech této historie a žádné jiné.</text>
+        </navLabel>
+        <content src="Text/don_quijote_064.xhtml#toc_marker-2-19"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>KAPITOLA LV. o tom, co potkalo Sancha cestou, a jiných věcech, které stály za spatření.</text>
+        </navLabel>
+        <content src="Text/don_quijote_065.xhtml#toc_marker-2-20"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>KAPITOLA LVI. o neobyčejném a nevídaném boji mezi donem Quijotem de la Mancha a lokajem Tosílem na obranu dcery paní Rodríguezové, dueni.</text>
+        </navLabel>
+        <content src="Text/don_quijote_066.xhtml#toc_marker-2-21"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>KAPITOLA LVII. o tom, jak se don Quijote rozloučil s vévodou a co ho potkalo s chytrou a rozpustilou Altisidorou, komornou vévodkyně.</text>
+        </navLabel>
+        <content src="Text/don_quijote_067.xhtml#toc_marker-2-22"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>KAPITOLA LVIII. o tom, jak se sesypalo na dona Quijota tolik dobrodružství, že jedno pro druhé nemá místa.</text>
+        </navLabel>
+        <content src="Text/don_quijote_068.xhtml#toc_marker-2-23"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>KAPITOLA LIX., kde se vypráví o neobyčejné příhodě, již lze míti za dobrodružství, která potkala dona Quijota.</text>
+        </navLabel>
+        <content src="Text/don_quijote_069.xhtml#toc_marker-2-24"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>KAPITOLA LX., o tom, co se přihodilo donu Quijotovi cestou do Barcelony.</text>
+        </navLabel>
+        <content src="Text/don_quijote_070.xhtml#toc_marker-2-25"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>KAPITOLA LXI., o tom, co potkalo dona Quijota při vstupu do Barcelony, a o jiných věcech, spíše pravdivých než rozumných.</text>
+        </navLabel>
+        <content src="Text/don_quijote_071.xhtml#toc_marker-2-26"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>KAPITOLA LXII., jež jedná o dobrodružství čarovné hlavy a jiných dětinstvích, jež je dlužno vypovědět.</text>
+        </navLabel>
+        <content src="Text/don_quijote_072.xhtml#toc_marker-2-27"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>KAPITOLA LXIII. o nehodě Sancha Panzy při návštěvě galejí a novém dobrodružství krásné Maurky.</text>
+        </navLabel>
+        <content src="Text/don_quijote_073.xhtml#toc_marker-2-28"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>KAPITOLA LXIV., která jedná o dobrodružství, jež dona Quijota zarmoutilo nejvíce ze všech, která ho dosud byla potkala.</text>
+        </navLabel>
+        <content src="Text/don_quijote_074.xhtml#toc_marker-2-29"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>KAPITOLA LXV., kde je dáno poučení, kdo byl rytíř Bílého měsíce, a vypráví se o osvobození dona Gregoria i jiných událostech.</text>
+        </navLabel>
+        <content src="Text/don_quijote_075.xhtml#toc_marker-2-30"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>KAPITOLA LXVI., jež jedná o tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu.</text>
+        </navLabel>
+        <content src="Text/don_quijote_076.xhtml#toc_marker-2-31"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>KAPITOLA LXVII., o rozhodnutí dona Quijota stát se pastýřem a vést život venkovský, dokud neuplyne slíbený rok, a o jiných příhodách opravdu radostných a výborných.</text>
+        </navLabel>
+        <content src="Text/don_quijote_077.xhtml#toc_marker-2-32"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>KAPITOLA LXVIII. o sviním dobrodružství dona Quijota.</text>
+        </navLabel>
+        <content src="Text/don_quijote_078.xhtml#toc_marker-2-33"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>KAPITOLA LXIX. o nejzvláštnější a nejnezvyklejší příhodě, která v průběhu této velké historie dona Quijota potkala.</text>
+        </navLabel>
+        <content src="Text/don_quijote_079.xhtml#toc_marker-2-34"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>KAPITOLA LXX., která následuje za šedesátou devátou a jedná o věcech nutných k jasnosti této historie.</text>
+        </navLabel>
+        <content src="Text/don_quijote_080.xhtml#toc_marker-2-35"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>KAPITOLA LXXI. o tom, co potkalo dona Quijota a jeho zbrojnoše Sancha cestou domů.</text>
+        </navLabel>
+        <content src="Text/don_quijote_081.xhtml#toc_marker-2-36"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>KAPITOLA LXXII. o tom, jak don Quijote a Sancho dojeli do své vsi.</text>
+        </navLabel>
+        <content src="Text/don_quijote_082.xhtml#toc_marker-2-37"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>KAPITOLA LXXIII. o znameních, jež spatřil don Quijote při vstupu do své vsi, a jiných příbězích dodávajících této velké historii ozdobnosti a pravděpodobnosti.</text>
+        </navLabel>
+        <content src="Text/don_quijote_083.xhtml#toc_marker-2-38"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>KAPITOLA LXXIV. o onemocnění dona Quijota, jeho závěti a smrti.</text>
+        </navLabel>
+        <content src="Text/don_quijote_084.xhtml#toc_marker-2-39"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
