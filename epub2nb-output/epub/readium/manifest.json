@@ -1,0 +1,709 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Důmyslný rytíř Don Quijote de la Mancha II",
+    "identifier": "urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691",
+    "author": "Miguel de Cervantes Saavedra",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cz",
+    "modified": "2022-02-17T08:07:46.347Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/don_quijote_085.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/don_quijot_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_don_quijote_ii_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr1.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr2.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "KNIHA TŘETÍ",
+      "children": [
+        {
+          "title": "VĚNOVÁNÍHRABĚTI DE LEMOS",
+          "href": "OEBPS/Text/don_quijote_007.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "PŘEDMLUVA",
+          "href": "OEBPS/Text/don_quijote_008.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "KAPITOLA I., jak farář a holič rozmlouvali s donem Quijotem o jeho nemoci.",
+          "href": "OEBPS/Text/don_quijote_009.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "KAPITOLA II., ve které se vypráví o pozoruhodném sporu Sancha Panzy s neteří a hospodyní dona Quijota a o jiných zajímavých událostech.",
+          "href": "OEBPS/Text/don_quijote_010.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "KAPITOLA III., v níž se vypravuje o směšném uvažování dona Quijota, Sancha Panzy a bakaláře Sansona Carrasca.",
+          "href": "OEBPS/Text/don_quijote_011.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "KAPITOLA IV., ve které Sancho Panza odpovídá na pochybnosti a dotazy Sansona Carrasca a kde se vypráví o různých událostech zasluhujících, aby se o nich mluvilo a vědělo.",
+          "href": "OEBPS/Text/don_quijote_012.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "KAPITOLA V., ve které je zaznamenána vtipná a půvabná rozmluva Sancha Panzy s jeho ženou Terezou a jiné události hodné zapamatování.",
+          "href": "OEBPS/Text/don_quijote_013.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "KAPITOLA VI., vyprávějící o příhodě dona Quijota, jeho neteře a hospodyně, jedna z nejhlavnějších kapitol celého vyprávění.",
+          "href": "OEBPS/Text/don_quijote_014.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "KAPITOLA VII., ve které se vypráví o rozmluvě mezi donem Quijotem a jeho zbrojnošem a různé jiné znamenité události.",
+          "href": "OEBPS/Text/don_quijote_015.xhtml#toc_marker-1-9"
+        },
+        {
+          "title": "KAPITOLA VIII., vyprávějící příhody dona Quijota při návštěvě u paní Dulciney z Tobosa.",
+          "href": "OEBPS/Text/don_quijote_016.xhtml#toc_marker-1-10"
+        },
+        {
+          "title": "KAPITOLA IX., ve které se vypravuje, čeho se v ní dovíme.",
+          "href": "OEBPS/Text/don_quijote_017.xhtml#toc_marker-1-11"
+        },
+        {
+          "title": "KAPITOLA X., která vypráví, jakou lstí začaroval Sancho paní Dulcineu, a jiné události směšné i pravdivé.",
+          "href": "OEBPS/Text/don_quijote_018.xhtml#toc_marker-1-12"
+        },
+        {
+          "title": "KAPITOLA XI. o podivném dobrodružství dona Quijota u vozu Dvořanů smrti.",
+          "href": "OEBPS/Text/don_quijote_019.xhtml#toc_marker-1-13"
+        },
+        {
+          "title": "KAPITOLA XII., vyprávějící o zajímavé příhodě odvážného dona Quijota se statečným rytířem Zrcadlovým.",
+          "href": "OEBPS/Text/don_quijote_020.xhtml#toc_marker-1-14"
+        },
+        {
+          "title": "KAPITOLA XIII., pokračující o dobrodružství Lesního rytíře a rozumné, nové a milé rozmluvě zbrojnošů.",
+          "href": "OEBPS/Text/don_quijote_021.xhtml#toc_marker-1-15"
+        },
+        {
+          "title": "KAPITOLA XIV. pokračující v líčení dobrodružství Lesního rytíře.",
+          "href": "OEBPS/Text/don_quijote_022.xhtml#toc_marker-1-16"
+        },
+        {
+          "title": "KAPITOLA XV., objasňující původ Zrcadlového rytíře a jeho zbrojnoše.",
+          "href": "OEBPS/Text/don_quijote_023.xhtml#toc_marker-1-17"
+        },
+        {
+          "title": "KAPITOLA XVI. o příhodě dona Quijota s rozumným rytířem z Manche.",
+          "href": "OEBPS/Text/don_quijote_024.xhtml#toc_marker-1-18"
+        },
+        {
+          "title": "KAPITOLA XVII., jež líčí nejzazší mez, k níž došla a mohla dojít neslýchaná statečnost dona Quijota v dobrodružství se lvy, které mělo šťastný konec.",
+          "href": "OEBPS/Text/don_quijote_025.xhtml#toc_marker-1-19"
+        },
+        {
+          "title": "KAPITOLA XVIII., jak se dařilo donu Quijotovi v domě rytíře Zeleného pláště a jiné nezvyklé věci.",
+          "href": "OEBPS/Text/don_quijote_026.xhtml#toc_marker-1-20"
+        },
+        {
+          "title": "KAPITOLA XIX. o příběhu zamilovaného pastýře a o jiných opravdu pěkných příhodách.",
+          "href": "OEBPS/Text/don_quijote_027.xhtml#toc_marker-1-21"
+        },
+        {
+          "title": "KAPITOLA XX., kde se vypráví o svatbě bohatého Camacha a o příběhu chudého Basilia.",
+          "href": "OEBPS/Text/don_quijote_028.xhtml#toc_marker-1-22"
+        },
+        {
+          "title": "KAPITOLA XXI., líčící dále svatbu Camachovu a jiné výborné události.",
+          "href": "OEBPS/Text/don_quijote_029.xhtml#toc_marker-1-23"
+        },
+        {
+          "title": "KAPITOLA XXII., kde se líčí nádherné dobrodružství v jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se zdarem ukončil.",
+          "href": "OEBPS/Text/don_quijote_030.xhtml#toc_marker-1-24"
+        },
+        {
+          "title": "KAPITOLA XXIII. o neuvěřitelných věcech, které výborný don Quijote spatřil v hluboké propasti Montesínově a jež pro svou nemožnost a úžasnost uvádějí v podezření z nepravdivosti tuto kapitolu.",
+          "href": "OEBPS/Text/don_quijote_031.xhtml#toc_marker-1-25"
+        },
+        {
+          "title": "KAPITOLA XXIV., vyprávějící tisíc hloupostí stejně nepatrných jako nutných k pochopení této znamenité historie.",
+          "href": "OEBPS/Text/don_quijote_032.xhtml#toc_marker-1-26"
+        },
+        {
+          "title": "KAPITOLA XXV., kde se přesně vypráví o dobrodružství s hýkáním, o půvabnosti loutkářově a skvělých výpovědích věštící opice.",
+          "href": "OEBPS/Text/don_quijote_033.xhtml#toc_marker-1-27"
+        },
+        {
+          "title": "KAPITOLA XXVI., pokračující v půvabném dobrodružství loutkáře a vypravující jiné opravdu zajímavé věci.",
+          "href": "OEBPS/Text/don_quijote_034.xhtml#toc_marker-1-28"
+        },
+        {
+          "title": "KAPITOLA XXVII., kde se vypráví, kdo byl mistr Pedro a jeho opice a jaká nehoda stihla dona Quijota v hýkavém dobrodružství, které neskončilo, jak by si byl přál a jak myslil.",
+          "href": "OEBPS/Text/don_quijote_035.xhtml#toc_marker-1-29"
+        },
+        {
+          "title": "KAPITOLA XXVIII., o které Benengeli tvrdí, že věci v ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně.",
+          "href": "OEBPS/Text/don_quijote_036.xhtml#toc_marker-1-30"
+        },
+        {
+          "title": "KAPITOLA XXIX., líčící slavné dobrodružství začarovaného člunu.",
+          "href": "OEBPS/Text/don_quijote_037.xhtml#toc_marker-1-31"
+        },
+        {
+          "title": "KAPITOLA XXX. o příhodě dona Quijota u půvabné lovkyně.",
+          "href": "OEBPS/Text/don_quijote_038.xhtml#toc_marker-1-32"
+        },
+        {
+          "title": "KAPITOLA XXXI. o mnohých významných věcech.",
+          "href": "OEBPS/Text/don_quijote_039.xhtml#toc_marker-1-33"
+        },
+        {
+          "title": "KAPITOLA XXXII., zaznamenávající odpověď dona Quijota kazateli a jiné vážné a veselé příběhy.",
+          "href": "OEBPS/Text/don_quijote_040.xhtml#toc_marker-1-34"
+        },
+        {
+          "title": "KAPITOLA XXXIII. o vtipném rozhovoru vévodkyně a jejích dívek se Sanchem Panzou, hodném, abychom si jej přečtli a zapamatovali.",
+          "href": "OEBPS/Text/don_quijote_041.xhtml#toc_marker-1-35"
+        },
+        {
+          "title": "KAPITOLA XXXIV., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z Tobosa, což je jedna z nejkrásnějších příhod celé historie.",
+          "href": "OEBPS/Text/don_quijote_042.xhtml#toc_marker-1-36"
+        },
+        {
+          "title": "KAPITOLA XXXV., co dalšího se don Quijote dověděl o tom, jak vysvobodit Dulcineu, a jiná zajímavá dobrodružství.",
+          "href": "OEBPS/Text/don_quijote_043.xhtml#toc_marker-1-37"
+        }
+      ],
+      "href": "OEBPS/Text/don_quijote_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "KNIHA ČTVRTÁ",
+      "children": [
+        {
+          "title": "KAPITOLA XXXVI. o podivném a nevídaném dobrodružství dueni Doloridy, nazývané také hraběnkou Trojfaldovou, a o dopisu Sancha Panzy jeho manželce Tereze Sanchové.",
+          "href": "OEBPS/Text/don_quijote_046.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "KAPITOLA XXXVII., pokračující v slavném dobrodružství dueni Doloridy.",
+          "href": "OEBPS/Text/don_quijote_047.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "KAPITOLA XXXVIII., vypravující, co řekla o smutném svém příběhu dueňa Dolorida.",
+          "href": "OEBPS/Text/don_quijote_048.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "KAPITOLA XXXIX. o dalším průběhu úžasné a významné příhody paní Trojfaldové.",
+          "href": "OEBPS/Text/don_quijote_049.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "KAPITOLA XL. o věcech týkajících se této příhody a tohoto památného dobrodružství.",
+          "href": "OEBPS/Text/don_quijote_050.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "KAPITOLA XLI. o příchodu Clavileña a konci tohoto dlouhého dobrodružství.",
+          "href": "OEBPS/Text/don_quijote_051.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "KAPITOLA XLII. o tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i o jiných veledůležitých věcech.",
+          "href": "OEBPS/Text/don_quijote_052.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "KAPITOLA XLIII. o dalších radách, jež dal don Quijote Sanchu Panzovi.",
+          "href": "OEBPS/Text/don_quijote_053.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "KAPITOLA XLIV., jak se Sancho Panza stal vladařem a co podivného potkalo dona Quijota v zámku.",
+          "href": "OEBPS/Text/don_quijote_054.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "KAPITOLA XLV. o tom, jak se velký Sancho Panza ujal ostrova a jak počal vládnout.",
+          "href": "OEBPS/Text/don_quijote_055.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "KAPITOLA XLVI. o strašném úděsu zvonečkovém a kočičím, který zažil don Quijote za hovoru o vášni zamilované Altisidory.",
+          "href": "OEBPS/Text/don_quijote_056.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "KAPITOLA XLVII., kde je pokračováno o tom, jak si vedl Sancho Panza ve svém vladaření.",
+          "href": "OEBPS/Text/don_quijote_057.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "KAPITOLA XLVIII. o tom, co potkalo dona Quijota s paní Rodríguezovou, dueňou vévodkyně, a o jiných příhodách hodných zapsání a věčné paměti.",
+          "href": "OEBPS/Text/don_quijote_058.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "KAPITOLA XLIX. o tom, co se stalo Sanchu Panzovi při toulce ostrovem.",
+          "href": "OEBPS/Text/don_quijote_059.xhtml#toc_marker-2-14"
+        },
+        {
+          "title": "KAPITOLA L., kde se odkrývá, kdo byli čarodějové a katové, již natloukli dueně a poštípali a poškrábali dona Quijota, a vypráví o příhodách pážete, nesoucího psaní Tereze Panzové, ženě Sancha Panzy.",
+          "href": "OEBPS/Text/don_quijote_060.xhtml#toc_marker-2-15"
+        },
+        {
+          "title": "KAPITOLA LI. o dalším vladaření Sancha Panzy a jiných pěkných příhodách.",
+          "href": "OEBPS/Text/don_quijote_061.xhtml#toc_marker-2-16"
+        },
+        {
+          "title": "KAPITOLA LIL, kde se vypráví dobrodružství druhé dueni Doloridy či Angustiady, jinak paní Rodríguezové.",
+          "href": "OEBPS/Text/don_quijote_062.xhtml#toc_marker-2-17"
+        },
+        {
+          "title": "KAPITOLA LIII. o úmorném skoncování vladaření Sancha Panzy.",
+          "href": "OEBPS/Text/don_quijote_063.xhtml#toc_marker-2-18"
+        },
+        {
+          "title": "KAPITOLA LIV., která jedná o věcech této historie a žádné jiné.",
+          "href": "OEBPS/Text/don_quijote_064.xhtml#toc_marker-2-19"
+        },
+        {
+          "title": "KAPITOLA LV. o tom, co potkalo Sancha cestou, a jiných věcech, které stály za spatření.",
+          "href": "OEBPS/Text/don_quijote_065.xhtml#toc_marker-2-20"
+        },
+        {
+          "title": "KAPITOLA LVI. o neobyčejném a nevídaném boji mezi donem Quijotem de la Mancha a lokajem Tosílem na obranu dcery paní Rodríguezové, dueni.",
+          "href": "OEBPS/Text/don_quijote_066.xhtml#toc_marker-2-21"
+        },
+        {
+          "title": "KAPITOLA LVII. o tom, jak se don Quijote rozloučil s vévodou a co ho potkalo s chytrou a rozpustilou Altisidorou, komornou vévodkyně.",
+          "href": "OEBPS/Text/don_quijote_067.xhtml#toc_marker-2-22"
+        },
+        {
+          "title": "KAPITOLA LVIII. o tom, jak se sesypalo na dona Quijota tolik dobrodružství, že jedno pro druhé nemá místa.",
+          "href": "OEBPS/Text/don_quijote_068.xhtml#toc_marker-2-23"
+        },
+        {
+          "title": "KAPITOLA LIX., kde se vypráví o neobyčejné příhodě, již lze míti za dobrodružství, která potkala dona Quijota.",
+          "href": "OEBPS/Text/don_quijote_069.xhtml#toc_marker-2-24"
+        },
+        {
+          "title": "KAPITOLA LX., o tom, co se přihodilo donu Quijotovi cestou do Barcelony.",
+          "href": "OEBPS/Text/don_quijote_070.xhtml#toc_marker-2-25"
+        },
+        {
+          "title": "KAPITOLA LXI., o tom, co potkalo dona Quijota při vstupu do Barcelony, a o jiných věcech, spíše pravdivých než rozumných.",
+          "href": "OEBPS/Text/don_quijote_071.xhtml#toc_marker-2-26"
+        },
+        {
+          "title": "KAPITOLA LXII., jež jedná o dobrodružství čarovné hlavy a jiných dětinstvích, jež je dlužno vypovědět.",
+          "href": "OEBPS/Text/don_quijote_072.xhtml#toc_marker-2-27"
+        },
+        {
+          "title": "KAPITOLA LXIII. o nehodě Sancha Panzy při návštěvě galejí a novém dobrodružství krásné Maurky.",
+          "href": "OEBPS/Text/don_quijote_073.xhtml#toc_marker-2-28"
+        },
+        {
+          "title": "KAPITOLA LXIV., která jedná o dobrodružství, jež dona Quijota zarmoutilo nejvíce ze všech, která ho dosud byla potkala.",
+          "href": "OEBPS/Text/don_quijote_074.xhtml#toc_marker-2-29"
+        },
+        {
+          "title": "KAPITOLA LXV., kde je dáno poučení, kdo byl rytíř Bílého měsíce, a vypráví se o osvobození dona Gregoria i jiných událostech.",
+          "href": "OEBPS/Text/don_quijote_075.xhtml#toc_marker-2-30"
+        },
+        {
+          "title": "KAPITOLA LXVI., jež jedná o tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu.",
+          "href": "OEBPS/Text/don_quijote_076.xhtml#toc_marker-2-31"
+        },
+        {
+          "title": "KAPITOLA LXVII., o rozhodnutí dona Quijota stát se pastýřem a vést život venkovský, dokud neuplyne slíbený rok, a o jiných příhodách opravdu radostných a výborných.",
+          "href": "OEBPS/Text/don_quijote_077.xhtml#toc_marker-2-32"
+        },
+        {
+          "title": "KAPITOLA LXVIII. o sviním dobrodružství dona Quijota.",
+          "href": "OEBPS/Text/don_quijote_078.xhtml#toc_marker-2-33"
+        },
+        {
+          "title": "KAPITOLA LXIX. o nejzvláštnější a nejnezvyklejší příhodě, která v průběhu této velké historie dona Quijota potkala.",
+          "href": "OEBPS/Text/don_quijote_079.xhtml#toc_marker-2-34"
+        },
+        {
+          "title": "KAPITOLA LXX., která následuje za šedesátou devátou a jedná o věcech nutných k jasnosti této historie.",
+          "href": "OEBPS/Text/don_quijote_080.xhtml#toc_marker-2-35"
+        },
+        {
+          "title": "KAPITOLA LXXI. o tom, co potkalo dona Quijota a jeho zbrojnoše Sancha cestou domů.",
+          "href": "OEBPS/Text/don_quijote_081.xhtml#toc_marker-2-36"
+        },
+        {
+          "title": "KAPITOLA LXXII. o tom, jak don Quijote a Sancho dojeli do své vsi.",
+          "href": "OEBPS/Text/don_quijote_082.xhtml#toc_marker-2-37"
+        },
+        {
+          "title": "KAPITOLA LXXIII. o znameních, jež spatřil don Quijote při vstupu do své vsi, a jiných příbězích dodávajících této velké historii ozdobnosti a pravděpodobnosti.",
+          "href": "OEBPS/Text/don_quijote_083.xhtml#toc_marker-2-38"
+        },
+        {
+          "title": "KAPITOLA LXXIV. o onemocnění dona Quijota, jeho závěti a smrti.",
+          "href": "OEBPS/Text/don_quijote_084.xhtml#toc_marker-2-39"
+        }
+      ],
+      "href": "OEBPS/Text/don_quijote_044.xhtml#toc_marker-2"
+    }
+  ]
+}
