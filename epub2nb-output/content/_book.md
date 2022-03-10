@@ -1,0 +1,112 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: cs
+meta:
+  languageCode: cs
+  contentType: prose
+  title: Důmyslný rytíř Don Quijote de la Mancha II
+  identifier: urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691
+  author: Miguel de Cervantes Saavedra
+  publisher: Městská knihovna v Praze
+  modified: '2022-03-10T08:39:49.736Z'
+readingOrder:
+  - don_quijote_001.html
+  - don_quijote_002.html
+  - don_quijote_003.html
+  - don_quijote_004.html
+  - don_quijote_005.html
+  - don_quijote_006.html
+  - don_quijote_007.html
+  - don_quijote_008.html
+  - don_quijote_009.html
+  - don_quijote_010.html
+  - don_quijote_011.html
+  - don_quijote_012.html
+  - don_quijote_013.html
+  - don_quijote_014.html
+  - don_quijote_015.html
+  - don_quijote_016.html
+  - don_quijote_017.html
+  - don_quijote_018.html
+  - don_quijote_019.html
+  - don_quijote_020.html
+  - don_quijote_021.html
+  - don_quijote_022.html
+  - don_quijote_023.html
+  - don_quijote_024.html
+  - don_quijote_025.html
+  - don_quijote_026.html
+  - don_quijote_027.html
+  - don_quijote_028.html
+  - don_quijote_029.html
+  - don_quijote_030.html
+  - don_quijote_031.html
+  - don_quijote_032.html
+  - don_quijote_033.html
+  - don_quijote_034.html
+  - don_quijote_035.html
+  - don_quijote_036.html
+  - don_quijote_037.html
+  - don_quijote_038.html
+  - don_quijote_039.html
+  - don_quijote_040.html
+  - don_quijote_041.html
+  - don_quijote_042.html
+  - don_quijote_043.html
+  - don_quijote_044.html
+  - don_quijote_045.html
+  - don_quijote_046.html
+  - don_quijote_047.html
+  - don_quijote_048.html
+  - don_quijote_049.html
+  - don_quijote_050.html
+  - don_quijote_051.html
+  - don_quijote_052.html
+  - don_quijote_053.html
+  - don_quijote_054.html
+  - don_quijote_055.html
+  - don_quijote_056.html
+  - don_quijote_057.html
+  - don_quijote_058.html
+  - don_quijote_059.html
+  - don_quijote_060.html
+  - don_quijote_061.html
+  - don_quijote_062.html
+  - don_quijote_063.html
+  - don_quijote_064.html
+  - don_quijote_065.html
+  - don_quijote_066.html
+  - don_quijote_067.html
+  - don_quijote_068.html
+  - don_quijote_069.html
+  - don_quijote_070.html
+  - don_quijote_071.html
+  - don_quijote_072.html
+  - don_quijote_073.html
+  - don_quijote_074.html
+  - don_quijote_075.html
+  - don_quijote_076.html
+  - don_quijote_077.html
+  - don_quijote_078.html
+  - don_quijote_079.html
+  - don_quijote_080.html
+  - don_quijote_081.html
+  - don_quijote_082.html
+  - don_quijote_083.html
+  - don_quijote_084.html
+  - don_quijote_085.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---
