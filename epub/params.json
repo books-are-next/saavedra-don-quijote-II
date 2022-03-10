@@ -1,1 +1,1593 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Důmyslný rytíř Don Quijote de la Mancha II",
+      "identifier": "urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691",
+      "author": "Miguel de Cervantes Saavedra",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T08:39:49.736Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "don_quijote_001.md",
+            "xhtml": "don_quijote_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_002.md",
+            "xhtml": "don_quijote_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_003.md",
+            "xhtml": "don_quijote_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_004.md",
+            "xhtml": "don_quijote_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_005.md",
+            "xhtml": "don_quijote_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_006.md",
+            "xhtml": "don_quijote_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_007.md",
+            "xhtml": "don_quijote_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_008.md",
+            "xhtml": "don_quijote_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_009.md",
+            "xhtml": "don_quijote_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_010.md",
+            "xhtml": "don_quijote_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_011.md",
+            "xhtml": "don_quijote_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_012.md",
+            "xhtml": "don_quijote_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_013.md",
+            "xhtml": "don_quijote_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_014.md",
+            "xhtml": "don_quijote_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_015.md",
+            "xhtml": "don_quijote_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_016.md",
+            "xhtml": "don_quijote_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_017.md",
+            "xhtml": "don_quijote_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_018.md",
+            "xhtml": "don_quijote_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_019.md",
+            "xhtml": "don_quijote_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_020.md",
+            "xhtml": "don_quijote_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_021.md",
+            "xhtml": "don_quijote_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_022.md",
+            "xhtml": "don_quijote_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_023.md",
+            "xhtml": "don_quijote_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_024.md",
+            "xhtml": "don_quijote_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_025.md",
+            "xhtml": "don_quijote_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_026.md",
+            "xhtml": "don_quijote_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_027.md",
+            "xhtml": "don_quijote_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_028.md",
+            "xhtml": "don_quijote_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_029.md",
+            "xhtml": "don_quijote_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_030.md",
+            "xhtml": "don_quijote_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_031.md",
+            "xhtml": "don_quijote_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_032.md",
+            "xhtml": "don_quijote_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_033.md",
+            "xhtml": "don_quijote_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_034.md",
+            "xhtml": "don_quijote_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_035.md",
+            "xhtml": "don_quijote_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_036.md",
+            "xhtml": "don_quijote_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_037.md",
+            "xhtml": "don_quijote_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_038.md",
+            "xhtml": "don_quijote_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_039.md",
+            "xhtml": "don_quijote_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_040.md",
+            "xhtml": "don_quijote_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_041.md",
+            "xhtml": "don_quijote_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_042.md",
+            "xhtml": "don_quijote_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_043.md",
+            "xhtml": "don_quijote_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_044.md",
+            "xhtml": "don_quijote_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_045.md",
+            "xhtml": "don_quijote_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_046.md",
+            "xhtml": "don_quijote_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_047.md",
+            "xhtml": "don_quijote_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_048.md",
+            "xhtml": "don_quijote_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_049.md",
+            "xhtml": "don_quijote_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_050.md",
+            "xhtml": "don_quijote_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_051.md",
+            "xhtml": "don_quijote_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_052.md",
+            "xhtml": "don_quijote_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_053.md",
+            "xhtml": "don_quijote_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_054.md",
+            "xhtml": "don_quijote_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_055.md",
+            "xhtml": "don_quijote_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_056.md",
+            "xhtml": "don_quijote_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_057.md",
+            "xhtml": "don_quijote_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_058.md",
+            "xhtml": "don_quijote_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_059.md",
+            "xhtml": "don_quijote_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_060.md",
+            "xhtml": "don_quijote_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_061.md",
+            "xhtml": "don_quijote_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_062.md",
+            "xhtml": "don_quijote_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_063.md",
+            "xhtml": "don_quijote_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_064.md",
+            "xhtml": "don_quijote_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_065.md",
+            "xhtml": "don_quijote_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_066.md",
+            "xhtml": "don_quijote_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_067.md",
+            "xhtml": "don_quijote_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_068.md",
+            "xhtml": "don_quijote_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_069.md",
+            "xhtml": "don_quijote_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_070.md",
+            "xhtml": "don_quijote_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_071.md",
+            "xhtml": "don_quijote_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_072.md",
+            "xhtml": "don_quijote_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_073.md",
+            "xhtml": "don_quijote_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_074.md",
+            "xhtml": "don_quijote_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_075.md",
+            "xhtml": "don_quijote_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_076.md",
+            "xhtml": "don_quijote_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_077.md",
+            "xhtml": "don_quijote_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_078.md",
+            "xhtml": "don_quijote_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_079.md",
+            "xhtml": "don_quijote_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_080.md",
+            "xhtml": "don_quijote_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_081.md",
+            "xhtml": "don_quijote_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_082.md",
+            "xhtml": "don_quijote_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_083.md",
+            "xhtml": "don_quijote_083.xhtml",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_084.md",
+            "xhtml": "don_quijote_084.xhtml",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "don_quijote_085.md",
+            "xhtml": "don_quijote_085.xhtml",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Důmyslný rytíř Don Quijote de la Mancha II",
+      "identifier": "urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691",
+      "author": "Miguel de Cervantes Saavedra",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T08:39:49.736Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_001.md",
+        "xhtml": "don_quijote_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_002.md",
+        "xhtml": "don_quijote_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_003.md",
+        "xhtml": "don_quijote_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_004.md",
+        "xhtml": "don_quijote_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_005.md",
+        "xhtml": "don_quijote_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_006.md",
+        "xhtml": "don_quijote_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_007.md",
+        "xhtml": "don_quijote_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_008.md",
+        "xhtml": "don_quijote_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_009.md",
+        "xhtml": "don_quijote_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_010.md",
+        "xhtml": "don_quijote_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_011.md",
+        "xhtml": "don_quijote_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_012.md",
+        "xhtml": "don_quijote_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_013.md",
+        "xhtml": "don_quijote_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_014.md",
+        "xhtml": "don_quijote_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_015.md",
+        "xhtml": "don_quijote_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_016.md",
+        "xhtml": "don_quijote_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_017.md",
+        "xhtml": "don_quijote_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_018.md",
+        "xhtml": "don_quijote_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_019.md",
+        "xhtml": "don_quijote_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_020.md",
+        "xhtml": "don_quijote_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_021.md",
+        "xhtml": "don_quijote_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_022.md",
+        "xhtml": "don_quijote_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_023.md",
+        "xhtml": "don_quijote_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_024.md",
+        "xhtml": "don_quijote_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_025.md",
+        "xhtml": "don_quijote_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_026.md",
+        "xhtml": "don_quijote_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_027.md",
+        "xhtml": "don_quijote_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_028.md",
+        "xhtml": "don_quijote_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_029.md",
+        "xhtml": "don_quijote_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_030.md",
+        "xhtml": "don_quijote_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_031.md",
+        "xhtml": "don_quijote_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_032.md",
+        "xhtml": "don_quijote_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_033.md",
+        "xhtml": "don_quijote_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_034.md",
+        "xhtml": "don_quijote_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_035.md",
+        "xhtml": "don_quijote_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_036.md",
+        "xhtml": "don_quijote_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_037.md",
+        "xhtml": "don_quijote_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_038.md",
+        "xhtml": "don_quijote_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_039.md",
+        "xhtml": "don_quijote_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_040.md",
+        "xhtml": "don_quijote_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_041.md",
+        "xhtml": "don_quijote_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_042.md",
+        "xhtml": "don_quijote_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_043.md",
+        "xhtml": "don_quijote_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_044.md",
+        "xhtml": "don_quijote_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_045.md",
+        "xhtml": "don_quijote_045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_046.md",
+        "xhtml": "don_quijote_046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_047.md",
+        "xhtml": "don_quijote_047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_048.md",
+        "xhtml": "don_quijote_048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_049.md",
+        "xhtml": "don_quijote_049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_050.md",
+        "xhtml": "don_quijote_050.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_051.md",
+        "xhtml": "don_quijote_051.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_052.md",
+        "xhtml": "don_quijote_052.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_053.md",
+        "xhtml": "don_quijote_053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_054.md",
+        "xhtml": "don_quijote_054.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_055.md",
+        "xhtml": "don_quijote_055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_056.md",
+        "xhtml": "don_quijote_056.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_057.md",
+        "xhtml": "don_quijote_057.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_058.md",
+        "xhtml": "don_quijote_058.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_059.md",
+        "xhtml": "don_quijote_059.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_060.md",
+        "xhtml": "don_quijote_060.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_061.md",
+        "xhtml": "don_quijote_061.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_062.md",
+        "xhtml": "don_quijote_062.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_063.md",
+        "xhtml": "don_quijote_063.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_064.md",
+        "xhtml": "don_quijote_064.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_065.md",
+        "xhtml": "don_quijote_065.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_066.md",
+        "xhtml": "don_quijote_066.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_067.md",
+        "xhtml": "don_quijote_067.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_068.md",
+        "xhtml": "don_quijote_068.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_069.md",
+        "xhtml": "don_quijote_069.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_070.md",
+        "xhtml": "don_quijote_070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_071.md",
+        "xhtml": "don_quijote_071.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_072.md",
+        "xhtml": "don_quijote_072.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_073.md",
+        "xhtml": "don_quijote_073.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_074.md",
+        "xhtml": "don_quijote_074.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_075.md",
+        "xhtml": "don_quijote_075.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_076.md",
+        "xhtml": "don_quijote_076.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_077.md",
+        "xhtml": "don_quijote_077.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_078.md",
+        "xhtml": "don_quijote_078.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_079.md",
+        "xhtml": "don_quijote_079.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_080.md",
+        "xhtml": "don_quijote_080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_081.md",
+        "xhtml": "don_quijote_081.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_082.md",
+        "xhtml": "don_quijote_082.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_083.md",
+        "xhtml": "don_quijote_083.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_084.md",
+        "xhtml": "don_quijote_084.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "don_quijote_085.md",
+        "xhtml": "don_quijote_085.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/don_quijot_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_don_quijote_ii_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr1.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr2.jpg"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-podpis",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-doprava--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven1-cast",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-tucna-kurziva-11b",
+      "MLP-znak-tucne",
+      "char-style-override-1",
+      "char-style-override-10",
+      "char-style-override-11",
+      "char-style-override-12",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "char-style-override-6",
+      "char-style-override-7",
+      "char-style-override-8",
+      "char-style-override-9",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-4",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6",
+      "para-style-override-7"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "saavedra-don-quijote-II"
+    },
+    "generatedAt": 1646901590493
+  }
+}
