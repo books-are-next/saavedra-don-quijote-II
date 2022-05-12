@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXI.,o\_tom, co potkalo dona Quijota při vstupu do Barcelony, a\_o\_jiných věcech, spíše pravdivých než rozumných."
+title: "KAPITOLA LXI\\.,o\_tom, co potkalo dona Quijota při vstupu do Barcelony, a\_o\_jiných věcech, spíše pravdivých než rozumných\\."
 contentType: prose
 ---
 

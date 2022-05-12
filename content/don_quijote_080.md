@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXX.,která následuje za šedesátou devátou a\_jedná o\_věcech nutných k\_jasnosti této historie."
+title: "KAPITOLA LXX\\.,která následuje za šedesátou devátou a\_jedná o\_věcech nutných k\_jasnosti této historie\\."
 contentType: prose
 ---
 

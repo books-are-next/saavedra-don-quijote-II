@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XLVIII.o\_tom, co potkalo dona Quijota s\_paní Rodríguezovou, dueňou vévodkyně, a\_o\_jiných příhodách hodných zapsání a\_věčné paměti."
+title: "KAPITOLA XLVIII\\.o\_tom, co potkalo dona Quijota s\_paní Rodríguezovou, dueňou vévodkyně, a\_o\_jiných příhodách hodných zapsání a\_věčné paměti\\."
 contentType: prose
 ---
 

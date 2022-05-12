@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXIX.o\_dalším průběhu úžasné a\_významné příhody paní Trojfaldové."
+title: "KAPITOLA XXXIX\\.o\_dalším průběhu úžasné a\_významné příhody paní Trojfaldové\\."
 contentType: prose
 ---
 

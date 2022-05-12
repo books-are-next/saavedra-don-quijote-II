@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXV.,kde se přesně vypráví o\_dobrodružství s\_hýkáním, o\_půvabnosti loutkářově a\_skvělých výpovědích věštící opice."
+title: "KAPITOLA XXV\\.,kde se přesně vypráví o\_dobrodružství s\_hýkáním, o\_půvabnosti loutkářově a\_skvělých výpovědích věštící opice\\."
 contentType: prose
 ---
 

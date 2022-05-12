@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA III.,v\_níž se vypravuje o\_směšném uvažování dona Quijota, Sancha\_Panzy a\_bakaláře Sansona Carrasca."
+title: "KAPITOLA III\\.,v\_níž se vypravuje o\_směšném uvažování dona Quijota, Sancha\_Panzy a\_bakaláře Sansona Carrasca\\."
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA IX.,ve které se vypravuje, čeho se v\_ní dovíme."
+title: "KAPITOLA IX\\.,ve které se vypravuje, čeho se v\_ní dovíme\\."
 contentType: prose
 ---
 

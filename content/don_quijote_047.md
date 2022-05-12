@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXVII.,pokračující v\_slavném dobrodružství dueni Doloridy."
+title: "KAPITOLA XXXVII\\.,pokračující v\_slavném dobrodružství dueni Doloridy\\."
 contentType: prose
 ---
 

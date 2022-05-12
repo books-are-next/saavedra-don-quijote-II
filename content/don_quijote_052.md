@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XLII.o\_tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i\_o\_jiných veledůležitých věcech."
+title: "KAPITOLA XLII\\.o\_tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i\_o\_jiných veledůležitých věcech\\."
 contentType: prose
 ---
 

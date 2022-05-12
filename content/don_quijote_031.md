@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXIII.o neuvěřitelných věcech, které výborný don Quijote spatřil v\_hluboké propasti Montesínově a\_jež pro svou nemožnost a\_úžasnost uvádějí v\_podezření z\_nepravdivosti tuto kapitolu."
+title: "KAPITOLA XXIII\\.o neuvěřitelných věcech, které výborný don Quijote spatřil v\_hluboké propasti Montesínově a\_jež pro svou nemožnost a\_úžasnost uvádějí v\_podezření z\_nepravdivosti tuto kapitolu\\."
 contentType: prose
 ---
 

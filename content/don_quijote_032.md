@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXIV.,vyprávějící tisíc hloupostí stejně nepatrných jako nutných k\_pochopení této znamenité historie."
+title: "KAPITOLA XXIV\\.,vyprávějící tisíc hloupostí stejně nepatrných jako nutných k\_pochopení této znamenité historie\\."
 contentType: prose
 ---
 

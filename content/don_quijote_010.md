@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA II.,ve které se vypráví o\_pozoruhodném sporu Sancha Panzy s\_neteří a\_hospodyní dona Quijota a\_o\_jiných zajímavých událostech."
+title: "KAPITOLA II\\.,ve které se vypráví o\_pozoruhodném sporu Sancha Panzy s\_neteří a\_hospodyní dona Quijota a\_o\_jiných zajímavých událostech\\."
 contentType: prose
 ---
 

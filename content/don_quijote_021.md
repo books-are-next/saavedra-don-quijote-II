@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XIII.,pokračující o\_dobrodružství Lesního rytíře a\_rozumné, nové a\_milé rozmluvě zbrojnošů."
+title: "KAPITOLA XIII\\.,pokračující o\_dobrodružství Lesního rytíře a\_rozumné, nové a\_milé rozmluvě zbrojnošů\\."
 contentType: prose
 ---
 

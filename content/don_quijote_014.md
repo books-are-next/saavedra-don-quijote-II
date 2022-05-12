@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA VI.,vyprávějící o\_příhodě dona Quijota, jeho neteře a\_hospodyně, jedna z\_nejhlavnějších kapitol celého vyprávění."
+title: "KAPITOLA VI\\.,vyprávějící o\_příhodě dona Quijota, jeho neteře a\_hospodyně, jedna z\_nejhlavnějších kapitol celého vyprávění\\."
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: KAPITOLA LIII.o úmorném skoncování vladaření Sancha Panzy.
+title: KAPITOLA LIII\.o úmorném skoncování vladaření Sancha Panzy\.
 contentType: prose
 ---
 

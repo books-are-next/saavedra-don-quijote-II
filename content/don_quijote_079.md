@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXIX.o\_nejzvláštnější a\_nejnezvyklejší příhodě, která v\_průběhu této velké historie dona Quijota potkala."
+title: "KAPITOLA LXIX\\.o\_nejzvláštnější a\_nejnezvyklejší příhodě, která v\_průběhu této velké historie dona Quijota potkala\\."
 contentType: prose
 ---
 

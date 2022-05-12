@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXVIII.,o\_které Benengeli tvrdí, že věci v\_ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně."
+title: "KAPITOLA XXVIII\\.,o\_které Benengeli tvrdí, že věci v\_ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně\\."
 contentType: prose
 ---
 

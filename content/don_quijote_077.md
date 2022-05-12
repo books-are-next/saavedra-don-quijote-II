@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXVII.,o\_rozhodnutí dona Quijota stát se pastýřem a\_vést život venkovský, dokud neuplyne slíbený rok, a\_o\_jiných příhodách opravdu radostných a\_výborných."
+title: "KAPITOLA LXVII\\.,o\_rozhodnutí dona Quijota stát se pastýřem a\_vést život venkovský, dokud neuplyne slíbený rok, a\_o\_jiných příhodách opravdu radostných a\_výborných\\."
 contentType: prose
 ---
 

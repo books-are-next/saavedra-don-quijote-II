@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXI., líčící dále svatbu Camachovu a\_jiné výborné události."
+title: "KAPITOLA XXI\\., líčící dále svatbu Camachovu a\_jiné výborné události\\."
 contentType: prose
 ---
 

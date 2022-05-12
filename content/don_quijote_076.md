@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXVI.,jež jedná o\_tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu."
+title: "KAPITOLA LXVI\\.,jež jedná o\_tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu\\."
 contentType: prose
 ---
 

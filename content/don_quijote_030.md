@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXII.,kde se líčí nádherné dobrodružství v\_jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se\_zdarem ukončil."
+title: "KAPITOLA XXII\\.,kde se líčí nádherné dobrodružství v\_jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se\_zdarem ukončil\\."
 contentType: prose
 ---
 
