@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XVII.,jež líčí nejzazší mez, k\_níž došla a\_mohla dojít neslýchaná statečnost dona Quijota v\_dobrodružství se lvy, které mělo šťastný konec."
+title: "KAPITOLA XVII\\.,jež líčí nejzazší mez, k\_níž došla a\_mohla dojít neslýchaná statečnost dona Quijota v\_dobrodružství se lvy, které mělo šťastný konec\\."
 contentType: prose
 ---
 

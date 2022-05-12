@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXXII.o\_tom, jak don Quijote a\_Sancho dojeli do své vsi."
+title: "KAPITOLA LXXII\\.o\_tom, jak don Quijote a\_Sancho dojeli do své vsi\\."
 contentType: prose
 ---
 

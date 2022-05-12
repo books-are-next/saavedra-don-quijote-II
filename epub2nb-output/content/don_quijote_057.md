@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XLVII.,kde je pokračováno o\_tom, jak si vedl Sancho Panza ve svém vladaření."
+title: "KAPITOLA XLVII\\.,kde je pokračováno o\_tom, jak si vedl Sancho Panza ve svém vladaření\\."
 contentType: prose
 ---
 

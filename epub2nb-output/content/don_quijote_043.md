@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXV.,co dalšího se don Quijote dověděl o\_tom, jak vysvobodit Dulcineu, a\_jiná zajímavá dobrodružství."
+title: "KAPITOLA XXXV\\.,co dalšího se don Quijote dověděl o\_tom, jak vysvobodit Dulcineu, a\_jiná zajímavá dobrodružství\\."
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XX.,kde se vypráví o\_svatbě bohatého Camacha a\_o\_příběhu chudého Basilia."
+title: "KAPITOLA XX\\.,kde se vypráví o\_svatbě bohatého Camacha a\_o\_příběhu chudého Basilia\\."
 contentType: prose
 ---
 

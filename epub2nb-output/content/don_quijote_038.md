@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXX.o\_příhodě dona Quijota u\_půvabné lovkyně."
+title: "KAPITOLA XXX\\.o\_příhodě dona Quijota u\_půvabné lovkyně\\."
 contentType: prose
 ---
 

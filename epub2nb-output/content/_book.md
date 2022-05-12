@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-10T08:39:49.736Z'
 readingOrder:
   - don_quijote_001.html
-  - don_quijote_002.html
+  - promo.html
   - don_quijote_003.html
   - don_quijote_004.html
   - don_quijote_005.html

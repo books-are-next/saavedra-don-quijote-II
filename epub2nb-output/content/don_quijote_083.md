@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXXIII.o\_znameních, jež spatřil don Quijote při vstupu do své vsi, a\_jiných příbězích dodávajících této velké historii ozdobnosti a\_pravděpodobnosti."
+title: "KAPITOLA LXXIII\\.o\_znameních, jež spatřil don Quijote při vstupu do své vsi, a\_jiných příbězích dodávajících této velké historii ozdobnosti a\_pravděpodobnosti\\."
 contentType: prose
 ---
 

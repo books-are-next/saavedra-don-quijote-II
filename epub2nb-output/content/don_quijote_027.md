@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XIX.o\_příběhu zamilovaného pastýře a\_o\_jiných opravdu pěkných příhodách."
+title: "KAPITOLA XIX\\.o\_příběhu zamilovaného pastýře a\_o\_jiných opravdu pěkných příhodách\\."
 contentType: prose
 ---
 

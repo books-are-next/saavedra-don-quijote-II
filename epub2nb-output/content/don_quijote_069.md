@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LIX.,kde se vypráví o\_neobyčejné příhodě, již lze míti za\_dobrodružství, která potkala dona Quijota."
+title: "KAPITOLA LIX\\.,kde se vypráví o\_neobyčejné příhodě, již lze míti za\_dobrodružství, která potkala dona Quijota\\."
 contentType: prose
 ---
 

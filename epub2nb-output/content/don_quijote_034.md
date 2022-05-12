@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXVI., pokračující v\_půvabném dobrodružství loutkáře a\_vypravující jiné opravdu zajímavé věci."
+title: "KAPITOLA XXVI\\., pokračující v\_půvabném dobrodružství loutkáře a\_vypravující jiné opravdu zajímavé věci\\."
 contentType: prose
 ---
 

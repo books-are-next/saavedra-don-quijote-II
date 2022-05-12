@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXIV., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z\_Tobosa, což je jedna z\_nejkrásnějších příhod celé historie."
+title: "KAPITOLA XXXIV\\., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z\_Tobosa, což je jedna z\_nejkrásnějších příhod celé historie\\."
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXXI.o\_tom, co potkalo dona Quijota a\_jeho zbrojnoše Sancha cestou\_domů."
+title: "KAPITOLA LXXI\\.o\_tom, co potkalo dona Quijota a\_jeho zbrojnoše Sancha cestou\_domů\\."
 contentType: prose
 ---
 

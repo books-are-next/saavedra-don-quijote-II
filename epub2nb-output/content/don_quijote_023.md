@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XV.,objasňující původ Zrcadlového rytíře a\_jeho zbrojnoše."
+title: "KAPITOLA XV\\.,objasňující původ Zrcadlového rytíře a\_jeho zbrojnoše\\."
 contentType: prose
 ---
 

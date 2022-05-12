@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXII.,zaznamenávající odpověď dona Quijota kazateli a\_jiné vážné a\_veselé příběhy."
+title: "KAPITOLA XXXII\\.,zaznamenávající odpověď dona Quijota kazateli a\_jiné vážné a\_veselé příběhy\\."
 contentType: prose
 ---
 

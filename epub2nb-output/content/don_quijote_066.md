@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LVI.o\_neobyčejném a\_nevídaném boji mezi donem Quijotem de la Mancha a\_lokajem Tosílem na obranu dcery paní Rodríguezové, dueni."
+title: "KAPITOLA LVI\\.o\_neobyčejném a\_nevídaném boji mezi donem Quijotem de la Mancha a\_lokajem Tosílem na obranu dcery paní Rodríguezové, dueni\\."
 contentType: prose
 ---
 

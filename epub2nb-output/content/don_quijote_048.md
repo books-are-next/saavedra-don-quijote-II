@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXVIII.,vypravující, co řekla o\_smutném svém příběhu dueňa Dolorida."
+title: "KAPITOLA XXXVIII\\.,vypravující, co řekla o\_smutném svém příběhu dueňa Dolorida\\."
 contentType: prose
 ---
 

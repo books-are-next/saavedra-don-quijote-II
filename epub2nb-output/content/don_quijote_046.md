@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXVI.o\_podivném a\_nevídaném dobrodružství dueni Doloridy, nazývané také hraběnkou Trojfaldovou, a\_o\_dopisu Sancha Panzy jeho manželce Tereze Sanchové."
+title: "KAPITOLA XXXVI\\.o\_podivném a\_nevídaném dobrodružství dueni Doloridy, nazývané také hraběnkou Trojfaldovou, a\_o\_dopisu Sancha Panzy jeho manželce Tereze Sanchové\\."
 contentType: prose
 ---
 

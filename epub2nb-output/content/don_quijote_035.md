@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXVII.,kde se vypráví, kdo byl mistr Pedro a\_jeho opice a\_jaká nehoda stihla dona Quijota v\_hýkavém dobrodružství, které neskončilo, jak by si byl přál a\_jak myslil."
+title: "KAPITOLA XXVII\\.,kde se vypráví, kdo byl mistr Pedro a\_jeho opice a\_jaká nehoda stihla dona Quijota v\_hýkavém dobrodružství, které neskončilo, jak by si byl přál a\_jak myslil\\."
 contentType: prose
 ---
 

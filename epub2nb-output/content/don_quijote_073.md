@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXIII.o nehodě Sancha Panzy při návštěvě galejí a\_novém dobrodružství krásné Maurky."
+title: "KAPITOLA LXIII\\.o nehodě Sancha Panzy při návštěvě galejí a\_novém dobrodružství krásné Maurky\\."
 contentType: prose
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: KAPITOLA XXIX.,líčící slavné dobrodružství začarovaného člunu.
+title: KAPITOLA XXIX\.,líčící slavné dobrodružství začarovaného člunu\.
 contentType: prose
 ---
 

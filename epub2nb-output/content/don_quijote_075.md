@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXV.,kde je dáno poučení, kdo byl rytíř Bílého měsíce, a\_vypráví se o\_osvobození dona Gregoria i\_jiných událostech."
+title: "KAPITOLA LXV\\.,kde je dáno poučení, kdo byl rytíř Bílého měsíce, a\_vypráví se o\_osvobození dona Gregoria i\_jiných událostech\\."
 contentType: prose
 ---
 

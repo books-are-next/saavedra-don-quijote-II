@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA XXXI.o\_mnohých významných věcech."
+title: "KAPITOLA XXXI\\.o\_mnohých významných věcech\\."
 contentType: prose
 ---
 

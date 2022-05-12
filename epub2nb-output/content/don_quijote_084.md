@@ -1,5 +1,5 @@
 ---
-title: "KAPITOLA LXXIV.o\_onemocnění dona Quijota, jeho závěti a\_smrti."
+title: "KAPITOLA LXXIV\\.o\_onemocnění dona Quijota, jeho závěti a\_smrti\\."
 contentType: prose
 ---
 
