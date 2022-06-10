@@ -5,8 +5,6 @@ title: >-
 contentType: prose
 ---
 
-  
-
 Cide Hamete vypravuje, že, když se don Quijote uzdravil ze svých škrábů, pomyslil si, že život na zámku je proti všem zákonům rytířství, jež vyznával, a že se rozhodl požádat vévody o dovolení k odjezdu do Zaragozy, kde se blížila doba slavností; tam doufal vydobýt si brnění, které se na takových slavnostech získává. A když byl jednoho dne u stolu vévodského a počínal už obracet v skutek svůj úmysl a žádat o dovolení, náhle vstoupily dveřmi do síně dvě ženy (jak se ukázalo) v smutku od hlavy k patě a jedna z nich přistoupivši k donu Quijotovi padla mu k nohám jak dlouhá, tak široká, ústa přitiskla k jeho nohám a jala se plakat tak srdcervoucně, opravdově a bolestně, že zmátla všechny poslouchající diváky; ačkoliv se vévodové domnívali, že běží o nějaký žert osnovaný služebnictvem donu Quijotovi, přece jen, vidouce sílu vzdechů, nářku a pláče ženina, byli na pochybách a v napětí, až milosrdný don Quijote ženu pozvedl ze země a pobídl ji sejmouti závoj z uplakané tváře.
 
 Ona poslechla a objevilo se, že je osobou, na kterou by nikdo nebyl pomyslil: pod závojem se totiž ukázal obličej paní Rodríguezové, dueni z toho domu sama; druhá žena ve smutku byla její dcerou, podvedenou synem bohatého sedláka. Všichni, kdo ji znali, byli ohromeni a vévodové víc než všichni ostatní, neboť ač ji měli za omezenou a přihlouplou, nemyslili, že by se mohla zbláznit. Nakonec se paní Rodríguezová obrátila k pánům a pravila:
@@ -33,6 +31,8 @@ Pak sundav rukavici vhodil ji doprostřed síně a vévoda ji zvedl, řka, že,
 
 Aby byla zábavnost dovršena a konec jídla dokonalý, vstoupil náhle do síně panoš, který donesl psaní a dary Tereze Panzové, ženě vladaře Sancha Panzy; jeho příchod naplnil radostí vévody, toužící zvědět, co ho cestou potkalo; na jejich dotaz panoš odpověděl, že to nelze vypovědět ani před veřejností, ani krátce, aby jejich Excelence ráčily posečkat do soukromí a zatím se pobavily těmito dopisy. Vytáhnuv dva odevzdal je do rukou vévodkyně: jeden nesl v záhlaví: „Psaní pro paní vévodkyni tu a tu, nevím odkud“, a druhý: „Psaní pro mého muže Sancha Panzu, vladaře ostrova Baratarie, jemuž Bůh popřej delšího věku než mně“. Vévodkyně, jak se říká, hořela, dokud nepřečtla psaní: otevřela je, přečetla pro sebe, a vidouc, že je lze číst nahlas, aby i vévoda a přítomní slyšeli, učinila tak řkouc:
 
+  
+
 „Dopis Terezy Panzové vévodkyni:
 
 ‚Velmi mě potěšilo, moje paní, psaní, jež mi Vaše Výsost poslala, neboť jsem si ho vskutku velmi přála. Šňůra korálů je velmi pěkná a lovecký šat mého muže není o nic horší. Celá naše vesnice má velkou radost, že Vaše Milost udělala vladařem mého manžela Sancha, ale nikdo tomu nevěří, zvláště ne farář, pan Mikuláš, holič a bakalář Sanson Carrasco. Ale mně to nevadí; pro to věc ještě pravdou zůstane a každý ať si říká, co chce, ačkoliv, abych mluvila pravdu, kdyby nepřišly korály a šaty, také bych tomu nevěřila: u nás ve vsi všichni mají mého muže za hlupáka a nemohou pochopit, k jakému vladařství se to může hodit, když předtím vládl jen stádu koz. Pánu Bohu poručeno, ať ten vše řídí, jak uzná, neboť toho mají jeho děti potřebí.
@@ -46,6 +46,8 @@ Ta, jež si více přeje vidět Vaši Milost než jí psát,
 Tereza Panzová.‘“
 
 Všichni s náramnou chutí vyslechli psaní Terezy Panzové, zvláště vévodové, a vévodkyně tázala se dona Quijota, nebylo-li by dobře otevřít psaní určené vladaři, jež prý jistě bude výborné. Don Quijote odpověděl, že je otevře, aby se jim zavděčil, učinil tak a viděl, že je psáno takto:
+
+  
 
 „Dopis Terezy Panzové jejímu muži Sanchu Panzovi:
 

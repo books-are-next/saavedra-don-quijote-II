@@ -3,8 +3,6 @@ title: "KAPITOLA IX\\.,ve které se vypravuje, čeho se v\_ní dovíme\\."
 contentType: prose
 ---
 
-  
-
 Blížila se již půlnoc. Don Quijote a Sancho opustivše dubový lesík dostihli Tobosa. Všude bylo ticho a klid, neboť skoro všichni obyvatelé spali jako zabití. Noc byla jasná, ačkoliv si Sancho přál, aby byla tma, ve které by snad nalezl výmluvu své nevědomosti. V obci se ozýval jen štěkot psů, který úplně ohlušoval sluch dona Quijota a úplně zastrašoval odvahu Sanchovu. Časem zahýkal osel, ozvali se vepři, zakňouraly kočky a tyto různé zvuky rostly v nočním tichu; to vše zamilovaný rytíř pokládal za zlé znamení. Přesto řekl Sanchovi:
 
 „Můj synu, ukaž mi palác Dulcinein, snad bude ještě bdíti.“

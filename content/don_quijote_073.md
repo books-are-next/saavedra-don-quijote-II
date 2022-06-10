@@ -3,8 +3,6 @@ title: "KAPITOLA LXIII\\.o nehodě Sancha Panzy při návštěvě galejí a\_nov
 contentType: prose
 ---
 
-  
-
 Nemálo don Quijote rozmýšlel o odpovědi čarovné hlavy, ale nepřišel vůbec na její šalebnost a jeho myšlenky končily vždy slibem, proň zajištěným, že Dulcinea bude osvobozena. Chodil sem a tam a radoval se sám u sebe, spoléhaje, že brzo uvidí vyplnění. Sancho, ačkoliv pojal v ošklivost povolání vladařské, jak bylo řečeno, přece jen si přál znovu někomu rozkazovat a být poslouchán. Neboť toto neštěstí s sebou rozkazování přináší, i když se děje žertem.
 
 Zkrátka, toho odpoledne don Antonio Moreno, jeho hostitel, jeho dva přátelé, don Quijote a Sancho odešli na galeje. Velitel, zpraven o jejich návštěvě, byl zvědav na oba pověstné muže, dona Quijota i Sancha, a jakmile se objevili na nábřeží, všechny galeje strhly stanové pokrývky a zazněly trubky; potom spustili na vodu člun, pokrytý bohatými koberci a polštáři z karmínového aksamitu, a když do něho don Quijote vkročil, velitelská loď vypálila z děla na svém boku a ostatní galeje taktéž; když pak don Quijote vystupoval po pravém žebříku, všechna posádka, jakož je zvykem, když vznešená osoba vystupuje na galej, jej pozdravila volajíc: „Hu, hu, hu“ třikrát. Generál – takto jej budeme nazývat –, jenž byl vznešeným šlechticem valencijským, podal mu ruku, pak objal dona Quijota a řekl mu:

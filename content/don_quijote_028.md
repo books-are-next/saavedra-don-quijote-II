@@ -3,8 +3,6 @@ title: "KAPITOLA XX\\.,kde se vypráví o\_svatbě bohatého Camacha a\_o\_pří
 contentType: prose
 ---
 
-  
-
 Sotva jasná jitřenka dovolila zářícímu Phoebovi, aby osušil svými horkými paprsky vodní perly na jejích zlatých vlasech, don Quijote čile vstal a zavolal zbrojnoše Sancha, který dosud chrápal. Zpozorovav to don Quijote řekl, dříve než jej vzbudil:
 
 „Šťastný jsi nade všechny lidi, žijící na světě; nezávidíš, není ti záviděno a spíš klidně, kouzelníci tě nestíhají a nestraší tě kouzla! Spi, pravím znovu a opakuji tisíckrát, neboť ti nevadí v spánku žárlivost tvé dámy, ani tě neprobouzejí myšlenky na splacení dluhů, netrápí tě pomyšlení, co budeš zítra jísti ty i tvoje hladová rodina, ani tě nezneklidňuje ctižádost ani netýrá lichý světský přepych, neboť tvé touhy končí starostmi o tvého osla, kdežto péče o sebe jsi ponechal mně. To jest starost a tíha daná přírodou i zvyklostí všem pánům. Sluha spí, zatímco pán bdí a přemýšlí o jeho blahu a o tom, jak mu službu zpříjemniti. Když nebe je z kovu a odpírá nutné zemi vláhy, netrápí to sluhu, ale pána, který musí živiti sluhu, i když je hlad a neúroda, poněvadž sluha mu sloužil, když byl dostatek a hojnost.“

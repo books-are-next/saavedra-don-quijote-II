@@ -3,8 +3,6 @@ title: "KAPITOLA I\\.,jak farář a\_holič rozmlouvali s\_donem Quijotem o\_jeh
 contentType: prose
 ---
 
-  
-
 V druhém díle tohoto vyprávění Cide Hamete Benengeli mluví o třetí výpravě dona Quijota, jehož farář a holič skoro celý měsíc nenavštívili, nechtějíce obnoviti vzpomínek na minulé události; jeho neteř a hospodyni navštěvovali však stále, kladouce jim na srdce, aby se o něho pečlivě staraly a dávaly mu stravu vydatnou a zdravou jeho srdci i mozku, kde patrně byl původ celého jeho neštěstí. Obě ženy tvrdily, že to dělají a budou dělat ochotně, poněvadž samy pozorují, že jejich pán časem jedná zcela rozumně; tím byli oba velice potěšeni, soudíce, že jejich nápad, odvésti ho začarovaného volským spřežením, o čemž bylo vypravováváno v prvním díle tohoto přesného a obsáhlého vyprávění, byl znamenitý. Rozhodli se tedy navštíviti ho a přesvědčiti se o zlepšení jeho nemoci pokládajíce vyléčení za vyloučené; smluvili se, že se vůbec nezmíní o potulném rytířství, aby nebylo nebezpečí, že rozjitří ránu sotva zacelenou. Navštívivše ho, nalezli ho sedícího na posteli v zelené kazajce, s červenou toledskou čapkou na hlavě, vyhublého a vyhlížejícího jako mumie.
 
 Byli jím srdečně uvítáni; dotazovali se na jeho zdraví a on jim vykládal o sobě i zdraví velmi rozumně a ušlechtile. Při řeči dotkli se také vládního zřízení, způsobů vlády, opravovali a odsuzovali zlořády, chválili i zavrhovali mravy; každý z nich mluvil jako nový zákonodárce, Lykurg nebo Solón znovu oživlí, takže se zdálo, že vytvořili nový stát vhodivše jej do ohně a od základů jej přeměnivše.

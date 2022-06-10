@@ -3,8 +3,6 @@ title: "KAPITOLA VI\\.,vyprávějící o\_příhodě dona Quijota, jeho neteře 
 contentType: prose
 ---
 
-  
-
 Zatímco Sancho Panza a jeho manželka Tereza Cascajová vedli spolu uvedený pošetilý rozhovor, neteř a hospodyně dona Quijota vytušily z mnohých známek, že jejich strýc a pán chce utéci na rytířské potulky za dobrodružstvím potřetí, což podle jejich mínění nevedlo nikam. Marně usilovaly, aby ho od jeho nešťastného úmyslu odvrátily, ale jejich domluvy byly marné, jako kázání na poušti nebo ohýbání studeného železa; hospodyně mu mezi jiným řekla:
 
 „Skutečně, pane, nezůstane-li Vaše Milost pěkně v klidu doma a bude-li zase blouditi po horách a dolinách, shánějíc dobrodružství, jak se to prý nazývá, a čemu já říkám holé neštěstí, budu si stěžovati Bohu a králi, aby učinili nějakou nápravu.“

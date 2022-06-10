@@ -3,8 +3,6 @@ title: "KAPITOLA XVIII\\.,jak se dařilo donu Quijotovi v\_domě rytíře Zelen�
 contentType: prose
 ---
 
-  
-
 Don Quijote shledal dům dona Diega de Miranda prostranný, podobný venkovským domům; nade dveřmi byl kamenný a hrubě tesaný znak, na nádvoří pak byl sklep a v průjezdě výklenek s množstvím džbánů z Tobosa, které mu připomněly změněnou a zakletou jeho Dulcineu; nevšímaje si nikoho z přítomných jen si povzdechl a řekl:
 
 _„Sladký přírody skvoste, k mému neštěstí vznikší,  

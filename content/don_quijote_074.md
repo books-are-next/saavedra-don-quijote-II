@@ -3,8 +3,6 @@ title: "KAPITOLA LXIV\\.,která jedná o\_dobrodružství, jež dona Quijota zar
 contentType: prose
 ---
 
-  
-
 Historie vypráví, že žena dona Antonia Morena byla velmi spokojena vidouc Annu Felix ve svém domě; přijala ji radostně, jata stejně její krásou jako rozumem jejím, neboť obojím Maurka neobyčejně vynikala; všichni městští lidé jako přivoláni poplašným zvonem přicházeli se na ni podívat.
 
 Don Quijote řekl donu Antoniovi, že názor, jejž přijal, co se osvobození dona Gregoria týče, není dobrý, že obsahuje více nebezpečí než užitku a že by bylo lépe, aby do Berberska vypravili jeho i se zbraněmi a koněm; on že by zajatce vysvobodil navzdor celému maurskému národu, jako don Gaiferos vysvobodil svou ženu Melisandru.

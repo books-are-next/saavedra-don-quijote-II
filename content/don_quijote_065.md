@@ -3,8 +3,6 @@ title: "KAPITOLA LV\\.o\_tom, co potkalo Sancha cestou, a\_jiných věcech, kter
 contentType: prose
 ---
 
-  
-
 Poněvadž se Sancho s Ricotem zdržel, nemohl toho dne už dorazit do vévodského zámku: byl na půl míle od něho, když jej stihla noc, dost tmavá a neproniknutelná. Protože bylo léto, mnoho si z toho nedělal, sjel prostě z cesty s úmyslem přenocovat. Jeho neblahý a nešťastný osud chtěl, aby při hledání co nejpohodlnějšího místa spadl i s oslem v hlubokou a tmavou jámu mezi prastarými stavbami; padaje poručil se Bohu ze všeho srdce svého, neboť měl za to, že se nezastaví leč až v hlubokosti podzemské.
 
 Ale nestalo se tak: v hloubce o trochu větší než tři výšky mužské osel dopadl a on na něj bez úrazu a ublížení. Ohmatal si celé tělo, vydechl, aby poznal, je-li celý či někde děrav; a vida, že je v dobrém stavu, zdráv a úplně bez úhony, nelenil si vzdát Pánu Bohu dlouhé díky za milost, již mu prokázal; neboť bezpečně čekal, že bude na tisíc kusů. Také ohmatal rukama stěny jámy, bude-li možno se z ní dostat bez cizí pomoci; ale shledal, že všechny stěny jsou hladké a bez hrbolů, což jej velmi zarmoutilo, zvlášť když uslyšel oslíka smutně a bolestně naříkat. Nebylo to příliš, ale jistě nenaříkal, aby vtipkoval: byl asi potlučen.

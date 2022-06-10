@@ -3,8 +3,6 @@ title: "KAPITOLA XIV\\.pokračující v\_líčení dobrodružství Lesního ryt�
 contentType: prose
 ---
 
-  
-
 Mimo jiné řeči dona Quijota s Lesním rytířem vyprávění zaznamenává příběh, který Lesní rytíř vyprávěl donu Quijotovi:
 
 „Přál bych si, pane rytíři, abyste věděl, že můj vlastní osud nebo lépe moje vlastní vůle mě přinutila, abych miloval nevyrovnatelnou Casildeu z Vandalie; nevyrovnatelnou proto, že žádná žena se jí nevyrovná ani růstem, ani původem, ani krásou. Tato Casildea odměnila moje dobré úmysly a počestnou touhu tím, že mě posílala jako macecha Heraklea do různých nebezpečí, a jakmile jsem dokončil nějaký čin, uložila mi jiný se slibem, že jeho ukončení bude také koncem mé marné touhy; ale moje námaha vyrostla nekonečně a nevím skutečně, který ten úkol bude poslední a zároveň i počátkem naplnění mé touhy.

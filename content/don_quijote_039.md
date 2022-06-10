@@ -3,8 +3,6 @@ title: "KAPITOLA XXXI\\.o\_mnohých významných věcech\\."
 contentType: prose
 ---
 
-  
-
 Sancha nesmírně těšila důvěrná přízeň paní vévodkyně a těšil se, že se bude v zámku míti jako v domě dona Diega a Basiliově, neboť myslil stále na dobré jídlo a těžil ze všeho, kdykoliv a pokaždé, jakmile se mu jen naskytla příležitost.
 
 Historie vypráví, že na cestě k zámku je vévoda předejel a dal sluhům rozkazy, jak se chovat k donu Quijotovi; když se tento přiblížil s vévodkyní k bráně zámku, vyběhli ihned sluhové nebo štolbové v řízách z karmazínového jemného atlasu, pomohli mu sestoupiti ze sedla a šeptali mu, aby to nikdo neslyšel:

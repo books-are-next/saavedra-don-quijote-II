@@ -3,8 +3,6 @@ title: "KAPITOLA XLI\\.o\_příchodu Clavileña a\_konci tohoto dlouhého dobrod
 contentType: prose
 ---
 
-  
-
 Vtom přišla noc a chvíle, kdy se měl objeviti proslulý kůň Clavileňo. Don Quijote byl už mrzut, že prodlévá, neboť se domýšlel, že buď on není rytířem předurčeným pro toto dobrodružství, a Malambruno proto koně neposílá, buď že Malambruno nemá dosti odvahy k souboji. Vtom vkročili do zahrady čtyři divoši pokrytí břečťanem nesouce na ramenou velkého koně ze dřeva. Postavili jej na zem a jeden z nich pravil:
 
 „Ať rytíř, má-li dosti odvahy, vsedne na tento stroj!“

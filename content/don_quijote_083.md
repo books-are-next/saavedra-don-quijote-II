@@ -3,8 +3,6 @@ title: "KAPITOLA LXXIII\\.o\_znameních, jež spatřil don Quijote při vstupu d
 contentType: prose
 ---
 
-  
-
 Když vjížděli do vsi, spatřil don Quijote, jak praví Cide Hamete, že se na humnech hádají dva kluci, a jeden pravil druhému:
 
 „Ani se nenamáhej, Periquillo, už jí neuvidíš nadosmrti.“

@@ -3,8 +3,6 @@ title: "KAPITOLA XLV\\.o\_tom, jak se velký Sancho Panza ujal ostrova a\_jak po
 contentType: prose
 ---
 
-  
-
 Věčný objeviteli protinožců, pochodni světa, oko nebeské, „milý poháněči ochlazovačů“, Timbrie zde a jinde Foibe, zde střelče, jinde lékaři, otče Poezie, vynálezče Hudby, ty, jenž vždy vycházíš a nikdy nezapadáš, ač se nám zdá! K tobě mluvím, slunce, jehož pomocí člověk rodí člověka, tebe prosím, abys mi přálo a ozářilo temnotu mého rozumu, abych mohl líčiti bod za bodem vladaření velkého Sancha Panzy, neboť bez tebe se cítím sláb, neschopen a zmaten!
 
 Sancho tedy dojel se vším svým průvodem do osady asi o tisíci obyvatelích, jež byla z nejlepších, které vévoda měl. Řekli mu, že se ostrov jmenuje Barataria, buď že se osada Barataria jmenovala, nebo poněvadž se k vládě dostal lacino[^7]. Když dojeli k branám města, jež byly zavřeny, vyšla správa městská, aby je uvítala, zvony zvonily a všichni obyvatelé projevovali společně radost; s velkou nádherou dovedli Sancha do hlavního kostela k poděkování Bohu a potom mu za směšných obřadů odevzdali klíče městské a uznali ho za trvalého vladaře ostrova Baratarie. Kroj, vous, tloušťka a malá postava nového vladaře udivovaly všechen lid, který neznal čertovo kopýtko věci, i ty, velmi četné, kteří je znali.

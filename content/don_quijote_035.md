@@ -3,8 +3,6 @@ title: "KAPITOLA XXVII\\.,kde se vypráví, kdo byl mistr Pedro a\_jeho opice a\
 contentType: prose
 ---
 
-  
-
 Cide Hamete, kronikář tohoto velkého vyprávění, počíná tuto kapitolu těmito slovy:
 
 „Přisahám jako katolický křesťan.“

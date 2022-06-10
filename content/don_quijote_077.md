@@ -3,8 +3,6 @@ title: "KAPITOLA LXVII\\.,o\_rozhodnutí dona Quijota stát se pastýřem a\_vé
 contentType: prose
 ---
 
-  
-
 Přemnohé-li myšlenky trápily dona Quijota dřív, než byl sražen k zemi, počet jejich ještě vzrostl po jeho pádu. Čekal ve stínu stromu, jak bylo řečeno, a tam se naň myšlenky sbíhaly jako mouchy na med a bodaly jej: jedny se týkaly vysvobození Dulcineina, druhé života, jejž povede v nuceném svém ústraní. Přišel Sancho a chválil mu štědrost lokaje Tosíla.
 
 „Je možno,“ řekl mu don Quijote, „abys dosud myslil, Sancho, že to je opravdový lokaj? Zdá se, že jsi zapomněl, že jsi viděl Dulcineu proměněnu v selku a Zrcadlového rytíře v bakaláře Carrasca, což vše je dílem kouzelníků, kteří mě pronásledují. A pověz mi: otázal ses toho Tosíla, jak říkáš, co Bůh počal s Altisidorou? Zdali oplakávala můj odchod, či zda už složila do rukou zapomenutí milostné touhy, které ji týraly v mé přítomnosti?“

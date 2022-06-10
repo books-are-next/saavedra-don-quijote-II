@@ -3,8 +3,6 @@ title: "KAPITOLA LXXIV\\.o\_onemocnění dona Quijota, jeho závěti a\_smrti\\.
 contentType: prose
 ---
 
-  
-
 Jelikož věci lidské nejsou věčné a obzvláště životy lidí se chýlí stále od svého počátku, až dospějí svého konce, a poněvadž život dona Quijota neměl božské výsady zadržeti svůj průběh, nastal jeho konec a smrt, když nejméně myslil. Ať to bylo působením smutku nad porážkou, ať dopuštěním a rozkazem nebeským, dostal horečku, která ho připoutala na lože na šest dní, během kterých jej mnohokráte navštívili jeho přátelé, farář, bakalář a holič; Sancho Panza, jeho dobrý zbrojnoš, neopouštěl jeho záhlaví. Domnívali se, že jej do toho stavu přivedl zármutek z přemožení a bolest, že nespatřil vyplnění své touhy osvobodit z kouzel Dulcineu, i snažili se jej všemožným způsobem potěšit: bakalář mu říkal, aby si dodal ducha a vstal k zahájení pastýřského povolání, že pro ně složil už eklogu takovou, že se Sanazarovy musí schovat, že už koupil z vlastních peněz dva nádherné psy k hlídání stáda, jeden že se jmenuje Barcino, druhý Butrón a že mu je prodal dobytkář z Quintanaru. Ale don Quijote nepřestával být smutný.
 
 Jeho přátelé zavolali lékaře, ten mu ohmatal tep, nebyl tuze spokojen a řekl, aby se pro každý případ staral o spásu své duše, neboť spása těla je v nebezpečí. Don Quijote to vyslechl klidně, ale nikoliv jeho hospodyně, neť a zbrojnoš, kteří se jali hořce plakat, jako by jej měli před sebou už mrtvého. Lékař měl za to, že jej usmrcují smutek a bolesti. Don Quijote prosil, aby jej nechali o samotě, že se chce trochu vyspat. Uposlechli a on spal v jednom kuse, jak se říká, šest hodin, že už hospodyně a neteř myslily, že zemře ve spaní.

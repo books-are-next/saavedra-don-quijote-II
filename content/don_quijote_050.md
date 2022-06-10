@@ -3,8 +3,6 @@ title: "KAPITOLA XL\\.o věcech týkajících se této příhody a\_tohoto pamá
 contentType: prose
 ---
 
-  
-
 Vskutku všichni, které baví dobrodružství jako toto, měli by poděkovati Cide Hametovi, jeho původnímu autoru, že tak zevrubně vylíčil i nejmenší podrobnosti a jedinou nepatrnost nenechal ve stínu. Vypráví myšlenky, odkrývá představy, prozrazuje věci zamlčené, odpovídá na pochybnosti a rozbírá důvody, vůbec uspokojuje i drobné žádosti toho nejzvědavějšího. Ó slavný spisovateli! Ó šťastný done Quijote! Ó slavná Dulcineo! Ó půvabný Sancho Panzo! Vy všichni společně i každý jednotlivě žijte věčně pro pobavení a obecnou radost žijících!
 
 Příběh vypráví, že Sancho spatřiv Doloridu ve mdlobách řekl:

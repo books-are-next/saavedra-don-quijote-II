@@ -3,8 +3,6 @@ title: "KAPITOLA VII\\.,ve které se vypráví o\_rozmluvě mezi donem Quijotem 
 contentType: prose
 ---
 
-  
-
 Jakmile hospodyně zpozorovala, že Sancho Panza se uzavírá se svým pánem, uhodla jeho úmysly a domnívajíc se, že se v tomto rozhovoru dohodnou o třetí výpravě, vzala si plášť a zarmoucena a smutná odešla k bakaláři Sansonu Carrascovi, myslíc, že on, který získal svou výmluvností přátelství dona Quijota, bude moci ho odvrátiti od jeho pošetilého úmyslu.
 
 Našla ho procházejícího se po dvoře jeho domu a klesla mu k nohám zpocená a zoufalá; jakmile Carrasco zpozoroval její ustrašené a žalostné vzezření, řekl jí:

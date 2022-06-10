@@ -3,8 +3,6 @@ title: "KAPITOLA XXXVI\\.o\_podivném a\_nevídaném dobrodružství dueni Dolor
 contentType: prose
 ---
 
-  
-
 Vévoda měl neobyčejně šibalského a vtipného správce; ten vystupoval jako Merlín a byl původcem celého minulého dobrodružství, složil veršíky a převlékl jistého panoše za Dulcineu. Týž připravil na přání pánů jiné čtveráctví, vtipné a podivuhodné, jak si lze jen představiti. Den potom tázala se vévodkyně Sancha, zda-li již začal s pokáním na vysvobození Dulciney. Oznámil jí, že ano, neboť té noci si dal už pět ran. Vévodkyně se ho tázala, jakým způsobem se udeřil, a on, že rukou.
 
 „To není bičování,“ poznamenala vévodkyně, „spíše pleskání; jsem jista, že moudrý Merlín nebude spokojen takovou mírností, a bude asi nutno, aby si milý Sancho zhotovil důtky s háčky nebo uzly, aby je cítil; krev je nejlepší pečetí a vysvobození tak urozené paní, jako jest Dulcinea, nesmí přijít lacino a lehce se nevykoupí.“
@@ -30,6 +28,8 @@ Sancho odpověděl:
 „Půjčte mi jej,“ pravila vévodkyně, „jistě svědčí o hojnosti a bystrosti vašeho vtipu.“
 
 Sancho vyndal ze záňadří nezalepený dopis, vévodkyně jej vzala a rozevřevši jej čtla toto:
+
+  
 
 „Psaní Sancha Panzy manželce jeho Tereze Panzové:
 

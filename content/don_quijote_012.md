@@ -3,8 +3,6 @@ title: "KAPITOLA IV\\.,ve které Sancho Panza odpovídá na pochybnosti a\_dotaz
 contentType: prose
 ---
 
-  
-
 Sancho vrátiv se do domu dona Quijota navázal na dřívější rozepři a pravil:
 
 „Na to, co vytkl pan Sanson, že událost o krádeži osla nebyla vysvětlena, odpovídám: téže noci, kdy jsme utekli před Svatým bratrstvem a dostali se do Sierry Moreny, po oné příšerné příhodě s galejníky a mrtvým, kterého odnášeli do Segovie, můj pán opíraje se o kopí a já sedě na oslu, oba nesmírně skleslí a vyčerpaní, usnuli jsme v křoví, jako bychom spali v peřinách; spal jsem tvrdým spánkem; někdo se ke mně patrně přiblížil a podepřel a podložil čtyřmi kůly sedlo; seděl jsem na něm dále, on zatím ukradl osla, aniž jsem co zpozoroval.“

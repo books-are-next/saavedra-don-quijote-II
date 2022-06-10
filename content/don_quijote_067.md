@@ -3,8 +3,6 @@ title: "KAPITOLA LVII\\.o\_tom, jak se don Quijote rozloučil s\_vévodou a\_co 
 contentType: prose
 ---
 
-  
-
 Již se donu Quijotovi zdálo, že je záhodno opustit lenošivý život, jejž vedl na zámku; myslil, že jeho osoba světu velmi chybí, je-li uzavřen pohodlně v nesčíslných hostinách a rozkoších, které mu ono panstvo jako potulnému rytíři strojilo, a měl za to, že se bude musit přísně nebesům odpovídat za tu zahálčivost a uzavřenost. I požádal jednoho dne vévody o dovolení k odchodu. Dostal je od nich s ujištěním, že jeho odchod je velmi rmoutí.
 
 Vévodkyně odevzdala Sanchu Panzovi psaní od jeho ženy a ten nad nimi zaplakal, řka:

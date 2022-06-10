@@ -3,8 +3,6 @@ title: "KAPITOLA LXVI\\.,jež jedná o\_tom, co uvidí, kdo ji přečte, nebo us
 contentType: prose
 ---
 
-  
-
 Když vyjížděl z Barcelony, don Quijote pohlédl zpět na místo, kde byl padl, a řekl:
 
 „Zde stála Trója! Zde moje neštěstí a nikoliv má zbabělost odneslo slávu, jíž jsem si dobyl; zde si osud se mnou zahrál ve své nestálosti; zde byly v temnotu pohříženy moje výkony a zde nakonec kleslo moje štěstí, aby už nikdy nepovstalo!“

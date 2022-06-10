@@ -3,8 +3,6 @@ title: "KAPITOLA LI\\.o\_dalším vladaření Sancha Panzy a\_jiných pěkných 
 contentType: prose
 ---
 
-  
-
 Docházíme k vylíčení dne po noci vladařovy obchůzky, již vrchní číšník strávil beze spánku přemýšleje o tváři, jarosti a kráse přestrojené dívky; správce použil zbytku noci k vypsání svému panstvu všeho, co Sancho Panza učinil a řekl, a podivoval se stejně obojímu, neboť jeho slova se mísila s jeho skutky a v nich chytrost s hloupostí. Konečně pan vladař vstal a z rozkazu doktora Petra Škrobence mu dali k snídani trochu zavařeniny a čtyři doušky studené vody, což by byl Sancho s chutí vyměnil za kus chleba a hrozen vína; ale vida, že se svou vůlí nepořídí proti nutnosti, podrobil se jí, ač ho srdce bolelo a žaludek jeho byl unaven; doktor Škrobenec ho přesvědčil, že skromný a jemný pokrm zbystřuje rozum, čehož je nejvíce třeba osobám ustanoveným k vládě a vážným úřadům, v nichž mají používat ne tak sil tělesných jako schopností rozumu. Pro tu sofistiku Sancho trpěl hlad, a to takový, že v tajnosti proklínal vladaření a toho, kdo mu je dal; ale přes hlad i zavařeninu se jal toho dne soudit a první mu předložil otázku nějaký cizinec za přítomnosti správcovy i ostatní družiny. Zněla:
 
 „Pane, mohutná řeka dělila na dvě části jediné panství. Dejte pozor, Milosti, neboť případ je důležitý a dost nesnadný. Přes tu řeku vedl most, pravím, a na jeho kraji šibenice a jakási soudní síň, v níž obyčejně čtyři soudcové soudili podle zákona, jejž vydal vlastník řeky, mostu a panství a jenž zněl: ‚Přechází-li někdo po tomto moste z jedné strany na druhou, ať odpřisáhne nejprve, kam jde a proč; přizná-li pravdu, nechť mu je dovoleno přejít; vyřkne-li lež, ať zemře zde na šibenici bez milosti jakékoliv.‘ Poněvadž zákon i přísná jeho podmínka byly známy, mnozí přecházeli a na jejich přísaze bylo hned patrno, že mluví pravdu, i nechávali je soudcové odejít svobodně. Stalo se však, že jeden člověk při přísaze prohlásil, že přichází zemřít na šibenici, jež zde stojí, a pro nic jiného. Soudce ta přísaha zarazila, i řekli: ‚Necháme-li tohoto člověka volně přejít, lhal u přísahy a podle zákona má zemřít na šibenici, a podle téhož zákona má býti propuštěn.‘ Jste tázán, milostivý pane vladaři, co soudcové s tím člověkem učiní, neboť až dosud pochybují a čekají. Poněvadž pak zvěděli o bystrém a vysokém rozumu Vaší Milosti, poslali mě, abych vás jejich jménem požádal o váš názor v tom zapleteném a pochybnosti budícím případě.“
@@ -35,6 +33,8 @@ Když Sancho pojedl toho dne proti pravidlům a aforismům doktora z Tirteafue
 
 „Může se číst nahlas. To, co pan don Quijote píše Vaší Milosti, zaslouží být vytištěno a vypsáno zlatými písmeny. Praví toto:
 
+  
+
 ‚Dopis dona Quijota de la Mancha Sanchu Panzovi, vladaři ostrova Baratarie.
 
 Kdežto já očekával zprávy o Tvé nedbalosti a nehoráznostech, milý Sancho, jednáš rozumně, jak jsem slyšel, zač jsem obzvláště poděkoval nebesům, která umějí ubohé pozvedati ze slámy a z hlupáků dělati chytráky. Říkají mi, že vládneš, jako bys byl ne vladařem, ale obyčejným člověkem, a že ve věcech lidských si vedeš, jako bys byl němou tváří, tak daleko jde prý tvá skromnost. Chci, aby sis uvědomil, Sancho, že mnohokrát je slušno a nutno pro důstojnost úřadu potlačiti skromnost srdce, neboť chování toho, kdo zastává vážný úřad, má se říditi tím, čeho od něho žádají, a ne tím, k čemu jej vede jeho skromná povaha. Šať se dobře, neboť ani klacek, je-li upraven, klacku se nepodobá. Neříkám, abys nosil šperky a nádherný šat, ani aby ses jsa soudcem strojil za vojáka, ale oblékej šat, jehož si tvůj úřad žádá, a ať je čistý a úpravný.
@@ -48,6 +48,8 @@ Paní vévodkyně vyslala kurýra s tvým šatem a jiným darem k tvé ženě
 Tvůj přítel don Quijote de la Mancha.‘“
 
 Sancho vyslechl dopis velmi pozorně a všichni, kdo jej slyšeli s ním, prohlásili jej a pokládali za rozumný. Sancho zvednuv se od stolu a zavolav tajemníka zavřel se s ním pak ve svém pokoji a chtěl bez prodlení odpovědět svému pánu donu Quijotovi. Řekl tajemníkovi, aby psal, co mu řekne, neubíraje a nepřidávaje nic; tak se i stalo. A odpověď Sanchova byla takováto:
+
+  
 
 „Dopis Sancha Panzy donu Quijotovi.
 

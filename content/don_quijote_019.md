@@ -3,8 +3,6 @@ title: "KAPITOLA XI\\.o\_podivném dobrodružství dona Quijota u\_vozu Dvořan�
 contentType: prose
 ---
 
-  
-
 Don Quijote cestou přemýšlel o nevhodném vtipu, kterého se dopustili kouzelníci proměnivše jeho paní Dulcineu v ošklivou vesničanku, a nemohl si vůbec vysvětliti, jakým způsobem zase by se změnila v původní podobu; zabrán do těchto myšlenek uvolnil otěž Rocinantovu, který zpozorovav to loudal se krokem a popásal se na trávě, které bylo v krajině velmi mnoho.
 
 Jeho zadumání přerušil Sancho Panza, řka:

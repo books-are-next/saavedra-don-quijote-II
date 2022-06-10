@@ -3,8 +3,6 @@ title: "KAPITOLA XIII\\.,pokračující o\_dobrodružství Lesního rytíře a\_
 contentType: prose
 ---
 
-  
-
 Rozešedše se, začali zbrojnoši rozmlouvat o svém životě a rytíři o své lásce; historie mluví nejprve o rozmluvě sluhů, potom teprv o rytířích. Jakmile se oba zbrojnoši vzdálili, řekl Lesní zbrojnoš Sanchovi:
 
 „Těžký a namáhavý život vedeme, můj pane, my zbrojnoši potulných rytířů; to jest jeden z trestů, které Pánbůh seslal na naše prarodiče.“
