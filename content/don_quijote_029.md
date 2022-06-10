@@ -3,6 +3,8 @@ title: "KAPITOLA XXI\\., líčící dále svatbu Camachovu a\_jiné výborné ud
 contentType: prose
 ---
 
+<section>
+
 Když tak don Quijote a Sancho spolu mluvili, jak vylíčeno, zaznělo hlasité volání a hluk; křičeli a hlučeli to jezdci na kobylách, přijíždějíce tryskem s hlasitým voláním vstříc snoubencům, kteří se blížili uprostřed různých hudebníků, tanečníků, s farářem a příbuzenstvem obou rodin a význačnými, svátečně ustrojenými osobami přespolních osad.
 
 Sancho spatřiv nevěstu řekl:
@@ -56,3 +58,5 @@ Při této řeči mával kopím na všechny strany tak obratně, že zahnal vše
 Camacho uvážil, že miluje-li Quiteria Basilia jako děvče, že by jej milovala také jako žena, a soudil, že musí děkovati Bohu více za to, že mu ji vzal, než kdyby mu ji byl nechal; když se uklidnili přátelé Camachovi, i Basiliovi se uklidnili a zámožný Camacho, aby dokázal, že ho žert nermoutí, rozkázal, aby se svatba dokončila, jako by on se ženil; ale Basilio, jeho manželka a přátelé s tím nesouhlasili a odjeli do vsi Basiliovy, neboť i čestní a moudří chudáci mívají přátele, kteří je ctí, chrání a milují, jako boháči mají ty, kteří jim pochlebují a je doprovázejí.
 
 S nimi odjel také don Quijote, kterému se obdivovali jako muži odvážnému i jako hrdinovi. Sancho jediný však byl rozmrzen, že se nemohl zúčastniti hodů a radovánek Camachových, které končily až v noci, a jel smuten a zarmoucen s donem Quijotem, provázejícím družinu Basiliovu. Opustil sice hrnce egyptské, ale nesl je ve svém břiše a vzpomínka na snědené „maličkosti“, které dostal v pánvi, byla mu odznakem toho opuštěného štěstí a štědrosti. Následoval Rocinanta tedy syt, ale smuten a zamyšlen, na svém oslu.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA XVI\\.o\_příhodě dona Quijota s\_rozumným rytířem z\_Manc
 contentType: prose
 ---
 
+<section>
+
 Spokojeně, hrdě a povzneseně putoval don Quijote dále, jak jsme již poznamenali, pokládaje se po tomto dobrodružství za nejstatečnějšího potulného rytíře té doby; byl jist, že všecka dobrodružství, která ho ještě v budoucnu potkají, skončí se šťastně, a zapomínal na kouzla čarodějů, na nesčetná bití, která si vysloužil na svých výpravách, na kamenování, při kterém ztratil polovinu zubů, na srážku s galejníky, na drzost a hole Yanguejců; myslil si, že, kdyby našel lék nebo prostředek k navrácení původní podoby paní Dulciney, že by nestál o největší štěstí, kterého kdy některý potulný rytíř dob dřívějších dosáhl.
 
 Zahloubán do těchto myšlenek, byl vyrušen Sanchem, který řekl:
@@ -74,3 +76,5 @@ Don Quijote na to:
 Zelený rytíř užasl nad výkladem dona Quijota tak, že opravil své dřívější mínění o něm, že je blázen. Sancho za této rozmluvy, která ho nudila, odbočil z cesty a žádal o trochu mléka pastýře dojícího nedaleko ovce; v okamžiku, kdy šlechtic, potěšený rozvahou a vzdělaností dona Quijota, chtěl obnoviti rozmluvu, don Quijote zvednuv hlavu uhlídal přijíždět po silnici vůz, plný královských praporků; tuše nějakou novou příhodu požádal hlasitě Sancha o helmu; Sancho zaslechl volání svého pána, opustil pastýře a chvátal, pobídnuv osla, k donu Quijotovi, kterého potkalo strašné a divné dobrodružství.
 
 [^3]: Pro chléb vezdejší. Pozn. red.
+
+</section>

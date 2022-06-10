@@ -3,6 +3,8 @@ title: "KAPITOLA XXXVI\\.o\_podivném a\_nevídaném dobrodružství dueni Dolor
 contentType: prose
 ---
 
+<section>
+
 Vévoda měl neobyčejně šibalského a vtipného správce; ten vystupoval jako Merlín a byl původcem celého minulého dobrodružství, složil veršíky a převlékl jistého panoše za Dulcineu. Týž připravil na přání pánů jiné čtveráctví, vtipné a podivuhodné, jak si lze jen představiti. Den potom tázala se vévodkyně Sancha, zda-li již začal s pokáním na vysvobození Dulciney. Oznámil jí, že ano, neboť té noci si dal už pět ran. Vévodkyně se ho tázala, jakým způsobem se udeřil, a on, že rukou.
 
 „To není bičování,“ poznamenala vévodkyně, „spíše pleskání; jsem jista, že moudrý Merlín nebude spokojen takovou mírností, a bude asi nutno, aby si milý Sancho zhotovil důtky s háčky nebo uzly, aby je cítil; krev je nejlepší pečetí a vysvobození tak urozené paní, jako jest Dulcinea, nesmí přijít lacino a lehce se nevykoupí.“
@@ -29,7 +31,9 @@ Sancho odpověděl:
 
 Sancho vyndal ze záňadří nezalepený dopis, vévodkyně jej vzala a rozevřevši jej čtla toto:
 
-  
+</section>
+
+<section>
 
 „Psaní Sancha Panzy manželce jeho Tereze Panzové:
 
@@ -64,3 +68,5 @@ Tu vévoda obrátiv se k donu Quijotovi pravil:
 „Tedy, slavný rytíři, temnoty, poťouchlosti a nevědomosti nemají moci, aby zničily a zatemnily světlo odvahy a ctnosti. Minulo teprve šest dní, co Vaše Dobrota se zdržuje v tomto zámku, a už z dalekých a vzdálených krajů přicházejí, ne na vozech ani na velbloudech, ale pěšky a hladovějíce, trpící a utištění; věří, že tato odvážná paže přinese lék jejich žalu a trápení; a to vše pro vaše slavné skutky, které jsou známy dokola po celém světě.“
 
 „Kéž by zde byl, pane vévodo,“ odpověděl don Quijote, „ten roztomilý kněz, jenž nedávno při hostině jevil tolik nelásky a nevlídnosti pro potulné rytíře, aby viděl na své vlastní oči, jak jsou na světě potulní rytíři potřební. Svou vlastní rukou mohl by se přesvědčiti, že trpící a bezútěšní nevyhledávají pomoci v nesmírných a obludných neštěstích v domech učenců, ani u venkovských kostelíků, ani u rytíře znajícího pouze svou ves, ani u zahálčivého dvořana, který shání spíše klepy, aby je mohl rozšiřovati a vyprávěti, než aby se zúčastnil hrdinských činů, o nichž by se vyprávělo a psalo. Pomoc v trápení, podporu v nedostatku, obranu dívek a potěchu vdov naleznete jen u potulných rytířů; za to, že jím i já jsem, děkuji nekonečně nebi a pokládám za štěstí veškerou námahu a strádání, které mne v tomto mém čestném povolání mohou stihnouti. Ať vejde jen ta paní a řekne, co chce; silou svých ramenou a nebojácnou rozhodností svého statečného ducha opatřím pro ni nápravu.“
+
+</section>

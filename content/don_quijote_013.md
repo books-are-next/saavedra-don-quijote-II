@@ -3,6 +3,8 @@ title: "KAPITOLA V\\.,ve které je zaznamenána vtipná a\_půvabná rozmluva Sa
 contentType: prose
 ---
 
+<section>
+
 Překladatel na začátku této kapitoly podotýká, že tato pátá je asi podvržená, neboť v ní Sancho mluví bystřeji, než lze očekávati od jeho chatrného rozumu, a mluví věci příliš rozumné, než aby je měl ze sebe; nechtěl ji však vynechati, aby splnil svoji povinnost, a proto dále vypravuje:
 
 Sancho se vrátil domů v radostné náladě; jeho žena, zpozorovavši zdaleka jeho náladu, tázala se ho:
@@ -60,3 +62,5 @@ Sancho odpověděl:
 „Toho dne, kdy ji spatřím hraběnkou,“ odpověděla Tereza, „bude mi, jako by umřela; ale opakuji znovu, abyste jednal, jak sám rozumíte, neboť my ženy jsme již zrozeny, abychom poslouchaly muže, třeba hlupáky.“
 
 Při tom upřímně vzlykala, jako by Sanchička byla již mrtva a pochována. Sancho ji těšil, tvrdě, že se sice stane hraběnkou, ale jak jen možno nejpozději. Tak skončila tato rozmluva a Sancho odešel k donu Quijotovi připravit vše k odjezdu.
+
+</section>

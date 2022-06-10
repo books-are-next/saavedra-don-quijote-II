@@ -3,6 +3,8 @@ title: "KAPITOLA LVI\\.o\_neobyčejném a\_nevídaném boji mezi donem Quijotem 
 contentType: prose
 ---
 
+<section>
+
 Vévodští manželé nelitovali žertu, že udělili Sanchu Panzovi vladařství; toho dne přišel nadto sám správce a vylíčil jim bod za bodem všechny téměř výroky a skutky Sancha Panzy za ony dny a nakonec jim vylíčil i přepadení ostrova, strach Sanchův a jeho odchod, což se jim nemálo líbilo.
 
 Historie vypráví, že potom nastal den souboje. Vévoda mnohokrát byl vyložil lokaji Tosílovi, jak si má vésti s donem Quijotem, aby jej přemohl, ale nezabil, ani nezranil; rozkázal také, aby byly sňaty hroty kopí, řka donu Quijotovi, že křesťanství, jímž se honosí, nedovoluje, aby se souboj konal s takovým nebezpečím života, a ať je don Quijote spokojen, že mu na svém panství poskytuje volné zápasiště, ač je to proti výnosu svatého Koncilu, jenž takové souboje zapovídá; ať se tedy prý don Quijote nesnaží jednat v tomto vážném případu neústupně. Don Quijote odvětil, že Jeho Výsost může rozhodovati o okolnostech záležitosti, jak se jí uráčí, on že poslechne ve všem. Když pak nastal významný den a vévoda nařídil, aby v zámeckém dvoře bylo postaveno rozsáhlé lešení pro soudce klání a dueni-žalobce, matku i dceru, dostavilo se k podívané nevídaného boje ze všech okolních míst a vsí nekonečné množství lidu: neboť nikdy v tom kraji nikdo ze živých a nikdo z mrtvých nespatřil podobnou věc a neslyšel o ní.
@@ -56,3 +58,5 @@ Na to řekla dcera Rodríguezové:
 „Ať je kýmkoliv ten, kdo si mne žádá za ženu, svoluji k tomu, protože raději chci být zákonnou ženou lokaje než svedenou milenkou šlechtice; ba ten, kdo mě svedl, jím ani není.“
 
 Nakonec se všechny tyto věci a příhody skončily tím, že Tosílos bude zavřen, dokud se neuvidí, v co se přemění. Všichni provolali vítězství dona Quijota, ale většina jich byla smutna a zarmoucena, že neviděli tak toužebně očekávané bojovníky rozbité na kousky, stejně jako bývají zarmouceni kluci, když odsouzenec není oběšen, protože mu prominul buď žalobce, buď soud. Lid se rozešel, vévoda a don Quijote se vrátili do zámku, Tosíla zavřeli a paní Rodríguezová i její dcera byly neobyčejně spokojeny, protože tak nebo onak případ musil skončit svatbou; a Tosílos nepřál si ničeho jiného.
+
+</section>

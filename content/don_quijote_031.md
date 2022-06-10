@@ -3,6 +3,8 @@ title: "KAPITOLA XXIII\\.o neuvěřitelných věcech, které výborný don Quijo
 contentType: prose
 ---
 
+<section>
+
 Byly asi čtyři hodiny odpoledne, slunce, které bylo pod mrakem, umírněně hřálo a don Quijote mohl tedy bez obtížného vedra vyprávěti o své příhodě v jeskyni Montesínově svým vzácným posluchačům. Začal takto:
 
 „V hloubce dvanácti nebo čtrnácti sáhů této propasti jest napravo výklenek a místo, kam by se schoval vůz s mezky. Slabé světlo, vnikající tam štěrbinami končícími daleko na povrchu země, osvětluje tento prostor. Tento výklenek jsem spatřil v té chvíli, kdy jsem byl již unaven a kdy mě již omrzelo viseti na laně a klesati do té temné propasti, ač jsem dobře nevěděl, kam se dostanu; i rozhodl jsem se, že tam zůstanu a odpočinu si. Volal jsem hlasitě, abyste mne nespouštěli, leč dám znamení, ale neslyšeli jste mne asi; provaz, který jste spouštěli, jsem tedy svinoval do klubka a usedl naň, přemýšleje, jak bych se dostal na dno, když jsem neměl nikoho, kdo by mě opět spouštěl.
@@ -130,3 +132,5 @@ On na to:
 „Pane bože!“ v té chvíli vzkřikl Sancho, „je tohle možné, aby kouzelníci a čáry měli takovou sílu, aby proměnili zdravý rozum mého pána v tohle pitomé blouznění? Můj pane, vzchopte se, Milosti, nezapomínejte na svoji vážnost a nevěřte hloupostem, které vám zmátly a zkazily rozum.“
 
 „To vše, Sancho, říkáš, že mě máš rád,“ pravil don Quijote, „a poněvadž nerozumíš životu, vše, v čem je nějaká nesnáz, pokládáš za nemožné. Opakuji, že přijde doba, kdy ti sdělím mnohé, co jsem v jeskyni viděl, a potom uvěříš celé historii, jejíž pravdivost nesnese odmlouvání ani hádku.“
+
+</section>

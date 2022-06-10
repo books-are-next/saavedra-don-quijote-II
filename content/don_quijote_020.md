@@ -3,6 +3,8 @@ title: "KAPITOLA XII\\.,vyprávějící o\_zajímavé příhodě odvážného do
 contentType: prose
 ---
 
+<section>
+
 Noc po dobrodružství se smrtí strávil don Quijote a jeho zbrojnoš pod vysokými, košatými stromy; Sancho přinutil dona Quijota, aby něco snědl ze zásob, které s sebou vzali, a při jídle pravil:
 
 „Pane, byl bych špatně pochodil, kdybych si za odměnu té milé zprávy vymínil kořist z prvního vašeho dobrodružství raději než hříbata kobyl. Věru, lepší hrst jistoty než pytel naděje.“
@@ -126,3 +128,5 @@ Zbrojnoš Lesního rytíře vzal Sancha za ruku a řekl mu:
 „Ale s radostí!“ řekl Sancho. „Vyzpovídám se Vaší Milosti, abyste poznal, že se mohu měřiti s kterýmkoli řečným zbrojnošem.“
 
 Pak zbrojnoši odešli a rozmlouvali spolu tak vesele jako jejich pánové vážně.
+
+</section>

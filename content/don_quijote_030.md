@@ -3,6 +3,8 @@ title: "KAPITOLA XXII\\.,kde se líčí nádherné dobrodružství v\_jeskyni Mo
 contentType: prose
 ---
 
+<section>
+
 Velmi vděčně pohostili novomanželé dona Quijota za jeho šlechetné zakročení a obdivovali se nejen jeho odvaze, ale i jeho moudrosti, soudíce, že podle válečného umění je Cidem a podle výmluvnosti Ciceronem. Také milý Sancho byl tři dny hostem novomanželů, kteří, jak se ukázalo, skutečně nebyli smluveni o falešném poranění; byl to úskok Basiliův, který očekával výsledek, jenž se také dostavil, ale ovšem přiznal, že svůj záměr svěřil několika přátelům, aby mu včas pomohli v úmyslu uskutečniti jeho podvod.
 
 „Není možno a nesluší se nazývati podvodem to, co ukazuje na čestné zakončení,“ řekl don Quijote, „sňatek milujících jest pak cílem vznešeným, ač hlad a stálá nouze bývá lásce velkou překážkou; láska je sama radost a štěstí, zvláště když milenec svou milenku již získal, a chudoba a hlad jsou toho největšími nepřáteli.“
@@ -100,3 +102,5 @@ Bratranec a Sancho pozorně vyslechli slova dona Quijota, která pronášel jak
 Žádal je o nějaké jídlo, že má veliký hlad. Rozprostřeli bratrancův koberec na trávě, šli za zásobami do tlumoků, usedli a přátelsky a v shodě posvačili i povečeřeli; když uklidili nádobí z koberce, pravil don Quijote de la Mancha:
 
 „Zůstaňte seděti a vyslechněte mě, synové moji!“
+
+</section>

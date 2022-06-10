@@ -3,6 +3,8 @@ title: "KAPITOLA XXXVII\\.,pokračující v\_slavném dobrodružství dueni Dolo
 contentType: prose
 ---
 
+<section>
+
 Náš vévoda a vévodkyně radostně pozorovali, že se don Quijote chytil na jejich záměr, a tu Sancho poznamenal:
 
 „Nechtěl bych, aby mě tato paní nějak připravila o slíbené vladařství; slýchal jsem od jednoho toledského apatykáře, který mluvil jako špaček, že jak se do něčeho dají ženské, nic dobrého z toho nepojde. Pomoz Pánbůh, ale ten apatykář na ně měl pifku! No, a protože jsou protivné a drzé dueni všecky, ať jsou jakékoliv povahy a stavu, jakápak musí teprve být taková dueňa Bolestná[^4], jak nazvali tuhle hraběnku o třech faldech, či o třech ocasech, protože u nás ocas a fald a fald a ocas je totéž.“
@@ -36,3 +38,5 @@ Rozmluva o dueních by jistě nebyla ještě skončena, kdyby nebyli vyrušeni 
 Vtom se přiblížili hudebníci a pištec jako poprvé. A tím spisovatel ukončil tuto krátkou kapitolu a v následující pokračuje v témže příběhu, který jest v celé knize jedním z nejpozoruhodnějších.
 
 [^4]: Dolorida = bolestná. Pozn. překl.
+
+</section>

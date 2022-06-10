@@ -3,6 +3,8 @@ title: "KAPITOLA LXVI\\.,jež jedná o\_tom, co uvidí, kdo ji přečte, nebo us
 contentType: prose
 ---
 
+<section>
+
 Když vyjížděl z Barcelony, don Quijote pohlédl zpět na místo, kde byl padl, a řekl:
 
 „Zde stála Trója! Zde moje neštěstí a nikoliv má zbabělost odneslo slávu, jíž jsem si dobyl; zde si osud se mnou zahrál ve své nestálosti; zde byly v temnotu pohříženy moje výkony a zde nakonec kleslo moje štěstí, aby už nikdy nepovstalo!“
@@ -77,3 +79,5 @@ Tosílos řekl Sanchovi:
 „Cože, musí platit?“ odvětil Sancho, „nic nemusí nikomu platit! Platí-li, platí dobrovolně a ještě k tomu jak, zvlášť jsou-li bláznovstvím peníze. Já to dobře vidím a také mu to říkám, ale k čemu je to? A především teď, co je v koncích, protože byl přemožen rytířem Bílého měsíce.“
 
 Tosílos ho požádal, aby mu vyprávěl, co se stalo, ale Sancho mu odpověděl, že je nezdvořilé nechat svého pána čekat, že na to budou mít kdy podruhé, potkají-li se; setřásl drobty z kabátu a vousů, vstal, pohnal osla, řekl sbohem, opustil Tosíla a dohonil pána, který naň čekal ve stínu stromu.
+
+</section>

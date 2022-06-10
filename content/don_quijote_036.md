@@ -3,6 +3,8 @@ title: "KAPITOLA XXVIII\\.,o\_které Benengeli tvrdí, že věci v\_ní obsažen
 contentType: prose
 ---
 
+<section>
+
 K útěku se hrdina obrátí, jen když zpozoroval úklad, ale mužové moudří mají šetřiti svých sil pro doby příhodnější. Tato zásada ukázala se pravdivou na donu Quijotovi, který uprchl před rozzuřeným davem a zlými nástrahami zuřivého lidu; nevšímaje si Sancha ani nebezpečí, ve kterém jej opustil, vzal nohy na ramena a hleděl utéci tak daleko, aby byl v bezpečí. Za ním přijel Sancho napříč přes osla, jak již bylo řečeno. Když dostihl dona Quijota, nabyv už vědomí, spadl z osla k nohám Rocinantovým zděšen, rozmlácen a zbit.
 
 Don Quijote seskočil a spěchal prohlédnout mu rány, a když viděl, že je zcela zdráv, pravil mu rozzlobeně:
@@ -48,3 +50,5 @@ Sancho hleděl chvilkami na dona Quijota, dokud ho takto káral, a potom se slz
 Sancho slíbil řka, že i ve své slabosti nalezne odvahy.
 
 Zatím dorazili do háje. Don Quijote si lehl u nohou jilmu, Sancho u nohou buku, poněvadž tyto i všechny stromy mají nohy, a ne ruce. Sancho celou noc strávil v bolestech, neboť rána klackem ho více bolela v nočním vzduchu. Don Quijote v noci stále vzpomínal; nicméně přece usnuli, a jakmile se rozednilo, vydali se ke břehům slavného Ebra, kde je potkalo nové dobrodružství, které povíme v další kapitole.
+
+</section>

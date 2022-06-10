@@ -3,6 +3,8 @@ title: "KAPITOLA LVIII\\.o\_tom, jak se sesypalo na dona Quijota tolik dobrodru�
 contentType: prose
 ---
 
+<section>
+
 Když se don Quijote spatřil svoboden v širém poli a zbaven výčitek Altisidořiných, zdálo se mu, že je ve svém živlu a že se jeho duch obnovuje k dalšímu pokračování v plnění rytířských povinností. Obrácen k Sanchovi pravil:
 
 „Svoboda, Sancho, je jedním z nejcennějších darů, jež nebesa poskytla lidem; jí se nemohou rovnati poklady, jež země uzavírá a moře kryje; pro svobodu a čest možno, ba dlužno se odvážit života a naopak otroctví je nejhorší neštěstí, jež člověka může potkati. Pravím to, Sancho, poněvadž jsi viděl hojnost a dostatek, jimž jsme se těšili v zámku, který opouštíme; ale uprostřed oněch chutných hostin a ledových nápojů zdálo se mi, že jsem tísněn hladem, neboť jsem se z nich netěšil tak svobodně, jako kdyby byly mé. Povinnost býti vděčen za prokázaná dobrodiní a milosti je poutem, jež nedopřává duchu volného vzletu. Šťasten onen, jemuž nebe dalo kus chleba bez nutnosti děkovati zaň jinému neb nebi samotnému.“
@@ -120,3 +122,5 @@ Ale nakonec se zvedli všichni a don Quijote kulhaje a padaje se spěšně dal
 Ale to nezadrželo spěchající honce a na jeho hrozby dali stejně málo jako na loňský déšť. Únava přemohla dona Quijota a víc pohněván než pomstěn posadil se u cesty, až k němu došli Sancho, Rocinante a osel. Ti došli, pán i sluha se znovu posadili a nerozloučivše se ani s napodobenou Arkadií pokračovali v své cestě, spíše zahanbeni než s chutí.
 
 [^10]: „Santiago y cierra España,“ heslo starošpanělských vojsk, znamená v středověké španělštině „Svatý Jakub (s námi); útoč, Španělsko!“ V té době Cervantesově sloveso cerrar ztratilo už význam ‚útočiti‘, ‚napadati‘, a podrželo pouze význam ‚zavírati‘. Sancho mylně má España za předmět slovesa cerrar a domnívá se, že heslo znamená: „Svatý Jakube, zavři Španělsko!“ Pozn. překladatele.
+
+</section>

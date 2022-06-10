@@ -3,6 +3,8 @@ title: "KAPITOLA XVII\\.,jež líčí nejzazší mez, k\_níž došla a\_mohla d
 contentType: prose
 ---
 
+<section>
+
 Historie líčí, že Sancho, v okamžiku, kdy byl donem Quijotem zavolán o helmu, kupoval právě pár hrudek tvarohu, který prodávali ti pastýři; překvapen pánovým naléháním, nevěděl kudy kam s tvarohem a nechtěje jej zahodit, když už jej zaplatil, měl nápad schovat jej do pánovy přílby, načež běžel za pánovým rozkazem. Pán mu řekl:
 
 „Dej sem, příteli, přílbu, neboť, ať nerozumím dobrodružství, jestliže mne příhoda, která mě vzápětí potká, nepřinutí sáhnout ke zbrani.“
@@ -140,3 +142,5 @@ A protože jsem z řad potulného rytířstva, musím napadati všechno, co se
 „Přijímám vaše pozvání jako důkaz přízně a milosti, pane done Diego,“ odpověděl don Quijote.
 
 Pospíšili si a kolem druhé hodiny odpoledne dojeli do vsi a domu dona Diega, jehož Quijote nazval rytířem Zeleného pláště.
+
+</section>

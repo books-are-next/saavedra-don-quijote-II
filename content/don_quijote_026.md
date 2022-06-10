@@ -3,6 +3,8 @@ title: "KAPITOLA XVIII\\.,jak se dařilo donu Quijotovi v\_domě rytíře Zelen�
 contentType: prose
 ---
 
+<section>
+
 Don Quijote shledal dům dona Diega de Miranda prostranný, podobný venkovským domům; nade dveřmi byl kamenný a hrubě tesaný znak, na nádvoří pak byl sklep a v průjezdě výklenek s množstvím džbánů z Tobosa, které mu připomněly změněnou a zakletou jeho Dulcineu; nevšímaje si nikoho z přítomných jen si povzdechl a řekl:
 
 _„Sladký přírody skvoste, k mému neštěstí vznikší,  
@@ -162,3 +164,5 @@ Touto radou podal don Quijote poslední důkaz svého bláznovství, který ješ
 „Jen Bůh tuší, jak rád bych pana dona Lorenza vzal s sebou a na­učil jej odpouštěti poraženým a vítěziti nad pyšnými, což jsou hlavní ctnosti potulného rytířstva; ale v tom mi brání jeho mládí a krásné jeho cíle, stačí tedy, upozorním-li Vaši Milost, oddá-li se poezii, že je nutno, abyste spoléhal spíše na cizí úsudek než vlastní, neboť všem rodičům vlastní děti jsou nejkrásnější a při duševních dětech tento omyl platí dvojnásob.“
 
 Otec a syn divili se opět jeho popletené řeči brzo rozumné, brzo bláznivé i vytrvalosti, s jakou ve všem spatřoval jen nešťastná dobrodružství, vrchol svých snah. Zdvořile si nabídli znovu svoji pomoc a don Quijote a Sancho Panza poručivše se paní hradu vydali se na cestu, první na Rocinantu, druhý na oslu.
+
+</section>

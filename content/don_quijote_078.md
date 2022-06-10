@@ -3,6 +3,8 @@ title: "KAPITOLA LXVIII\\.o\_sviním dobrodružství dona Quijota\\."
 contentType: prose
 ---
 
+<section>
+
 Noc byla dost temná, neboť měsíc byl sice na obloze, ale nebylo ho vidět: paní Diana občas jde na procházku k protinožcům a zanechá hory v tmách a údolí v šeru. Don Quijote učinil zadost přirozenosti a vyspal se prvním spánkem, aniž si však popřál druhého. Naopak Sancho se druhého nedočkal, poněvadž první mu trval od večera do rána: v tom bylo patrno jeho výborné založení a bezstarostnost. Dona Quijota však udržovaly starosti v takové bezesnosti, že probudil Sancha a řekl mu:
 
 „Divím se, Sancho, lhostejnosti tvé povahy; představuji si, že jsi z mramoru nebo bronzu, v němž není pohybu ani žádného citu. Já bdím, když ty spíš; pláči, když zpíváš; omdlévám hladem z postu, když se nemůžeš hnouti ani vydechnout z přejedení. Dobrým sluhům náleží cítiti bolesti pánů a sdíleti jejich city, alespoň pro dobré zdání. Pohleď na jasný klid této noci na samotě, v níž se nalézáme a jež nás vybízí přerušiti spánek trochou bdění. Vstaň, při svém životě, poodejdi kousek ode mne a s dobrou myslí, směle i vděčně si dej tři sta nebo čtyři sta ran na účet vysvobození Dulcineina; žádám tě o to, ba snažně prosím, neboť se nechci s tebou dostati do křížku jako onehdy, věda, že máš těžké pěsti. A až si je vysázíš, strávíme zbytek noci zpěvem: já budu zpívati o svém rozloučení, ty o své věrnosti a tím od nynějška už počnem pastýřské povolání, které budeme provozovati v naší vsi.“
@@ -67,3 +69,5 @@ Téměř o hodině z půlnoci přijeli do zámku, v němž don Quijote dobře
 „Bůh mi pomoz,“ řekl si, jakmile poznal místo, „co to jen bude? V tomto domě je přece vše dvornost a dobré chování! Ale poraženým dobré se mění v zlé a zlé v horší.“
 
 Vstoupili na hlavní zámecké nádvoří a spatřili, že je ozdobeno a vypraveno způsobem, který zvýšil jejich údiv a zdvojnásobil strach, jak se uvidí v následující kapitole.
+
+</section>

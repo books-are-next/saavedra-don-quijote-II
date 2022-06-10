@@ -3,6 +3,8 @@ title: "KAPITOLA L\\.,kde se odkrývá, kdo byli čarodějové a\_katové, již 
 contentType: prose
 ---
 
+<section>
+
 Přepodobný ohledavač atomů této pravdivé historie, Cide Hamete dí, že ve chvíli, kdy paní Rodríguezová vyšla ze svého pokoje, aby se odebrala do pokoje dona Quijota, uslyšela ji jiná dueňa, která s ní spala, a poněvadž všechny dueni rády vědí, slyší a číhají, vyšla za ní tak tiše, že dobračka Rodríguezová jí neucítila; a jakmile ji dueňa uviděla vstupovat do pokoje Quijotova, aby v ní neutrpěl újmy obecný zvyk dueň – klepat, okamžitě běžela oznámit vévodkyni, že paní Rodríguezová je u dona Quijota. Vévodkyně to řekla vévodovi a žádala ho o dovolení, aby se ona a Altisidora směly jít podívat, co ona dueňa chtěla s donem Quijotem. Vévoda svolil a tu obě velmi opatrně a tiše, krok za krokem, přikradly se až ke dveřím pokoje, a to tak blízko, že uslyšely vše, o čem uvnitř mluvili. A když vévodkyně uslyšela, že Rodríguezová vynáší na veřejnost její boláky, nemohla odolat, a stejně i Altisidora, a tak plny hněvu a planouce pomstou, vrazily do pokoje, nasekaly donu Quijotovi a ztloukly dueňu, jak vylíčeno. Neboť urážky krásy a ješitnosti ženské probouzejí v ženách neobyčejný hněv a zapalují touhu mstít se.
 
 Vévodkyně sdělila vévodovi, co se stalo, a on se velmi pobavil; vévodkyně, toužíc si tropit další žerty a krátit si dlouhou chvíli s donem Quijotem, vyslala panoše, jenž byl představoval Dulcineu žádající o své osvobození (na něž Sancho Panza zaměstnán vládou zcela zapomněl), k Tereze Panzové, jeho ženě, s jeho psaním, s druhým psaním od ní samé a s velkou šňůrou vzácných korálů. Historie vypráví, že panoš byl velmi vtipný a bystrý a přeje si dobře posloužit svým pánům rád se vydal do Sanchovy vsi.
@@ -51,7 +53,9 @@ Tereza byla ohromena a stejně i její dcera; děvče pravilo:
 
 A přečetl je tedy celé; poněvadž o něm už byla zmínka, necituje se zde; potom vytáhl druhé psaní, od vévodkyně a to znělo takto:
 
-  
+</section>
+
+<section>
 
 „Milá Terezo, dobrota a rozumnost Vašeho manžela Sancha mě pohnuly a přinutily požádat mého manžela, vévodu, aby mu svěřil vladařství jednoho ze svých četných ostrovů. Mám zprávy, že vládne jako ostříž, s čímž jsem velmi spokojena, a stejně i vévoda, můj pán. Vzdávám velké díky nebesům, že jsem se nezmýlila vyvolivši jej pro takové vladařství. Neboť vězte, paní Terezo, že je velmi těžko nalézt na světě dobrého vladaře, a kéž se ke mně Bůh zachová tak, jak Sancho vládne. – Posílám Vám zde, milá moje, šňůru korálů se zlatými sponami; chtěla bych, aby to byly perly z východu; ale kdo ti dává kost, nechce tě vidět mrtvou. Přijde chvíle, kdy se poznáme a budeme mít bližší styky, a Bůh ví, co bude. Poručte mě Sančičce, své dceři, a řekněte jí ode mne, ať se připraví, neboť ji provdám vznešeně, až si nejmíň pomyslí. – Ve Vaší vsi prý jsou jedlé žaludy, pošlete mi jich asi dva tucty; přijdou mi velmi vhod, poněvadž budou od Vás; napište mi hodně a zpravte mě o svém zdraví a jak se Vám vede. A kdybyste měla něčeho zapotřebí, stačí Vám jen otevřít ústa, neboť Vaše ústa budou vyslyšena. Bůh s Vámi.
 
@@ -142,3 +146,5 @@ Na to řekl farář:
 Panoš odmítl, ale nakonec musil přijmout na svůj prospěch a farář ho s sebou odvedl rád, neboť tak měl možnost vyptat se ho zevrubně na dona Quijota a jeho výkony.
 
 Bakalář se nabídl Tereze k napsání odpovědí, ale ta si nepřála, aby se bakalář pletl do jejích věcí, majíc ho trochu za vtipálka, i dala koláč a dvě vejce kostelníkovi, který uměl psát; ten jí napsal dvě psaní, jedno pro jejího muže, druhé pro vévodkyni, obě po jejím rozumu, která nejsou z nejhorších v této dlouhé historii, jak se dále uvidí.
+
+</section>

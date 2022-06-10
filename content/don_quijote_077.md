@@ -3,6 +3,8 @@ title: "KAPITOLA LXVII\\.,o\_rozhodnutí dona Quijota stát se pastýřem a\_vé
 contentType: prose
 ---
 
+<section>
+
 Přemnohé-li myšlenky trápily dona Quijota dřív, než byl sražen k zemi, počet jejich ještě vzrostl po jeho pádu. Čekal ve stínu stromu, jak bylo řečeno, a tam se naň myšlenky sbíhaly jako mouchy na med a bodaly jej: jedny se týkaly vysvobození Dulcineina, druhé života, jejž povede v nuceném svém ústraní. Přišel Sancho a chválil mu štědrost lokaje Tosíla.
 
 „Je možno,“ řekl mu don Quijote, „abys dosud myslil, Sancho, že to je opravdový lokaj? Zdá se, že jsi zapomněl, že jsi viděl Dulcineu proměněnu v selku a Zrcadlového rytíře v bakaláře Carrasca, což vše je dílem kouzelníků, kteří mě pronásledují. A pověz mi: otázal ses toho Tosíla, jak říkáš, co Bůh počal s Altisidorou? Zdali oplakávala můj odchod, či zda už složila do rukou zapomenutí milostné touhy, které ji týraly v mé přítomnosti?“
@@ -44,3 +46,5 @@ Na to Sancho odpověděl:
 Sešli z cesty a povečeřeli pozdě a špatně, k velké nevůli Sanchově, jemuž tanuly na mysli nedostatky, jež snáší potulné rytířstvo v lesích i na horách, a naopak přepych zjevný v zámcích a domech třebas dona Diega de Miranda a dona Antonia Morena nebo na svatbě bohatého Camacha; ale řekl si, že není možno, aby byl stále den nebo stále noc, a tak strávil noc spánkem a jeho pán bděním.
 
 [^12]: El cura = farář. Pozn. překladatele.
+
+</section>

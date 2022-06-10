@@ -3,6 +3,8 @@ title: "KAPITOLA XLVII\\.,kde je pokračováno o\_tom, jak si vedl Sancho Panza 
 contentType: prose
 ---
 
+<section>
+
 Vypravuje historie, že ze soudní síně odvedli Sancha Panzu do skvostného paláce, kde ve velké síni bylo prostřeno ke královské a čisté hostině. Jakmile Sancho vstoupil, zazněla hudba a čtyři pážata nabídla mu vody na ruce, což Sancho velmi vážně přijal. Hudba ztichla, Sancho si sedl v čelo stolu, neboť jiného křesla a jiného příboru tu nebylo. Vedle něho se postavil člověk, z něhož se později vyklubal lékař, s hůlkou z velrybí kostice v ruce.
 
 Zvedli nádherný a bílý ubrus, jímž bylo přikryto ovoce a mnoho talířů různých jídel. Člověk, který se zdál studentem, pomodlil se požehnání a páže přivázalo Sanchovi ubrousek s obrubou. Jiný, který konal službu prvního číšníka, posunul mísu s ovocem. Ale sotva si vladař ukousl, muž s hůlkou se jí dotkl mísy a ihned s neobyčejnou rychlostí byla odnesena. Ale číšník mu přinesl jinou, s dalším jídlem. Sancho se ho chystal okusit, ale dřív než se k němu dostal a je okusil, už se ho dotkla hůlka a páže je odklidilo stejně rychle jako ovoce. Sancho se nad tím pozastavil a hledě na všechny, ptal se, má-li se snad při onom jídle jíst jako při kejklířském představení.
@@ -59,7 +61,9 @@ Jeden z přítomných odpověděl:
 
 Novopečený tajemník poslechl a seznámiv se s dopisem pravil, že běží o věc soukromou. Sancho rozkázal, aby byla síň vyprázdněna a aby zůstali jen správce a vrchní číšník; ostatní, i lékař, odešli. Potom tajemník přečetl tento dopis:
 
-  
+</section>
+
+<section>
 
 „Došlo mému sluchu, pane done Sancho Panzo, že nepřátelé moji a tohoto ostrova chtějí naň jedné noci podniknouti zuřivý útok. Je třeba bdít a míti se na pozoru, aby vás nepřekvapili. Také jsem se dozvěděl skrze bezpečné zvědy, že do osady přijdou čtyři přestrojení, aby vás zavraždili, neboť se bojí vaší bystrosti. Otevřete dobře oči a všímejte si, kdo s vámi přichází mluviti, a nejezte, co vám nabídnou. Budu se snažiti vám pomoci, dostanete-li se do nesnází, a veďte si ve všem, jak očekávám od vašeho rozumu.
 
@@ -136,3 +140,5 @@ Nechme však Sancha ve zlosti a mír buď okolo něho, vraťme se pak k donu Q
 [^8]: Slovní hříčka; T. znamená: kliď se odtud. Pozn. překladatele.
 
 [^9]: Perlático = nemocný dnou. Pozn. překladatele.
+
+</section>

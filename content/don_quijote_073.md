@@ -3,6 +3,8 @@ title: "KAPITOLA LXIII\\.o nehodě Sancha Panzy při návštěvě galejí a\_nov
 contentType: prose
 ---
 
+<section>
+
 Nemálo don Quijote rozmýšlel o odpovědi čarovné hlavy, ale nepřišel vůbec na její šalebnost a jeho myšlenky končily vždy slibem, proň zajištěným, že Dulcinea bude osvobozena. Chodil sem a tam a radoval se sám u sebe, spoléhaje, že brzo uvidí vyplnění. Sancho, ačkoliv pojal v ošklivost povolání vladařské, jak bylo řečeno, přece jen si přál znovu někomu rozkazovat a být poslouchán. Neboť toto neštěstí s sebou rozkazování přináší, i když se děje žertem.
 
 Zkrátka, toho odpoledne don Antonio Moreno, jeho hostitel, jeho dva přátelé, don Quijote a Sancho odešli na galeje. Velitel, zpraven o jejich návštěvě, byl zvědav na oba pověstné muže, dona Quijota i Sancha, a jakmile se objevili na nábřeží, všechny galeje strhly stanové pokrývky a zazněly trubky; potom spustili na vodu člun, pokrytý bohatými koberci a polštáři z karmínového aksamitu, a když do něho don Quijote vkročil, velitelská loď vypálila z děla na svém boku a ostatní galeje taktéž; když pak don Quijote vystupoval po pravém žebříku, všechna posádka, jakož je zvykem, když vznešená osoba vystupuje na galej, jej pozdravila volajíc: „Hu, hu, hu“ třikrát. Generál – takto jej budeme nazývat –, jenž byl vznešeným šlechticem valencijským, podal mu ruku, pak objal dona Quijota a řekl mu:
@@ -108,3 +110,5 @@ A rozkázal okamžitě pověsit na ráhně oba Turky, kteří zabili jeho vojá
 Potom se snažili vymyslit plán, jak dostat dona Gregoria z nebezpečí, v němž vězel; Ricote nabídl přes dva tisíce dukátů, které měl v perlách a skvostech; bylo mnoho návrhů, ale žádný se nevyrovnal návrhu zmíněného již španělského odpadlíka: nabídl se, že se vrátí do Alžíru na nějaké malé lodici, asi o šesti lavicích, opatřené křesťanskými veslaři, neboť ví, kde, jak a kdy je možno a nutno přistát, a zná i dům, kde don Gaspar bydlí. Generál a místokrál byli na pochybách, mají-li věřit odpadlíkovi a svěřit mu křesťanské veslaře, ale Anna Felix naň spolehla a její otec Ricote slíbil vykoupit křesťany, budou-li náhodou zajati.
 
 Po tomto rozhodnutí místokrál vystoupil na břeh a don Antonio Moreno s sebou odvedl Maurku i jejího otce, protože mu místokrál doporučil, aby je uhostil a pečoval o ně, jak jen lze, že mu sám nabízí vše, co by z jeho domu mohlo sloužit k pohoštění. Takovou laskavost a soucit vnukla krása Anny Felix jeho srdci.
+
+</section>

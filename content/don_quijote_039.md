@@ -3,6 +3,8 @@ title: "KAPITOLA XXXI\\.o\_mnohých významných věcech\\."
 contentType: prose
 ---
 
+<section>
+
 Sancha nesmírně těšila důvěrná přízeň paní vévodkyně a těšil se, že se bude v zámku míti jako v domě dona Diega a Basiliově, neboť myslil stále na dobré jídlo a těžil ze všeho, kdykoliv a pokaždé, jakmile se mu jen naskytla příležitost.
 
 Historie vypráví, že na cestě k zámku je vévoda předejel a dal sluhům rozkazy, jak se chovat k donu Quijotovi; když se tento přiblížil s vévodkyní k bráně zámku, vyběhli ihned sluhové nebo štolbové v řízách z karmazínového jemného atlasu, pomohli mu sestoupiti ze sedla a šeptali mu, aby to nikdo neslyšel:
@@ -132,3 +134,5 @@ Pak se duchovní obrátil k donu Quijotovi se slovy:
 „A vy, hliněná hlavo, kdo vám namluvil, že jste potulným rytířem a že vítězíte nad obry a zajímáte lupiče? Odejděte v klidu a poslechněte mé rady: navraťte se domů, starejte se o děti, máte-li je, spravujte své jmění, nechte toulek světem, přestaňte se živit větrem a nebuďte pro smích všem známým a neznámým. Jak jste si proboha mohl vymyslit, že byli a jsou potulní rytíři? Kdepak žijí ve Španělsku nebo v Manchi obři nebo zbojníci, zakleté Dulciney a všechny ty nesmysly, které se o vás šíří?“
 
 Don Quijote naslouchal pozorně radám ctihodného chlapíka a spatřiv, že zmlkl, vyskočil, zapomínaje na povinnou úctu k hostitelům a rozhněvaně s tváří zkřivenou zvolal… Jeho odpověď vyžaduje však zvláštní kapitoly.
+
+</section>
