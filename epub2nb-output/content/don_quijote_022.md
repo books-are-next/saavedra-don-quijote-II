@@ -3,6 +3,8 @@ title: "KAPITOLA XIV\\.pokračující v\_líčení dobrodružství Lesního ryt�
 contentType: prose
 ---
 
+<section>
+
 Mimo jiné řeči dona Quijota s Lesním rytířem vyprávění zaznamenává příběh, který Lesní rytíř vyprávěl donu Quijotovi:
 
 „Přál bych si, pane rytíři, abyste věděl, že můj vlastní osud nebo lépe moje vlastní vůle mě přinutila, abych miloval nevyrovnatelnou Casildeu z Vandalie; nevyrovnatelnou proto, že žádná žena se jí nevyrovná ani růstem, ani původem, ani krásou. Tato Casildea odměnila moje dobré úmysly a počestnou touhu tím, že mě posílala jako macecha Heraklea do různých nebezpečí, a jakmile jsem dokončil nějaký čin, uložila mi jiný se slibem, že jeho ukončení bude také koncem mé marné touhy; ale moje námaha vyrostla nekonečně a nevím skutečně, který ten úkol bude poslední a zároveň i počátkem naplnění mé touhy.
@@ -131,3 +133,5 @@ Vtom Zrcadlový rytíř procitl a don Quijote míře hrotem taseného meče pro
 Don Quijote pomohl mu vstáti s Tomé Cecialem, jeho zbrojnošem, který Sanchovi, nespouštějícímu z něho očí, odpovídal na otázky, z nichž vysvítalo, že je to skutečně Tomé Cecial; ale tvrzení pánovo a kouzelné proměnění Zrcadlového rytíře v bakaláře Carrasca zvítězilo, takže nevěřil tomu, co na své vlastní oči spatřil. Pán ani sluha neprohlédli zkrátka šalbu a Zrcadlový rytíř se svým zbrojnošem odešli smutní a rozmrzelí od dona Quijota a Sancha, aby si mohl bakalář napraviti hřbet.
 
 Don Quijote a Sancho ubírali se dále do Zaragozy; historie je na této cestě nesleduje, ale prozrazuje, kdo byl Zrcadlový rytíř a jeho nosatý sluha.
+
+</section>

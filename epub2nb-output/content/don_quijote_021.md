@@ -3,6 +3,8 @@ title: "KAPITOLA XIII\\.,pokračující o\_dobrodružství Lesního rytíře a\_
 contentType: prose
 ---
 
+<section>
+
 Rozešedše se, začali zbrojnoši rozmlouvat o svém životě a rytíři o své lásce; historie mluví nejprve o rozmluvě sluhů, potom teprv o rytířích. Jakmile se oba zbrojnoši vzdálili, řekl Lesní zbrojnoš Sanchovi:
 
 „Těžký a namáhavý život vedeme, můj pane, my zbrojnoši potulných rytířů; to jest jeden z trestů, které Pánbůh seslal na naše prarodiče.“
@@ -90,3 +92,5 @@ Sancho na to:
 „Půjdu se svým pánem až do Zaragozy, pak s ním o tom promluvíme.“
 
 Oba zbrojnoši záhy usnuli únavou z pití a hovoru a spánek aspoň uspal jejich žízeň, kterou zahnat nebylo lze. Zanecháme je spící, ani drží společně prázdný měch a v spánku ještě žvýkají, a obrátíme svou pozornost k Lesnímu rytíři a donu Quijotovi.
+
+</section>

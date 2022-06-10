@@ -3,6 +3,8 @@ title: "KAPITOLA XXV\\.,kde se přesně vypráví o\_dobrodružství s\_hýkán�
 contentType: prose
 ---
 
+<section>
+
 Don Quijote by nepozřel sousta, jak se říká, kdyby dříve nevyslechl a nezvěděl podivné příběhy, o kterých se zmínil muž vezoucí zbraně. Šel za ním, jak mu hostinský řekl, našel jej a žádal, aby mu ihned pověděl, jak na cestě slíbil. Muž pravil:
 
 „Moje pozoruhodné vyprávění vyžaduje klidu a nesmí se při něm stát; dovolte, Milosti, abych nejprve obstaral svého mezka, a pak vám povím věci, nad nimiž užasnete.“
@@ -144,3 +146,5 @@ Zatřásl ramenem jako obvykle, opice mu na ně vyskočila a šeptala mu, jak s
 „Nikoliv jakousi,“ zvolal mistr Pedro. „Mé divadlo má šedesát tisíc novinek; tvrdím, Milosti pane done Quijote, že jest to jedna z největších zajímavostí nynější doby, a operibus credite et non verbis; ale začněme, neboť jest již dosti pozdě a já toho chci ještě mnoho předvésti, říci a ukázati.“
 
 Don Quijote a Sancho odebrali se do místnosti, kde bylo jeviště již postaveno a opona rozhrnuta; četné hořící svíčičky z vosku vypadaly a svítily velice pěkně. Mistr Pedro odešel za jeviště, neboť musil pohybovati umělými figurami, a před jevištěm mladý jeho sluha vysvětloval a objasňoval tajemství hry; hůlkou, kterou držel v ruce, ukazoval na jednotlivé figurky, které se na jevišti objevily. Jakmile se všichni hosté hospody posadili neb postavili před jevištěm a když don Quijote, Sancho, panoš a bratranec obsadili nejlepší místa, sluha mistra Pedra začal odříkávati to, o čem se dozví každý, přečte-li si následující kapitolu.
+
+</section>

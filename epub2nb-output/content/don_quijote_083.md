@@ -3,6 +3,8 @@ title: "KAPITOLA LXXIII\\.o\_znameních, jež spatřil don Quijote při vstupu d
 contentType: prose
 ---
 
+<section>
+
 Když vjížděli do vsi, spatřil don Quijote, jak praví Cide Hamete, že se na humnech hádají dva kluci, a jeden pravil druhému:
 
 „Ani se nenamáhej, Periquillo, už jí neuvidíš nadosmrti.“
@@ -71,3 +73,5 @@ K tomu hospodyně přidala:
 „Mlčte, dcery,“ odvětil jim don Quijote, „já dobře vím, co dělám. Odveďte mě na lože, neboť se mi zdá, že mi není zcela dobře, a buďte jisty, že ať jsem potulným rytířem, nebo toulajícím se pastýřem, neopominu nikdy opatřovati vám, čeho byste potřebovaly, jak uvidíte na mých skutcích.“
 
 A milé dcery (a hospodyně i neť jimi beze vší pochyby byly) jej odvedly do postele, daly mu najíst a pečovaly oň, jak jen mohly.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA XI\\.o\_podivném dobrodružství dona Quijota u\_vozu Dvořan�
 contentType: prose
 ---
 
+<section>
+
 Don Quijote cestou přemýšlel o nevhodném vtipu, kterého se dopustili kouzelníci proměnivše jeho paní Dulcineu v ošklivou vesničanku, a nemohl si vůbec vysvětliti, jakým způsobem zase by se změnila v původní podobu; zabrán do těchto myšlenek uvolnil otěž Rocinantovu, který zpozorovav to loudal se krokem a popásal se na trávě, které bylo v krajině velmi mnoho.
 
 Jeho zadumání přerušil Sancho Panza, řka:
@@ -74,3 +76,5 @@ Sancho, přijev a zpozorovav, že chce útočiti na pevně sestavenou četu, pr
 „Zní-li takto tvoje rozhodnutí,“ pravil don Quijote, „Sancho dobrý, moudrý, křesťanský a spravedlivý, nevšímejme si těchto strašidel a vydejme se za lepšími a vhodnějšími příhodami, neboť, jak se mi zdá, v této krajině nebudeme postrádati četných a divných dobrodružství.“
 
 Obrátil koně, Sancho uchopil osla a smrt s celou společností usadila se zase na káře a jela dále. Podivná příhoda s károu smrti díky rozvaze Sanchově skončila tudíž dobře a den nato potkalo dona Quijota nové zábavné dobrodružství, zajímavé jako předešlé, se zamilovaným potulným rytířem.
+
+</section>

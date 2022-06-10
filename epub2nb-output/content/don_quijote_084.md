@@ -3,6 +3,8 @@ title: "KAPITOLA LXXIV\\.o\_onemocnění dona Quijota, jeho závěti a\_smrti\\.
 contentType: prose
 ---
 
+<section>
+
 Jelikož věci lidské nejsou věčné a obzvláště životy lidí se chýlí stále od svého počátku, až dospějí svého konce, a poněvadž život dona Quijota neměl božské výsady zadržeti svůj průběh, nastal jeho konec a smrt, když nejméně myslil. Ať to bylo působením smutku nad porážkou, ať dopuštěním a rozkazem nebeským, dostal horečku, která ho připoutala na lože na šest dní, během kterých jej mnohokráte navštívili jeho přátelé, farář, bakalář a holič; Sancho Panza, jeho dobrý zbrojnoš, neopouštěl jeho záhlaví. Domnívali se, že jej do toho stavu přivedl zármutek z přemožení a bolest, že nespatřil vyplnění své touhy osvobodit z kouzel Dulcineu, i snažili se jej všemožným způsobem potěšit: bakalář mu říkal, aby si dodal ducha a vstal k zahájení pastýřského povolání, že pro ně složil už eklogu takovou, že se Sanazarovy musí schovat, že už koupil z vlastních peněz dva nádherné psy k hlídání stáda, jeden že se jmenuje Barcino, druhý Butrón a že mu je prodal dobytkář z Quintanaru. Ale don Quijote nepřestával být smutný.
 
 Jeho přátelé zavolali lékaře, ten mu ohmatal tep, nebyl tuze spokojen a řekl, aby se pro každý případ staral o spásu své duše, neboť spása těla je v nebezpečí. Don Quijote to vyslechl klidně, ale nikoliv jeho hospodyně, neť a zbrojnoš, kteří se jali hořce plakat, jako by jej měli před sebou už mrtvého. Lékař měl za to, že jej usmrcují smutek a bolesti. Don Quijote prosil, aby jej nechali o samotě, že se chce trochu vyspat. Uposlechli a on spal v jednom kuse, jak se říká, šest hodin, že už hospodyně a neteř myslily, že zemře ve spaní.
@@ -78,3 +80,5 @@ pro mne bylo vyhrazeno._
 Výhradně pro mne se narodil don Quijote a já pro něho; on uměl jednat a já psáti; jen my dva jsme jednotou navzdory falšujícímu spisovateli z Tordessilas, který se odvážil nebo odváží psát hrubým a drzým pštrosím brkem o výkonech mého statečného rytíře, což není náklad pro jeho ramena ani námět pro jeho vychladlý důvtip. Upozorni jej, poznáš-li ho náhodou, aby nechal odpočívat v hrobě unavené a již zetlelé kosti dona Quijota a nechtěl jej odvádět proti všem právům smrti do Staré Kastilie, nutě ho vstávat z hrobu, kde vskutku a opravdově leží, natažen jak dlouhý, tak široký a neschopen třetí výpravy a nového odjezdu. Neboť k zesměšnění všech výprav tolikerých potulných rytířů stačí dvě, které podnikl, k rozkoši i potěše lidí, kteří o nich zvěděli, jak u nás, tak v cizích královstvích. Tím splníš své křesťanské poslání, radě dobře tomu, kdo ti přeje zlé, a já budu spokojen a pyšen, že jsem byl první, který se těšil z ovoce svých spisů zplna tak, jak si toho přál, neboť nic jiného nebylo mým přáním, leč zoškliviti lidem falešná a pošetilá vypravování knih o rytířích, která zásluhou a vlivem historie o mém pravdivém donu Quijotovi již upadají, a není pochyby, že upadnou úplně.“
 
 Vale.
+
+</section>

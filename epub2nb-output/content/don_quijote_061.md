@@ -3,6 +3,8 @@ title: "KAPITOLA LI\\.o\_dalším vladaření Sancha Panzy a\_jiných pěkných 
 contentType: prose
 ---
 
+<section>
+
 Docházíme k vylíčení dne po noci vladařovy obchůzky, již vrchní číšník strávil beze spánku přemýšleje o tváři, jarosti a kráse přestrojené dívky; správce použil zbytku noci k vypsání svému panstvu všeho, co Sancho Panza učinil a řekl, a podivoval se stejně obojímu, neboť jeho slova se mísila s jeho skutky a v nich chytrost s hloupostí. Konečně pan vladař vstal a z rozkazu doktora Petra Škrobence mu dali k snídani trochu zavařeniny a čtyři doušky studené vody, což by byl Sancho s chutí vyměnil za kus chleba a hrozen vína; ale vida, že se svou vůlí nepořídí proti nutnosti, podrobil se jí, ač ho srdce bolelo a žaludek jeho byl unaven; doktor Škrobenec ho přesvědčil, že skromný a jemný pokrm zbystřuje rozum, čehož je nejvíce třeba osobám ustanoveným k vládě a vážným úřadům, v nichž mají používat ne tak sil tělesných jako schopností rozumu. Pro tu sofistiku Sancho trpěl hlad, a to takový, že v tajnosti proklínal vladaření a toho, kdo mu je dal; ale přes hlad i zavařeninu se jal toho dne soudit a první mu předložil otázku nějaký cizinec za přítomnosti správcovy i ostatní družiny. Zněla:
 
 „Pane, mohutná řeka dělila na dvě části jediné panství. Dejte pozor, Milosti, neboť případ je důležitý a dost nesnadný. Přes tu řeku vedl most, pravím, a na jeho kraji šibenice a jakási soudní síň, v níž obyčejně čtyři soudcové soudili podle zákona, jejž vydal vlastník řeky, mostu a panství a jenž zněl: ‚Přechází-li někdo po tomto moste z jedné strany na druhou, ať odpřisáhne nejprve, kam jde a proč; přizná-li pravdu, nechť mu je dovoleno přejít; vyřkne-li lež, ať zemře zde na šibenici bez milosti jakékoliv.‘ Poněvadž zákon i přísná jeho podmínka byly známy, mnozí přecházeli a na jejich přísaze bylo hned patrno, že mluví pravdu, i nechávali je soudcové odejít svobodně. Stalo se však, že jeden člověk při přísaze prohlásil, že přichází zemřít na šibenici, jež zde stojí, a pro nic jiného. Soudce ta přísaha zarazila, i řekli: ‚Necháme-li tohoto člověka volně přejít, lhal u přísahy a podle zákona má zemřít na šibenici, a podle téhož zákona má býti propuštěn.‘ Jste tázán, milostivý pane vladaři, co soudcové s tím člověkem učiní, neboť až dosud pochybují a čekají. Poněvadž pak zvěděli o bystrém a vysokém rozumu Vaší Milosti, poslali mě, abych vás jejich jménem požádal o váš názor v tom zapleteném a pochybnosti budícím případě.“
@@ -33,7 +35,9 @@ Když Sancho pojedl toho dne proti pravidlům a aforismům doktora z Tirteafue
 
 „Může se číst nahlas. To, co pan don Quijote píše Vaší Milosti, zaslouží být vytištěno a vypsáno zlatými písmeny. Praví toto:
 
-  
+</section>
+
+<section>
 
 ‚Dopis dona Quijota de la Mancha Sanchu Panzovi, vladaři ostrova Baratarie.
 
@@ -49,7 +53,9 @@ Tvůj přítel don Quijote de la Mancha.‘“
 
 Sancho vyslechl dopis velmi pozorně a všichni, kdo jej slyšeli s ním, prohlásili jej a pokládali za rozumný. Sancho zvednuv se od stolu a zavolav tajemníka zavřel se s ním pak ve svém pokoji a chtěl bez prodlení odpovědět svému pánu donu Quijotovi. Řekl tajemníkovi, aby psal, co mu řekne, neubíraje a nepřidávaje nic; tak se i stalo. A odpověď Sanchova byla takováto:
 
-  
+</section>
+
+<section>
 
 „Dopis Sancha Panzy donu Quijotovi.
 
@@ -66,3 +72,5 @@ Služebník Vaší Milosti, Sancho Panza, vladař.“
 Tajemník zavřel psaní a hned vypravil posla; posměváčci se pak shromáždili a dohodli mezi sebou, jak připravit Sancha Panzu o vladařství. Ten večer strávil Sancho vydáváním několika nařízení, týkajících se správy toho, co měl za ostrov, a nařídil, aby nebylo v obci trpěno překupování potravin a aby do ní mohlo přicházet víno odevšad s podmínkou, že bude oznamováno místo původu, aby mohla být určena jeho cena podle jeho hledanosti, dobroty a pověsti; ten, kdo by je ředil vodou nebo vylhával jeho původ, aby byl popraven; snížil cenu vší obuvi, zvláště střevíců, neboť se mu zdálo, že stoupá nesmírně; ustanovil míru platů služebnictvu, které o překot běželo za svým prospěchem; zakázal pod velmi přísnými tresty zpěv nemravných a nezřízených písní ve dne i v noci; nařídil, aby žádný slepec nezpíval verše o zázracích, ani neukazoval osvědčení o pravosti zázraků, maje za to, že většina zázraků slepci opěvaných je vymyšlena na úkor pravých; stvořil úřad starosty chudých, ne aby je pronásledoval, ale aby zkoumal jejich chudobu, neboť ve stínu předstírané chudoby a falešného poranění skrývají se zlodějská ramena a pijanské zdraví.
 
 Zkrátka, zařídil věci tak dobré, že podnes trvají v onom městě a jsou nazývány „Zákony velkého vladaře Sancha Panzy“.
+
+</section>

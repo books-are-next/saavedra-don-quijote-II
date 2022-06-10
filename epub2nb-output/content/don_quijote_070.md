@@ -3,6 +3,8 @@ title: "KAPITOLA LX\\.,o\_tom, co se přihodilo donu Quijotovi cestou do Barcelo
 contentType: prose
 ---
 
+<section>
+
 Bylo svěží jitro a bylo znát, že takový bude i den, když don Quijote opustil hospodu, dotázav se nejprve, kudy je nejkratší cesta do Barcelony, aniž by se zavadilo o Zaragozu: do té míry toužil odhalit lživost onoho nového vypravěče, který jej tak tupil, jak říkali. Stalo se, že po více než šest dní ho nepotkalo nic hodného vypsání; po jejich uplynutí, když jel mimo cestu, stihla ho noc mezi hustými duby nebo korkovníky; v tom Cide Hamete není tak přesný, jako v jiných věcech bývá.
 
 Pán i sluha sestoupili ze svých zvířat a uvelebili se pod pni stromů; Sancho, který toho dne už posvačil, nebránil se okamžitému vstupu do bran spánku. Ale don Quijote, jemuž bránily spát více jeho myšlenky než hlad, nemohl zamhouřit oka: toulal se v myšlenkách tisícerými místy, brzo se domníval být v jeskyni Montesínově, brzo viděl vskakovat na svou oslici Dulcineu v selku proměněnou, brzo opět mu zněla v uších slova mudrce Merlína, oznamující mu podmínky a výkony, jejichž vyplněním a uskutečněním bude Dulcinea vysvobozena. Zoufal si nad lhostejností a krutostí svého zbrojnoše Sancha, neboť se domníval, že si dal jen pět ran, což je číslo nesrovnatelně malé vedle nesmírného počtu, jenž ještě chyběl; a to jej tak trápilo a mrzelo, že si řekl toto: „Jestliže Alexander Veliký rozťal gordijský uzel, řka ‚Roztít jako rozvázat‘, a přece se stal neomezeným pánem vší Asie, totéž by se nyní mohlo státi ve věci začarované Dulciney, kdybych našlehal Sanchovi přes jeho vůli: neboť, je-li podmínkou jejího osvobození, aby Sancho dostal tři tisíce a několik šlehů, co mi na tom záleží, dá-li si je sám, nebo dá-li mu je jiný, když přece hlavní je, aby je dostal, ať přijdou odkudkoliv.“
@@ -147,3 +149,5 @@ Nešťastník neřekl to dosti tiše, aby to Roque nezaslechl; chopil se meče a
 Všichni byli zděšeni a žádný se neodvážil slova, v takové je udržoval kázni.
 
 Roque poodešel a napsal dopis svému příteli v Barceloně, kde jej zpravil, že je u něho pověstný don Quijote de la Mancha, ten potulný rytíř, o němž se tolik vypráví; oznámil mu, že rytíř je nejpůvabnějším a nejrozumnějším člověkem na světě a že mu jej za čtyři dny, na den svatého Jana Křtitele, odevzdá na městském pobřeží, ozbrojeného vší zbrojí, na jeho koni Rocinantovi i se zbrojnošem Sanchem na oslu, a aby to oznámil jeho přátelům Niarrům, aby se s ním pobavili; napsal též, že by si přál, aby to potěšení bylo odepřeno nepřátelskému rodu Cadellů, ale že je to nemožné, poněvadž bláznovství a vtipnosti dona Quijota a nápady jeho zbrojnoše Sancha Panzy nutně působí zábavu všeobecnou. Toto psaní odeslal po jednom ze svých zbrojnošů, který změnil lupičský šat za selský, odešel do Barcelony a odevzdal je, komu bylo určeno.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA IV\\.,ve které Sancho Panza odpovídá na pochybnosti a\_dotaz
 contentType: prose
 ---
 
+<section>
+
 Sancho vrátiv se do domu dona Quijota navázal na dřívější rozepři a pravil:
 
 „Na to, co vytkl pan Sanson, že událost o krádeži osla nebyla vysvětlena, odpovídám: téže noci, kdy jsme utekli před Svatým bratrstvem a dostali se do Sierry Moreny, po oné příšerné příhodě s galejníky a mrtvým, kterého odnášeli do Segovie, můj pán opíraje se o kopí a já sedě na oslu, oba nesmírně skleslí a vyčerpaní, usnuli jsme v křoví, jako bychom spali v peřinách; spal jsem tvrdým spánkem; někdo se ke mně patrně přiblížil a podepřel a podložil čtyřmi kůly sedlo; seděl jsem na něm dále, on zatím ukradl osla, aniž jsem co zpozoroval.“
@@ -56,3 +58,5 @@ Dokončiv rozmluvu prosil don Quijote bakaláře, aby mu složil nějaké verše
 „Rozhodně to tak musí býti,“ řekl don Quijote, „neboť kdyby nebylo její jméno jasné a čitelné, každá žena bude mysliti, že verše byly složeny pro ni.“
 
 Umluvili se, že odejdou do světa za týden. Don Quijote požádal bakaláře, aby se o tom nezmiňoval před farářem, mistrem Mikulášem, neteří ani hospodyní, neboť oni jistě by překazili jeho odvážný a čestný úmysl. Carrasco přislíbiv, odešel, žádaje dona Quijota o zprávu týkající se jeho dobrých i zlých dobrodružství, jakmile bude moci; rozloučili se a Sancho šel uchystat vše potřebné k odjezdu.
+
+</section>

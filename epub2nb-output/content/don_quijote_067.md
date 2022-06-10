@@ -3,6 +3,8 @@ title: "KAPITOLA LVII\\.o\_tom, jak se don Quijote rozloučil s\_vévodou a\_co 
 contentType: prose
 ---
 
+<section>
+
 Již se donu Quijotovi zdálo, že je záhodno opustit lenošivý život, jejž vedl na zámku; myslil, že jeho osoba světu velmi chybí, je-li uzavřen pohodlně v nesčíslných hostinách a rozkoších, které mu ono panstvo jako potulnému rytíři strojilo, a měl za to, že se bude musit přísně nebesům odpovídat za tu zahálčivost a uzavřenost. I požádal jednoho dne vévody o dovolení k odchodu. Dostal je od nich s ujištěním, že jeho odchod je velmi rmoutí.
 
 Vévodkyně odevzdala Sanchu Panzovi psaní od jeho ženy a ten nad nimi zaplakal, řka:
@@ -102,3 +104,5 @@ Vévoda chtěl vtip korunovat, i pravil:
 „A neříkal jsem to?“ pravil Sancho. „Já se tak na to hodím schovávat kradené! Kdybych to byl chtěl dělat, měl jsem tisíc příležitostí ve svém vladařství!“
 
 Don Quijote sklonil hlavu a poklonil se vévodským manželům i všem okolostojícím, obrátil Rocinanta a provázen Sanchem na oslu opustil zámek bera se k Zaragoze.
+
+</section>

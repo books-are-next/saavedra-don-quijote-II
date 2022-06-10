@@ -3,6 +3,8 @@ title: "KAPITOLA X\\.,která vypráví, jakou lstí začaroval Sancho paní Dulc
 contentType: prose
 ---
 
+<section>
+
 Přišel spisovatel tohoto znamenitého vyprávění až k této kapitole a říká, že by ji raději vynechal, neboť se obává, že mu nebude uvěřeno; bláznovství dona Quijota dostupuje zde vrcholu a nejvyššího stupně, jaký lze si vůbec pomysliti, a snad jej i převyšuje o dvojí dostřel. Vypsal ji věrně podle pravdy se strachem a bázní, nezkrátil a nenatáhl vypravování ani o prášek pravdy, nehledě k tomu, že by mohl býti kárán z nepravděpodobnosti. Jednal zcela správně, neboť pravda se dá ohýbati, ale nikdy přelomiti, a vyjde vždy najevo jako olej nad vodu.
 
 Vypráví tedy dále, že don Quijote, jakmile se skryl do svého houští či lesíka poblíž velikého Tobosa, poručil Sanchovi, aby se vrátil do města a nepřicházel zpět dříve, dokud jeho jménem nepožádá jeho paní, aby se laskavě ukázala svému rytíři a aby mu ráčila dáti své požehnání, ze kterého by mohl doufat v šťastné ukončení své dobrodružné výpravy a obtížných příhod. Sancho přislíbil splniti jeho rozkaz a přinésti mu odpověď příznivou právě tak jako poprvé.
@@ -138,3 +140,5 @@ Jakmile se ztratily z obzoru, don Quijote, který je sledoval, pravil Sanchovi:
 „Ó, že jsem to vše neviděl, Sancho,“ vzdychl don Quijote; „nyní opět říkám a budu věčně říkat, že jsem nejnešťastnější z lidí.“
 
 Dareba Sancho se měl co přemáhat, aby udržel smích, slyše nesmysly svého pána, tak snadno napáleného. Nakonec, po mnoha řečech, znovu vstoupili do sedel a zamířili k Zaragoze, kam mínili dorazit včas k okázalým slavnostem, jež se v onom proslulém městě každoročně konají. Ale dříve než tam dorazili, potkaly je věci tak četné, významné a nevídané, že zaslouží být zapsány a čteny.
+
+</section>

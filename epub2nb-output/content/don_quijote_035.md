@@ -3,6 +3,8 @@ title: "KAPITOLA XXVII\\.,kde se vypráví, kdo byl mistr Pedro a\_jeho opice a\
 contentType: prose
 ---
 
+<section>
+
 Cide Hamete, kronikář tohoto velkého vyprávění, počíná tuto kapitolu těmito slovy:
 
 „Přisahám jako katolický křesťan.“
@@ -43,3 +45,5 @@ Ať mě čert veme, řekl si v duchu Sancho, nevyrovná-li se můj pán telelog
 Stiskl si rukou nos a zahýkal tak hlasitě, že to bylo slyšeti i v okolních údolích; jeden z kolemstojících, domnívaje se však, že si z nich dělá blázna, napřáhl se a uhodil jej klackem, který držel v ruce tak, že Sancha srazil k zemi. Don Quijote vida ublížení spáchané na Sanchovi rozjel se s píkou na muže, který mu dal ránu, ale zastoupli mu cestu a zabránili v pomstě; poněvadž viděl, že se na něho valí déšť kamení a že proti němu míří množství kuší a tolikéž pušek, obrátil Rocinanta a chvátal, jak tento nejvíce mohl, prose vřele Boha, aby jej ochránil od záhuby; na každém kroku trnul strachem, že mu koule prorazí hruď a vyletí prsy, a každou chvilku vydechl, aby se přesvědčil, že ještě dýchá. Ale ozbrojená tlupa se uklidnila vidouc ho utíkati a nestříleli na něho. Sancha, jakmile se poněkud vzpamatoval, vysadili na osla a poslali za pánem. Nenabyl sice dosud vědomí, aby mohl ovládati osla, ten ale klusal po stopě Rocinantově, bez něhož nemohl chvilku žíti. Don Quijote odjel kus cesty a obrátiv se zpozoroval, že se Sancho blíží, i zastavil se a čekal na něho, jakmile viděl, že jej nikdo nestíhá.
 
 Ozbrojená četa setrvala tam až do tmy, a ježto je nepřátelé nenapadli, vrátili se vesele a radostně do vesnice; kdyby byli věděli o starém zvyku Řeků, jistě by byli vybudovali na onom místě vítěznou trofej.
+
+</section>

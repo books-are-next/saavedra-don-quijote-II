@@ -3,6 +3,8 @@ title: "KAPITOLA XXXIX\\.o\_dalším průběhu úžasné a\_významné příhody
 contentType: prose
 ---
 
+<section>
+
 Každou poznámkou Sanchovou bavila se vévodkyně stejně, jako jí byl don Quijote pohněván; zakázal Sanchovi další mluvení a Dolorida pokračovala:
 
 „Infantka pevně trvala na svém prvním rozhodnutí a neuhnula ani o krok, a tak vikář po dlouhém soudním řízení rozhodl v prospěch dona Clavija a dal mu ji za zákonnou manželku. To pohněvalo královnu, doňu Maguncii, matku Antonomasiinu tak, že za tři dny jsme ji pohřbili.“
@@ -28,3 +30,5 @@ Trojfaldová mluvila dále:
 „Tak se nám pomstil ten ničema a bídák Malambruno, zakryv naše jemné a půvabné tváře hrubými štětinami. Kéž by nebe bylo připustilo, aby nám raději svou ohromnou šavlí uťal hlavy, než aby zatemnil světlo našich lící touto srstí, neboť uvažte, pánové, (a chtěla bych, aby se při tom, co chci říci, moje oči staly prameny; ale přemýšlením o naší záhubě a mořem slz, jež prolily, vyschly a vyprahly naše oči jako plevy, a proto to říkám bez slz) táži se vás, kam se má uchýliti vousatá dueňa? Který otec nebo matka se nad ní ustrne? Kdo jí pomůže? Neboť, má-li i jemné tváře, ale obličej zhyzděný četnými vodičkami a líčidlem, stěží nalezne někoho, kdo by o ni stál; co má potom dělat, když odkryje tvář, a ta je jeden les? Ó dueni a družky moje, v nešťastné hodině jsme přišly na svět, ve zlé chvíli nás otcové zplodili.“
 
 Po tomto zvolání se zdálo, že omdlévá.
+
+</section>

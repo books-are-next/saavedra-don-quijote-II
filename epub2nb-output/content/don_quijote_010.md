@@ -3,6 +3,8 @@ title: "KAPITOLA II\\.,ve které se vypráví o\_pozoruhodném sporu Sancha Panz
 contentType: prose
 ---
 
+<section>
+
 Historie líčí, že povyk, který zaslechli don Quijote, farář a holič, tropily neteř a hospodyně, volajíce na Sancha Panzu, který chtěl vniknouti do domu navštíviti dona Quijota, a zabraňujíce mu vstoupiti.
 
 „Co si přeje tento ničema v tomto domě? Vraťte se domů, bratře, neboť vy jediný svádíte mého pána a vláčíte jej po světě.“
@@ -84,3 +86,5 @@ Mezitím se don Quijote zamkl se Sanchem ve svém pokoji, kde mu řekl, když by
 „Pak tedy pro něho doběhnu,“ řekl Sancho; opustil svého pána a za chvilku se vrátil s bakalářem; tu všichni tři začali vtipně rozmlouvat.
 
 [^2]: Sancho si plete příjmení Benengeli s obecným berengena, jež značí lilek.
+
+</section>

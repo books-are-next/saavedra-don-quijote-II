@@ -3,6 +3,8 @@ title: "KAPITOLA VII\\.,ve které se vypráví o\_rozmluvě mezi donem Quijotem 
 contentType: prose
 ---
 
+<section>
+
 Jakmile hospodyně zpozorovala, že Sancho Panza se uzavírá se svým pánem, uhodla jeho úmysly a domnívajíc se, že se v tomto rozhovoru dohodnou o třetí výpravě, vzala si plášť a zarmoucena a smutná odešla k bakaláři Sansonu Carrascovi, myslíc, že on, který získal svou výmluvností přátelství dona Quijota, bude moci ho odvrátiti od jeho pošetilého úmyslu.
 
 Našla ho procházejícího se po dvoře jeho domu a klesla mu k nohám zpocená a zoufalá; jakmile Carrasco zpozoroval její ustrašené a žalostné vzezření, řekl jí:
@@ -84,3 +86,5 @@ Bakalář byl udiven řečí Sanchovou a jejím závěrem, neboť ač četl prv
 Don Quijote a Sancho se objali a uzavřeli opět přátelství a na radu a se svolením znamenitého Carrasca, který byl jejich orákulem, umluvili, že odjedou za tři dny, neboť museli připraviti různé věci na cestu, hlavně helmu s hledím, neboť don Quijote prohlásil, že ji musí nutně míti. Sanson mu ji nabídl, věda dobře, že mu ji dá jeho přítel; netřpytila se však ocelí, neboť byla zčernalá špínou a rzí. Hospodyně i neteř proklínaly bez ustání bakaláře, rvaly si vlasy, drásaly obličeje a oplakávaly novou výpravu jako plačky na pohřbech, jako by pán odcházel na smrt. Sanson pobízeje dona Quijota na novou výpravu měl určitý záměr, který smluvil s farářem a holičem již předem a který během vyprávění povíme.
 
 Za tři dny připravili don Quijote a Sancho vše potřebné, Sancho uchlácholil svoji ženu, don Quijote neteř a hospodyni a v podvečer odjeli směrem k Tobosu v průvodu bakaláře, který je chtěl doprovoditi půl míle za ves. Don Quijote jel na znamenitém Rocinantu, Sancho na svém starém oslu, maje torby sedelní vyplněny jídlem a v kapse měl peníze, které dostal od dona Quijota. Sanson objav dona Quijota prosil ho, aby ho zpravil o svých vítězstvích nebo nehodách, kterými se buď potěší, nebo zarmoutí, jak to vyžaduje jeho přátelství. Don Quijote přislíbil, Sanson se vrátil do vesnice a druzí dva se ubírali k veleměstu Tobosu.
+
+</section>

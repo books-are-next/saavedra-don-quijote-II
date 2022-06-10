@@ -3,6 +3,8 @@ title: "KAPITOLA LXI\\.,o\_tom, co potkalo dona Quijota při vstupu do Barcelony
 contentType: prose
 ---
 
+<section>
+
 Tři dny a tři noci pobyl don Quijote u Roqua, a kdyby byl zůstal i tři sta let, nebylo by mu chybělo věcí k obdivu a podivu na jeho životě: zde se probouzeli, tam jedli; jednou prchali nevědouce před kým, podruhé čekali nevědouce na koho; spali stojíce, přerušovali svůj spánek a přecházeli z místa na místo; stále se jen stavěli špehové, vyslýchaly stráže, zapalovaly doutnáky pušek, ač jich měli málo, neboť téměř všichni měli pistole na křemen. Roque trávil noci mimo své lidi, na místech a v útulcích, o kterých nevěděli, neboť četné odsudky na smrt, které místodržící barcelonský nad ním vynesl, jej zneklidňovaly a strašily, i neodvažoval se důvěřovat nikomu, boje se, že vlastní jeho lidé buď jej zabijí, buď vydají spravedlnosti. Jeho život byl dozajista bídný a svízelný.
 
 Konečně cestami neužívanými, stezkami a skrytými pěšinami vydali se Roque, don Quijote, Sancho a šest jiných zbrojnošů do Barcelony. Dorazili na pobřeží v noci před svatým Janem, Roque objal dona Quijota i Sancha, jemuž dal deset slíbených dukátů, jež mu byl dosud neodevzdal, a opustil je s tisíci slibů z jedné i druhé strany. Roque se vrátil.
@@ -34,3 +36,5 @@ Rytíř mu odpověděl stejně vybraně, všichni je uzavřeli do svého středu
 Když do něho vstupovali, ďábel, který všechno zlé řídí, a dva z kluků, kteří jsou horší než ďábel sám, svévolní a odvážní, se vloudili do zástupu: jeden zvedl ocas oslovi, druhý Rocinantovi a vložili a vpravili jim pod ocas po hrsti bodláků. Ubohá zvířata cítila nové ty ostruhy, stiskla ocasy a zvětšila ještě svou bolest tak, že se dala do vyhazování a shodila své pány na zem. Don Quijote rozhněván a uražen běžel odstranit své herce ten chochol zpod ocasu a Sancho oslu. Jeho průvodci chtěli potrestat drzost kluků, ale nebylo to možno, neboť oba zmizeli v davu tisíce jiných kluků, kteří je provázeli.
 
 Don Quijote a Sancho si znovu sedli a s touže hudbou a za téhož volání slávy dojeli do domu svého průvodce, velikého a nádherného, neboť náležel bohatému rytíři. Tam je opustíme, neboť si to přeje Cide Hamete.
+
+</section>

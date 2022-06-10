@@ -3,6 +3,8 @@ title: "KAPITOLA XXVI\\., pokračující v\_půvabném dobrodružství loutkář
 contentType: prose
 ---
 
+<section>
+
 Umlkli Tyrští a Trojané, totiž chci říci, že všichni diváci pozorně poslouchali vykladače tajemství, když tu se za jevištěm ozvalo bubnování, hlas trubek a rachocení četných děl; hluk na okamžik utichl a tlumočník zvolal:
 
 „Tato pravdivá hra, která se nyní Vašim Milostem předvádí, vzata jest přesně z francouzských kronik a španělských románů, které jdou od úst k ústům starých i mladých po ulicích. Hra představuje osvobození Melisendry, zajaté Maury ve španělském městě Sansueni, jejím manželem panem donem Gaiférem; městem Sansuení zvalo se kdysi nynější město Zaragoza; ale povšimněte si, Milosti, jak hraje don Gaiféros v kostky, jak také říká báseň:
@@ -117,3 +119,5 @@ Podobným způsobem odhadl cenu mnoha jiných rozmlácených figur a oba prost�
 „Nikdo to nedovede říci lépe než moje opice,“ pravil mistr Pedro, „ale teď ji nepolapí ani ďábel; myslím však, že ji oddanost ke mně a hlad přinutí k návratu ještě dnešní noci; nu, uvidíme, jak Pánbůh chce.“
 
 Spor pro divadlo utichl tedy a všichni povečeřeli klidně a šťastně za peníze štědrého dona Quijota. Ještě za tmy odešel muž s píkami a halapartnami, a když se rozednívalo, přišli se rozloučiti s donem Quijotem bratranec a panoš, onen vracel se domů a panoš, aby pokračoval v cestě, na niž mu don Quijote přispěl tuctem realů. Mistr Pedro se chtěl vyhnouti dlouhým řečem dona Quijota, neboť jej znal velmi dobře, proto vstal před východem slunce a se zbytky divadla a opicí odešel rovněž za dobrodružstvím. Hospodský, který neznal dona Quijota, obdivoval se jeho bláznovství i jeho štědrosti. A když Sancho vyplnil rozkaz pánův a řádně zaplatil, opustili hospodu téměř v osm hodin zrána. Nyní je opustíme na jejich cestě a povíme jiné věci, nutné k vysvětlení této skvělé historie.
+
+</section>

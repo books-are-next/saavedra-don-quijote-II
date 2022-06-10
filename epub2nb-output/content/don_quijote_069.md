@@ -3,6 +3,8 @@ title: "KAPITOLA LIX\\.,kde se vypráví o\_neobyčejné příhodě, již lze m�
 contentType: prose
 ---
 
+<section>
+
 Od uprášenosti a únavy, které si don Quijote a Sancho jediné odnesli ze styku s nezdvořilými býky, odpomohl jasný a čistý pramen, který našli pod svěžími stromy, vedle nichž se oba tuláci, pán i sluha, uložili, nechavše svobodné, bez ohlávky a uzdy, osla i Rocinanta. Sancho se uchýlil k zásobám svého tlumoku a vytáhl z něho, co nazýval „příkrmem“. Don Quijote si vypláchl ústa, umyl obličej, s kterýmžto občerstvením nabrala nového dechu jeho pokleslá statečnost. Don Quijote nejedl zármutkem a Sancho se neodvažoval dotknout se jídla před sebou ze zdrženlivosti a čekal, až začne pán: ale vida, že pán ponořen v myšlení ani si nevzpomene vzít kus chleba do úst, mnoho nemluvil a zhrdaje veškerým slušným chováním jal se rovnat do žaludku chléb a sýr, jež s sebou měl.
 
 „Jez, milý Sancho,“ řekl don Quijote, „udržuj svůj život, na němž ti záleží víc než mně, a mne nech zemřít působením mých myšlenek a mých neštěstí! Já, Sancho, jsem se narodil, abych žil umíraje, a ty, abys zemřel pojídaje. A abys viděl, že mám pravdu, pohlédni na mne, o němž jednají knihy, jenž jsem slavný svými vojenskými činy, umírněný v jednání, ctěný knížaty a vytoužený dívkami; a když jsem doufal v triumfální palmy a věnce, získané a zasloužené svými statečnými výkony, dočkal jsem se, že mě dnes ráno podupala, zkopala a potloukla kopyta nečistých a hnusných zvířat. Tato myšlenka mi otupuje zuby, ochromuje stoličky, umrtvuje ruce a odnímá úplně chuť jísti, takže zamýšlím umříti hladem, což jest nejkrutější ze všech smrtí.“
@@ -120,3 +122,5 @@ Tázali se ho, kam má v úmyslu. Odvětil, že do Zaragozy, aby se účastnil 
 S tím se rozloučili a don Quijote i Sancho odešli do svého pokoje zůstavujíce dona Juana a dona Jeronýma v údivu nad pomícháním jejich rozumu a bláznovství; vpravdě uvěřili, že toto jsou praví don Quijote a Sancho, a ne ti, o nichž vyprávěl aragonský autor. Don Quijote vstal záhy a klepaje na přepážku druhé světnice rozloučil se se svými hostiteli. Sancho zaplatil hostinskému skvěle a poradil mu, aby méně chválil zásobenost své hospody, ale lépe ji zásobil.
 
 [^11]: Cervantes psal tuto kapitolu, když se mu do rukou dostal druhý díl „Důmyslného rytíře dona Quijota de la Mancha“, napsaný Avellanedou a vydaný v Tarragoně roku 1614. Cervantes s ním ihned polemizuje.
+
+</section>

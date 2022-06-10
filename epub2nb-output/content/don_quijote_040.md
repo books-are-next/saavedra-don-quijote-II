@@ -3,6 +3,8 @@ title: "KAPITOLA XXXII\\.,zaznamenávající odpověď dona Quijota kazateli a\_
 contentType: prose
 ---
 
+<section>
+
 Povstal tedy don Quijote třesa se na celém těle jako v horečce a pravil o překot a přerývaně:
 
 „Dům, ve kterém jsem, přítomní hostitelé a vážnost, kterou cítím k vašemu postavení, Vaše Milosti, mi brání a svazují ruce mého oprávněného hněvu; a proto – i protože vím jako všichni ostatní, že zbraň lidí v klerice jest shodná se zbraní žen, totiž jazyk – dám se jazykem v rovný zápas s Vaší Milostí, od které bych byl spíše očekával dobré rady než podlé pomlouvání. Zbožná a dobře míněná pokárání mají zníti jinak a žádají si jiných okolností. Přinejmenším to, že jste mě káral veřejně a drsně, přesahuje meze slušnosti, neboť pokárání vyžaduje spíš klidu než hrubosti; a jest nesprávné nazvati hned hříšníka bláznem a šílencem, když ani nevíte o hříchu, který vytýkáte. Řekněte mi, Milosti, z jakého bláznovství mě káráte a urážíte a radíte mi, abych se vrátil domů a pečoval o své jmění, ženu a děti, ač nevíte, mám-li nějaké? Stačí snad vnutit se drze do cizích příbytků a poroučeti jejich majitelům? Mnohý nevyšel z těsných zdí lecjakéhož sirotčince a poznal leda dvacet či třicet mil okolí a nyní se opovažuje dávati předpisy rytířstvu a posuzovati potulné rytířstvo!
@@ -126,3 +128,5 @@ Darební sluhové a doprovázející je správce se domnívali, že to vévodky
 „Jest viděti, Sancho,“ na to vévodkyně, „že jste se učil dvornosti ve škole dona Quijota, jenž jest dvornost sama; chci říci, že jste byl vzdělán na ňadrech dona Quijota, který je zřídlem dobrých způsobů a výkvětem jemného mravu, či bravu, jak vy říkáte; přeji štěstí takovému pánu i takovému zbrojnoši, z nichž jeden jest polárkou potulného rytířstva, druhý hvězdou věrnosti zbrojnošské; povstaňte, příteli Sancho, obdaruji vás za vaši dvornost a poprosím svého pána, vévodu, aby vyplnil co nejrychleji svůj slib, dáti vám vladařství.“
 
 Tím byla rozmluva skončena, don Quijote si šel zdřímnout a vévodkyně žádala Sancha, aby zůstal u ní a jejích dívek v chladné místnosti, nechce-li se mu tuze spát. Sancho poznamenal, že je sice zvyklý spáti v létě čtyři nebo pět hodin, ale že vyhoví její dobrotě a seč bude se přičiní, aby toho dne neusnul, a že se vrátí podle jejího rozkazu; potom odešel. Vévoda vydal nová nařízení, jak mají zacházeti s donem Quijotem jako s potulným rytířem, aby se neprohřešili proti pravidlům obvyklým prý u dávných potulných rytířů.
+
+</section>

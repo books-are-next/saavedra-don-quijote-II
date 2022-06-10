@@ -3,6 +3,8 @@ title: "KAPITOLA LXII\\.,jež jedná o\_dobrodružství čarovné hlavy a\_jiný
 contentType: prose
 ---
 
+<section>
+
 Don Quijote byl tedy uhoštěn u muže jménem dona Antonia Morena, rytíře bohatého a moudrého, přejícího počestné a slušné zábavě; přijav dona Quijota do domu hledal způsob, jak by jeho bláznovství učinil veřejným, aniž by mu ublížil, neboť není žertem, co bolí, a není řádnou kratochvílí, co škodí druhému. První, co učinil, bylo, že odňal donu Quijotovi zbroj a vyvedl jej v jeho těsném a špinavě žlutém oděvu na balkon nad jednu z hlavních městských ulic, na oči lidí a kluků, kteří si jej prohlíželi jako opici. Znovu před ním pobíhali ti lidé v okázalém šatě, jako by se byli tak ustrojili pro něho a ne pro to, že byl svátek, a Sancho byl neobyčejně spokojen, neboť se mu zdálo, že se dostal, aniž věděl jak, znovu na svatbu, jako byla Camachova, znovu do domu, jako byl dům dona Diega de Miranda, a znovu do zámku, jako byl vévodův.
 
 Toho dne jedlo u dona Antonia několik přátel a všichni uctívali dona Quijota a jednali s ním jako s potulným rytířem, z čehož se necítil radostí, všecek nadšen a pyšný. Sancho měl tolik vtipných řečí, že všichni sluhové domu i kdo jej slyšeli, mu zrovna viseli na ústech. Don Antonio řekl Sanchovi u stolu:
@@ -198,3 +200,5 @@ Pokračoval a spatřil, že také opravují jinou další knihu; zeptal se po j
 Když domluvil, opustil tiskárnu se známkami jistého hněvu.
 
 Téhož dne rozkázal don Antonio, aby jej odvedli podívat se na galeje na pobřeží, což velmi rozradovalo Sancha, který je jaktěživ neviděl. Don Antonio zpravil velitele galejí, že toho dne odpoledne přivede svého hosta, pověstného dona Quijota de la Mancha, o němž již velitel i všichni městští lidé věděli. Co se mu na galejích přihodilo, bude pověděno v příští kapitole.
+
+</section>

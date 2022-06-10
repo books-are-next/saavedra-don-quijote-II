@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-e73fd7f",
-  "revision": "e73fd7f",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-7c1c39f",
+  "revision": "7c1c39f",
   "readingOrder": [
     "don_quijote_001.html",
     "promo.html",
@@ -97,16 +97,16 @@
     "don_quijote_085.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:19:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870757153
+    "date": "Fri Jun 10 2022 17:55:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883728637
   },
   "documents": [
     {
       "title": "Důmyslný rytíř Don Quijote de la Mancha II",
       "file": "don_quijote_001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -176,9 +176,9 @@
     {
       "title": "Důmyslný rytíř Don Quijote de la Mancha II",
       "file": "don_quijote_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 4,
       "prev": "don_quijote_004.html",
@@ -196,9 +196,9 @@
     {
       "title": "Důmyslný rytíř Don Quijote de la Mancha II",
       "file": "don_quijote_006.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 5,
       "prev": "don_quijote_005.html",
@@ -956,9 +956,9 @@
     {
       "title": "Důmyslný rytíř Don Quijote de la Mancha II",
       "file": "don_quijote_044.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 12,
+      "ideas": 1,
       "role": "chapter",
       "order": 43,
       "prev": "don_quijote_043.html",
@@ -976,9 +976,9 @@
     {
       "title": "Důmyslný rytíř Don Quijote de la Mancha II",
       "file": "don_quijote_045.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 44,
       "prev": "don_quijote_044.html",
@@ -1796,14 +1796,14 @@
   ],
   "totals": {
     "all": {
-      "words": 146377,
-      "chars": 869297,
-      "ideas": 3492
+      "words": 146384,
+      "chars": 869320,
+      "ideas": 3497
     },
     "chapters": {
-      "words": 146364,
-      "chars": 869222,
-      "ideas": 3489
+      "words": 146371,
+      "chars": 869245,
+      "ideas": 3494
     }
   }
 }

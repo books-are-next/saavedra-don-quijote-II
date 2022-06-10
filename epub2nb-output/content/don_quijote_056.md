@@ -3,6 +3,8 @@ title: "KAPITOLA XLVI\\.o\_strašném úděsu zvonečkovém a\_kočičím, kter�
 contentType: prose
 ---
 
+<section>
+
 Zanechali jsme velkého dona Quijota tonoucího v myšlenkách probuzených v něm hudbou zamilované slečny Altisidory. Ulehl s nimi, ale jako by to byly blechy, nenechaly ho ani okamžik spát, ani zdřímnout, a k nim se mísily i myšlenky na punčochy. Ale poněvadž čas je lehký a žádná překážka ho nezdržuje, ujížděl jako jezdec na hodinách a velmi rychle přišlo jitro. Vida to don Quijote opustil měkké peří a hbitě oblékl svůj šat barvy kamzičí a obul své cestovní boty, aby schoval své ohavné punčochy. Navrch přehodil šarlatový plášť a hlavu pokryl čepicí ze zelného aksamitu, ozdobenou stříbrnými stuhami; přes ramena navlékl závěsník s dobrým svým a ostrým mečem, chopil se velkého růžence, který s sebou stále nosil, a velmi slavnostně a sebevědomě zamířil do síně, kde dleli vévoda s vévodkyní již ustrojeni a jako by naň čekali.
 
 Když šel jednou z chodeb, nalezl tam Altisidoru s druhou dívkou, její přítelkyní, any na něj čekaly; jakmile Altisidora spatřila don Quijota, napodobila mdloby a její přítelkyně ji zachytila do klína a velmi hbitě se jí jala rozpínati život. Don Quijote, který na to patřil, řekl přistoupiv k nim:
@@ -89,3 +91,5 @@ Dali přinést třezalkového oleje a sama Altisidora mu obvázala sněžnýma 
 Na to vše don Quijote neodpověděl slovem, ale hluboce vzdychl; pak se natáhl na postel, děkuje vévodům za pomoc, ne snad že by byl měl strach z té kočičí, čarodějné a zvonivé lůzy, ale poněvadž si byl vědom, že mu přišli pomoci s dobrým úmyslem.
 
 Vévodové jej nechali odpočívat a odešli, rozmrzeni špatným koncem žertu; neboť si nepomyslili, že to dobrodružství přijde donu Quijotovi tak draze: stálo ho pět dní pobytu v pokoji a na loži, kdež se mu přihodilo jiné dobrodružství, chutnější než předešlé. Ale dějepisec jeho nechce je vypravovat hned, ale běží za Sanchem Panzou, který si vedl velmi dbale a vtipně ve svém vladařství.
+
+</section>

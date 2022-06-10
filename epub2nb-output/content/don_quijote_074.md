@@ -3,6 +3,8 @@ title: "KAPITOLA LXIV\\.,která jedná o\_dobrodružství, jež dona Quijota zar
 contentType: prose
 ---
 
+<section>
+
 Historie vypráví, že žena dona Antonia Morena byla velmi spokojena vidouc Annu Felix ve svém domě; přijala ji radostně, jata stejně její krásou jako rozumem jejím, neboť obojím Maurka neobyčejně vynikala; všichni městští lidé jako přivoláni poplašným zvonem přicházeli se na ni podívat.
 
 Don Quijote řekl donu Antoniovi, že názor, jejž přijal, co se osvobození dona Gregoria týče, není dobrý, že obsahuje více nebezpečí než užitku a že by bylo lépe, aby do Berberska vypravili jeho i se zbraněmi a koněm; on že by zajatce vysvobodil navzdor celému maurskému národu, jako don Gaiferos vysvobodil svou ženu Melisandru.
@@ -44,3 +46,5 @@ Don Quijote zmlácen a omámen, aniž zvedl hledí, odpověděl, jako by mluvil
 Všechno toto slyšeli místokrál a don Antonio i mnozí jiní přítomní a potom i odpověď dona Quijota, že vše ostatní vyplní jako přesný a pravý rytíř krom toho, co je na něm žádáno na úkor Dulciney.
 
 Po tomto prohlášení rytíř Bílého měsíce obrátil koně a pokloniv se pohybem hlavy místokrálovi mírným klusem vjel do města. Místokrál poručil donu Antoniovi, aby odjel za ním a na určito zvěděl, kdo to je. Dona Quijota zvedli, odkryli mu tvář a objevili, že je bez krve a zpocen. Rocinante, velmi zle zřízen, nemohl se na tu chvíli ani hnout. Sancho, všecek smutný, všecek sklíčen, nevěděl, co říci a co počít; zdálo se mu, že se celá tato příhoda udála ve snu a že všecko je jen nastraženo kouzlem. Viděl tu svého pána poraženého a přinuceného vzdát se vojenského života na rok; představoval si už slavnou záři jeho výkonů zatemněnu, naděje jeho nových slibů rozptýleny, jako se rozptyluje kouř ve větru. Bál se, aby Rocinante nezůstal chromý a jeho pán s vykloubenými údy. A nebylo by to malé neštěstí, kdyby byl zůstal! Nakonec jej na nosítkách, jež dal místokrál přinést, dopravili do města a tam se vrátil i místokrál, žádostiv zvědět, kdo je rytíř Bílého měsíce, který přivedl dona Quijota do tak bídného položení.
+
+</section>

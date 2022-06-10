@@ -3,6 +3,8 @@ title: "KAPITOLA XLIX\\.o\_tom, co se stalo Sanchu Panzovi při toulce ostrovem\
 contentType: prose
 ---
 
+<section>
+
 Zůstavili jsme velkého vladaře rozzlobeného a hněvivého z povídavého a lstivého sedláka, který si z návodu správce navedeného vévodou tropil ze Sancha žerty; ale ten se nedal nikomu, ač byl jen drsný a nevzdělaný prosťák, a řekl všem přítomným i doktoru Petru Škrobencovi, jenž jakmile bylo odbaveno osobní vévodovo psaní, vrátil se hned do síně:
 
 „Teď opravdu chápu, že soudci a vladaři musí nebo mají být ze železa, aby necítili dotěrnost žadatelů, kteří v každou hodinu a v každý čas chtějí být slyšeni a vyslyšeni a starají se jen o svou záležitost nedbajíce ničeho jiného. A jestliže je ubohý soudce nevyslechne a oslyší, buď že nemůže, buď že není právě hodina vyhrazená slyšení, proklínají ho a reptají, hledají na něm špatnosti a i pomlouvají jeho rod. Hloupý, nesvědomitý žadateli, nespěchej tolik, počkej, až na tebe dojde, a dbej doby vyhrazené jednání, nechoď v čas jídla ani v čas spánku, neboť soudcové jsou z masa a kostí a musí dopřát přírodě, oč právem žádá; to ovšem neplatí o mně, který nedávám své přírodě ani najíst dík panu doktoru Petru Škrobenci z Tirteafuery, zde přítomnému, jenž chce, abych umřel hlady, a tvrdí, že tato smrt je životem, a kéž Bůh dá takový život jemu a jemu podobným, totiž špatným lékařům, neboť dobří zaslouží palmu a vavřín.“
@@ -160,3 +162,5 @@ Ale vladař pravil:
 Mladík poděkoval vladaři, že je milostivě dopravuje domů, a tak zamířili k domovu, jenž nebyl odtamtud příliš vzdálen.
 
 Když došli, hodil bratr kamínkem do okna s mříží, okamžitě sestoupila služka, už na ně čekající, a otevřela jim dveře; oni vešli a zanechali ostatní v údivu stejně nad ušlechtilostí a krásou jako nad jejich touhou poznat svět v noci a v městě samém; všechno to přičítali jejich mládí. Vrchní číšník zůstal s poraněným srdcem a rozhodl se hned příštího dne požádat o její ruku jejího otce, jsa si jist, že mu nebude odepřena, když je přece služebníkem vévodovým. I Sancho měl nápad oženit mladíka se svou dcerou Sančičkou a rozhodl se, že to provede svou dobou, maje za to, že dceru vladařovu žádný ženich neodmítne. Tím byla schůzka toho večera skončena a za dva dny potom i vladaření, čímž vzaly za své a byly zničeny všechny jeho záměry, jak se objeví dále.
+
+</section>

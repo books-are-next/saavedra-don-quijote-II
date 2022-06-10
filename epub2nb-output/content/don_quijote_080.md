@@ -3,6 +3,8 @@ title: "KAPITOLA LXX\\.,která následuje za šedesátou devátou a\_jedná o\_v
 contentType: prose
 ---
 
+<section>
+
 Sancho spal té noci na přenosném lůžku v témž pokoji jako don Quijote, čemuž by se byl chtěl vyhnout, kdyby byl mohl, neboť dobře věděl, že ho jeho pán nenechá spát samým ptaním a odpovídáním a jemu se nechtělo tuze mluvit: cítil ještě bolesti z nedávného mučení a ty mu poutaly jazyk a bylo by mu bývalo milejší spát o samotě v chatrči než v té bohaté komnatě se společníkem. Jeho obava byla tak oprávněná a podezření tak bezpečné, že sotva se jeho pán uložil, řekl:
 
 „Co myslíš, Sancho, o příhodě této noci? Velká a mocná je síla odmítnutí v lásce, neboť jsi na vlastní oči spatřil Altisidoru mrtvou, a ne snad šípem, ani mečem, také ne jinou vojenskou zbraní, ani smrtelnými jedy, nýbrž žalostí nad chladností a pohrdáním, s nimiž jsem s ní vždy jednal.“
@@ -97,3 +99,5 @@ Altisidora se zatvářila, jako by otírala šátečkem oči, a poklonivši se 
 „Prorokuju ti,“ řekl Sancho, „ubohé děvče, prorokuju ti, pravím, zlý osud, protože ses zapletla s duší z rákosu a srdcem z dubu. Věru, kdyby to bylo se mnou, jinak by kohout kokrhal.“
 
 Tím byla rozmluva skončena, don Quijote se oblékl, pojedl s vévody a odjel odpoledne.
+
+</section>

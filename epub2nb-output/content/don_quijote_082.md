@@ -3,6 +3,8 @@ title: "KAPITOLA LXXII\\.o\_tom, jak don Quijote a\_Sancho dojeli do své vsi\\.
 contentType: prose
 ---
 
+<section>
+
 Celý onen den setrvali don Quijote a Sancho v té hospodě čekajíce na noc, tento, aby v otevřeném poli dokončil zbytek svého trestu, onen proto, aby viděl ukončení, jímž jeho touha docházela cíle.
 
 Zatím dorazil do hospody jízdný pocestný se třemi nebo čtyřmi sluhy, z nichž jeden řekl tomu, který se zdál mezi nimi pánem:
@@ -68,3 +70,5 @@ Toho dne a té noci putovali, aniž je potkala věc hodná vypravování, leda�
 „Nech těch hloupostí,“ řekl don Quijote, „a vykročme pravou nohou ke vsi, kde dopřejeme vzletu svým obrazotvornostem a ujednáme způsob, jímž povedeme život pastýřský.“
 
 Sjeli z vršku a vjeli do vsi.
+
+</section>

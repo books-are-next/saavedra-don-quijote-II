@@ -3,6 +3,8 @@ title: "KAPITOLA XLVIII\\.o\_tom, co potkalo dona Quijota s\_paní Rodríguezovo
 contentType: prose
 ---
 
+<section>
+
 Nesmírně mrzut a smuten byl zraněný don Quijote, s obličejem zavázaným a poznamenaným, ne rukou boží, ale drápy kočičími – neštěstí to, jež s sebou přináší potulné rytířství. Po šest dní nevyšel mezi lidi a jedné z těch nocí, bdě v myšlenkách na svá neštěstí a na to, jak ho Altisidora pronásleduje, uslyšel, že někdo klíčem otvírá dveře jeho pokoje; pomyslil si, že zamilovaná dívka přichází překvapit jeho počestnost a přimět ho k zradě věrnosti, již měl zachovat Dulcinei z Tobosa.
 
 „Ne,“ řekl přesvědčen o své domněnce a hlasem slyšitelným, „největší krása světa nedokáže, abych přestal zbožňovati tu, již jsem vryl a vtiskl do hloubi svého srdce a nejskrytějšího svého nitra, ať už jsi, paní moje, změněna v selku páchnoucí cibulí, ať v nymfu zlatého Taja, předoucí látky zlaté a hedvábné, a ať tě střeží Merlín nebo Montesínos kdekoliv. Neboť, buď si kdekoliv, jsi má, i já zůstanu tvůj, ať jsem kdekoliv.“
@@ -68,3 +70,5 @@ Ovdověla jsem, v nedostatku a majíc na starosti dceru, která krásněla jak
 Sotva tu větu don Quijote dořekl, dveře pokoje byly mocným úderem otevřeny, úlekem z té rány paní Rodríguezové vypadla svíčka z ruky a v pokoji nastala tma jako v tlamě vlčí, jak se říká. Pak ucítila ubohá dueňa, že ji chopily za chřtán dvě ruce tak silně, že jí nedovolovaly ani vzdychnout, a že jí jakási druhá osoba velmi obratně a bez hlásku zvedá sukně a něčím jako pantoflem počíná vyplácet, že by se kámen ustrnul. A ač don Quijote skutečně trnul, nehýbal se z postele, nevěda, co se děje, a čekal tiše a mlčky, ba strachoval se, aby se i jemu nedostalo výplaty. A nebylo to nadarmo, neboť když mlčenliví kati ztloukli dueňu (jež se neodvážila naříkat), chopili se dona Quijota, vybalili ho z plachty a přikrývky a poštípali ho tolik a tak citelně, že se nemohl přemoci a bránil se pěstmi; vše to se zběhlo za podivuhodného mlčení.
 
 Bitva trvala asi půl hodiny. Strašidla odešla, paní Rodríguezová si shrnula sukně a bědujíc nad svým neštěstím odešla ze dveří beze slova donu Quijotovi. Ten, bolavý a uštípaný, zahanben a zamyšlen, zůstal o samotě, kde ho i my zanecháme přemýšlet, kdo byl hanebný čarodějník, jenž ho tak zvedl. I to se zví časem. Ale Sancho Panza nás volá a pořádek naší historie si toho žádá.
+
+</section>

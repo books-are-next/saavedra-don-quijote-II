@@ -3,6 +3,8 @@ title: "KAPITOLA VIII\\.,vyprávějící příhody dona Quijota při návštěv�
 contentType: prose
 ---
 
+<section>
+
 „Buď pochválen mocný Alláh!“ říká Hamete Benengeli na začátku osmé kapitoly a opakuje toto zvolání třikrát, chvále jej za to, že jsou don Quijote a Sancho už na cestě a že čtenáři jeho výtečného příběhu mohou očekávati statečné činy a vtipné nápady dona Quijota a jeho služebníka; žádá čtenáře, aby nevzpomínali na minulé rytířské činy důmyslného hidalga a sledovali jen činy budoucí, začínající cestou do Tobosa, jako ony začaly na pláni montielské; žádá méně, než slibuje, a vypráví dále:
 
 Když Sanson odešel a oba osaměli, začal Rocinante ržáti a osel hýkati, což don Quijote a Sancho pokládali za dobré znamení a předpověď; po pravdě řečeno, hýkal osel mnohem častěji, než kůň ržál, z čehož Sancho usoudil, že jeho štěstí bude větší než to jeho pána, úsudek si možná dělal i na základě hádání osudu z hvězd, ve kterém se snad vyznal, neboť o tom není ve vyprávění zmínky. Když klopýtl nebo upadl, tvrdíval jen, že je to zlé znamení a že měl zůstat doma; a vskutku kdo klopýtne nebo upadne, obyčejně si jen roztrhne botu nebo zláme žebra. Měl tedy, ač hlupák, celkem pravdu.
@@ -70,3 +72,5 @@ Sancho na to:
 „Zajisté,“ pravil don Quijote, „ale málokterý je hoden jména rytíře.“
 
 Při podobných rozmluvách rychle uplynula noc i den a nepotkalo je nic pozoruhodného, a to právě trápilo dona Quijota. Druhého dne k večeru za šera spatřili velké město Toboso; don Quijote při pohledu na ně oživl, ale Sancho zesmutněl, poněvadž nevěděl, kde jest dům Dulcinein, nikdy jej neviděl právě jako jeho pán; oba byli rozechvěni, jeden, že ho nevidí, druhý, že ho neviděl, a Sancho byl bezradný, nevěda, co udělá, až ho pán pošle do Tobosa. Don Quijote rozhodl, že navštíví město, až se setmí, a zatím že si odpočinou v dubovém lesíku nedaleko Tobosa. Jakmile se setmělo, vjeli do města, kde se jim přihodila nevídaná dobrodružství.
+
+</section>

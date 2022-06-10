@@ -3,6 +3,8 @@ title: "KAPITOLA LIV\\., která jedná o\_věcech této historie a\_žádné jin
 contentType: prose
 ---
 
+<section>
+
 Vévoda a vévodkyně rozhodli, že výzva, již učinil don Quijote jejich poddanému z důvodu již řečeného, skončí soubojem, a poněvadž mladík byl ve Flandrech, kam utekl, aby se paní Rodríguezová nestala jeho tchyní, rozkázali, aby na jeho místo nastoupil gaskoňský lokaj Tosílos, jejž předem výborně poučili, jak si má ve všem vést. Dva dny potom řekl vévoda donu Quijotovi, že se jeho sok dostaví za čtyři dny a ozbrojen za rytíře na kolbišti prokáže, jak dívka lhala, a to drze a úplně lhala, tvrdíc, že jí přislíbil manželství. Don Quijote byl s touto novinou velmi spokojen a slíbil sám sobě v tomto případě vykonat divy a měl za nesmírné štěstí, že se dostalo příležitosti ukázat tomu panstvu, kam až sahá síla jeho mocného ramene. Netrpělivě a šťasten čekal po čtyři dny, které, měřeny jeho nedočkavostí, byly proň čtyřmi tisíciletími.
 
 Nechme je plynout (jako necháváme odplývat jiné věci) a provázejme Sancha, jenž ani vesel, ani smuten putoval na svém oslu za svým pánem, jehož společnost mu byla milejší než vladařství všech ostrovů na světě. Stalo se, že nedaleko ostrova, na němž byl vládl (on nikdy nezkoumal, vládne-li to na ostrově, v městě, městysi nebo vsi), spatřil přicházet cestou, jíž se sám bral, šest poutníků s holemi, cizinců toho druhu, kteří zpěvem prosí o almužnu. Přiblíživše se k němu postavili se do řady a zvednuvše hlas všichni najednou jali se zpívat svou řečí, jíž Sancho nerozuměl krom jediného slova jasně vysloveného: „almužna“, a podle toho poznal, že prosí o dar. A poněvadž byl, jak praví Cide Hamete, velmi milosrdný, vytáhl z tlumoku půl sýra a půl bochníka, jimiž se byl zásobil, dal jim je, naznačuje znameními, že nic jiného nemá.
@@ -80,3 +82,5 @@ Na to odpověděl Sancho: „Pohleď, Ricote! To nebylo asi na její vůli, nebo
 „Dej to Bůh,“ odvětil Sancho, „oba byli by nešťastni. A nechte mě odejít, příteli Ricote! Chci ještě dnes v noci dojet k svému pánu donu Quijotovi!“
 
 „Bůh s tebou, bratře Sancho; i moji druhové procítají, a je čas k další cestě.“ Pak se oba objali, Sancho vsedl na osla, Ricote uchopil svou hůl a rozešli se.
+
+</section>

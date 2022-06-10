@@ -3,6 +3,8 @@ title: "KAPITOLA XIX\\.o\_příběhu zamilovaného pastýře a\_o\_jiných oprav
 contentType: prose
 ---
 
+<section>
+
 Don Quijote ještě nedaleko vsi dona Diega potkal dva muže, duchovní nebo studenty, a dva venkovany jedoucí na čtyřech oslech. Jeden ze studentů vezl s sebou v ranečku ze zeleného plátna něco bílého prádla a dva páry vlněných punčoch, druhý měl pouze dva nové kordy na šerm s koženými váčky na špičce. Venkované vezli různé věci, svědčící, že jedou z nákupu z velkého města domů do vsi; studenti i venkované se podivili donu Quijotovi jako každý, kdo jej spatřil, a toužili seznámiti se s mužem tak se lišícím od ostatních. Don Quijote je pozdravil a seznav, že mají společnou cestu, nabídl se jim za společníka, prose je, aby jeli volněji, neboť jejich osli vykračovali si bystřeji než jeho kůň. A aby je získal, řekl jim, že je potulný rytíř, který všude vyhledává ve světě dobrodružství, a pověděl jim, že se jmenuje don Quijote de la Mancha a že je zván Lví rytíř.
 
 To vše připadalo vesničanům, jako by hovořil řecky nebo turecky, ale studenti ihned uhodli, že je don Quijote trochu pomatený; přesto však se mu obdivovali a jeden z nich řekl:
@@ -66,3 +68,5 @@ Než dojeli do vsi, setmělo se, ale obloha nad vsí se jim zdála, jakoby poset
 Hudebníci bavili svatebčany, procházející se na tom příjemném místě ve skupinách: mnozí tančili, jiní zpívali, jiní hráli na různé nástroje. Zdálo se, že celá ta lučina hostí plesající radost a tančící blaho. Mnozí jiní stavěli lešení, ze kterých by mohli pohodlně přihlížeti představení a tancům, které se připravovaly na místě, kde se měla slaviti den nato svatba bohatého Camacha a pohřeb Basiliův.
 
 Don Quijote odmítl jeti do vsi, ač jej bakalář i sedlák žádali; za důvod dal jim, že potulní rytíři nocují raději v polích a lesích než v osadách a třebas pod zlatými střechami; poodjel tedy z cesty, ač Sancho jeho rozhodnutí přijal mrzutě, vzpomínaje na bohaté pohoštění v zámku či domě dona Diega.
+
+</section>

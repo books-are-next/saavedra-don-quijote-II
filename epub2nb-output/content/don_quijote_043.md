@@ -3,6 +3,8 @@ title: "KAPITOLA XXXV\\.,co dalšího se don Quijote dověděl o\_tom, jak vysvo
 contentType: prose
 ---
 
+<section>
+
 Spatřili přijížděti vůz, nazývaný triumfální, za zvuků příjemné hudby; byl tažen šesti hnědými mezky, pokrytými bílou látkou, a na každém z nich jel kajícník, též bíle oblečený, s velkou hořící svící v ruce. Vůz byl dvakrát nebo třikrát větší než ostatní a podle něho kráčelo a na něm sedělo dalších dvanáct kajícníků jako sníh bílých se zapálenými pochodněmi; pohled na ně udivoval i děsil zároveň. Na vyvýšeném trůnu odpočívala víla, oděná množstvím jemných, stříbrem protkávaných látek, třpytících se zlatými plíšky, které dodávaly šatu zdání lesku, když ne bohatosti. Obličej měla zahalený průsvitným a tenkým závojem, který ji nezakrýval tak, aby nebylo možno spatřiti sličný dívčí obličej. Množství světel zjevovalo její krásu i věk; bylo jí asi nejvýše dvacet, nejméně šestnáct let; vedle ní seděla postava v dlouhém oděvu s hlavou zahalenou do černé látky.
 
 Když vůz zastavil před vévodskými manžely a donem Quijotem, zmlkly hoboje, pak harfy a loutny a postava v říze povstala, rozevřela šat a strhla závoj; spatřili samu smrt, hubenou a šerednou: don Quijote se polekal, Sancho zděsil a vévodští manželé též jevili strach. Živá ta smrt se vzpřímila a pronesla ospalým a nepříliš hbitým jazykem toto:
@@ -115,3 +117,5 @@ Sotva to dořekl, ozvala se opět hudba a výstřely z nesčíslných pušek a
 Zatím se blížilo veselé a usměvavé jitro; květy na polích rozkvetly a povstaly, tekutý křišťál pramenů, bzuče mezi bílými a hnědými křeménky, pospíchal splatit daň řekám, které jej čekaly. Země byla radostná, obloha jasná, vzduch čistý, slunce zářivé a vše dohromady i každá věc zvlášť ukazovala, že den, který šlapal jitřence na vlečku, bude krásný a jasný. A vévodští manželé blaženi, že se jim šťastně zdařil jejich vtipný úmysl, odešli do zámku rozhodnuti, že v žertu budou pokračovati, neboť je bavil nade vše.
 
 (Konec knihy třetí)
+
+</section>

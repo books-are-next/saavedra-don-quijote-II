@@ -3,6 +3,8 @@ title: "KAPITOLA LXV\\.,kde je dáno poučení, kdo byl rytíř Bílého měsíc
 contentType: prose
 ---
 
+<section>
+
 Don Antonio Moreno následoval rytíře Bílého měsíce a stejně ho následovalo, ba pronásledovalo mnoho kluků, dokud se neuzavřel v jistém domě uvnitř města. Don Antonio vstoupil touže ho poznat. Jakýsi zbrojnoš vyšel rytíře přivítat a pomoci mu ze zbroje; potom se rytíř uchýlil do pokojíku a s ním i don Antonio, plana zvědavostí, kdo to je.
 
 Když rytíř Bílého měsíce viděl, že jej onen kavalír neopouští, řekl mu:
@@ -42,3 +44,5 @@ Dva dny potom jednal místokrál s donem Antoniem, jak zařídit, aby Anna Feli
 Místokrál souhlasil s celým návrhem, ale don Gregorio, zvěděv, co se chystá, prohlásil, že žádným způsobem nemůže a nemíní opustit doňu Annu Felix; chtěje však přece uvidět své rodiče a zařídit návrat pro ni, svolil k zmíněnému ujednání. Anna Felix zůstala u ženy dona Antonia a Ricote v domě místokrálově.
 
 Nastal den odchodu dona Antonia a po dvou dalších dnech odchod dona Quijota a Sancha: pád z koně mu nedovolil, aby se vydal na cestu dříve. Při loučení dona Gregoria s Annou Felix teklo mnoho slzí a bylo mnoho vzdechů, mdlob a pláče; Ricote nabídl donu Gregoriovi tisíc dukátů, chce-li, ale on nepřijal nic kromě pouhých pěti od dona Antonia a slíbil, že mu je vrátí u dvora. Pak se oba rozloučili a později i don Quijote a Sancho, jak bylo už řečeno: don Quijote byl beze zbroje, v šatu cestovním, Sancho šel pěšky, poněvadž osel nesl zbroj.
+
+</section>

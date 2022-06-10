@@ -3,6 +3,8 @@ title: KAPITOLA XXIX\.,líčící slavné dobrodružství začarovaného člunu\
 contentType: prose
 ---
 
+<section>
+
 Táhnouce cestou vypsanou i nevypsanou za dva dny po noci v olšovém háječku dojeli don Quijote a Sancho k břehům Ebra; don Quijote radostně je uhlídal, prohlížel příjemné břehy, čisté vody, klidný tok a hojnost jeho tekutého křišťálu, a ten pěkný pohled vzbuzoval v jeho mysli milostné myšlenky; vzpomněl si především, co viděl v jeskyni Montesínově, neboť ač mu opice mistra Pedra řekla, že část jeho dobrodružství je pravdivá, část lživá, on se držel spíš té části pravdivější než lživé, na rozdíl od Sancha, který pokládal za dokonalou lež části obě. Za těchto okolností spatřil malou loďku bez vesel a ostatní výstroje, uvázanou ke kmeni stromu rostoucího na břehu. Rozhlédl se na všechny strany a nespatřiv nikoho slezl ihned z Rocinanta a rozkázal Sanchovi, aby též sestoupil z osla a přivázal obě zvířata nedaleko ke kmeni jilmu nebo vrby. Sancho se ho tázal, proč náhle sesedli a proč vázat zvířata. Na to don Quijote odpověděl:
 
 „Věz, Sancho, že tahle loďka, aniž by opak byl možný, mě přímo volá a vyzývá, abych do ní vstoupil a chvátal na pomoc nějakému rytíři nebo jiné potřebné vznešené osobě jsoucí asi v nebezpečí; jest obvyklé v rytířských historiích i u kouzelníků v nich vystupujících, že když jest rytíř v nebezpečí, ze kterého může uniknouti pouze pomocí jiného rytíře, vzdáleného třebas i dva nebo tři tisíce mil, ba i více, tohoto donesou buď v oblaku nebo mu pošlou lodici, do níž vstoupí a okamžením ho přenesou vzduchem nebo mořem, kam si přejí a kde je jeho odvahy třeba; tato lodice má sloužiti k podobnému účelu, Sancho, to je jisto, jako že je nyní den, a než nastane noc, přivaž osla a Rocinanta, a ať nás Bůh chrání, neboť vstoupím jistě do loďky, i kdyby mě varovali mniši bosáci.“
@@ -86,3 +88,5 @@ Po těchto slovech se dohodl s rybáři na náhradě padesáti realů, které S
 „Ještě dvě takové projížďky a pryč je všechen majetek.“
 
 Rybáři i mlynáři obdivovali se jim, neboť se velice lišili od ostatních lidí; nechápali, čeho se týkají řeči a otázky dona Quijota, a pokládajíce je za blázny nechali je a vrátili se do svých mlýnů a rybáři do svých ohrad. Don Quijote a Sancho vrátili se nato ke svým zvířatům nevyléčeni ze svého bláznovství; tak dopadla příhoda se začarovanou loďkou.
+
+</section>

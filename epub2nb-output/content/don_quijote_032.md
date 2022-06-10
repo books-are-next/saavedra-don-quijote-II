@@ -3,6 +3,8 @@ title: "KAPITOLA XXIV\\.,vyprávějící tisíc hloupostí stejně nepatrných j
 contentType: prose
 ---
 
+<section>
+
 Překladatel této znamenité knihy, kterou původně napsal Cide Hamete Benengeli, říká, že i u kapitoly líčící dobrodružství v jeskyni Montesínově našel na okraji napsaná rukou samého Hameta tato slova:
 
 „Nemohu věřiti ani pochopiti, že by byly pravdivé všechny příhody statečného dona Quijota, jak jsou vylíčeny v minulé kapitole. Příčina toho jest, že všechny jeho příběhy až dosud událé, byly možné a pravděpodobné, ale příhoda v jeskyni neobsahuje nic, podle čeho bych se mohl domnívati, že je pravdivá, neboť překračuje rozumné meze. Není však možno, aby lhal, neboť to byl pravý hidalgo a nejšlechetnější rytíř své doby a byl by nelhal, i kdyby do něho šípy střílely. Také poukazuji na to, že celý příběh vyprávěl se všemi uvedenými podrobnostmi, a že si nemohl v tak krátké době vymysliti takovou motanici nesmyslů; zdá-li se tato kapitola podvrženou, není to mou vinou, já jsem ji napsal, nedokazuje ani její pravdivost, ani lež. Ty, rozumný čtenáři, posuď ji sám, já se nemohu a nesmím déle u ní zdržovati. Sice se vypravuje, že v hodině smrti ji odvolal a přiznal, že si ji vymyslil, neboť se mu prý zdálo, že se dobře hodí k dobrodružstvím, která znal ze svých knih.“
@@ -77,3 +79,5 @@ Panoš odmítl pozvání, aby vsedl za dona Quijota, a Sancho prý si tehdy ře
 „Pánbůh pomáhej mému pánu! Jak je možno, aby člověk, který dovede povědět tolik a tak rozumných věcí jako teď, mluvil také o podobných bláznovstvích jako o Montesínově jeskyni? Inu, vidíte, a je to tak!“
 
 Za šera již dostihli hospody a Sancho s radostí uviděl, že ji pán nepokládá za hrad jako obyčejně, ale za skutečnou hospodu. Don Quijote sháněl se ihned po příjezdu po muži s kopími a halapartnami a dozvěděl se, že ve stáji krmí mezka; totéž udělali bratranec a Sancho, který přidělil Rocinantovi nejlepší žlab i nejlepší místo v stáji.
+
+</section>
