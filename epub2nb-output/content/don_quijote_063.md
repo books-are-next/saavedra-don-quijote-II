@@ -3,8 +3,6 @@ title: KAPITOLA LIII\.o úmorném skoncování vladaření Sancha Panzy\.
 contentType: prose
 ---
 
-  
-
 „Věřiti, že v tomto životě věci potrvají věčně beze změny, znamená věřiti mylně; spíše se zdá, že život jde dokola, totiž točí se v kruhu: jaro přichází po zimě, léto po jaru, po létě přichází podzim, po podzimu zima, po zimě jaro, a tak se čas točí stále kol tohoto kruhu; jen život lidský spěje k svému konci lehčeji než vítr a nečeká na obnovu, leč v druhém onom životě, jenž nemá mezí.“
 
 Toto praví Cide Hamete, mohamedánský filozof, neboť lehkost a nestálost tohoto časného života a trvání očekávaného života věčného pochopili i mnozí beze světla víry, jen na základě osvícenosti přirozené. Zde však to náš autor připomíná pro rychlost, s níž skončilo, za své vzalo, zničeno bylo a jako stín a kouř uprchlo vladaření Sanchovo.

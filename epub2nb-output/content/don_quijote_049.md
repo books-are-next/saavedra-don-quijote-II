@@ -3,8 +3,6 @@ title: "KAPITOLA XXXIX\\.o\_dalším průběhu úžasné a\_významné příhody
 contentType: prose
 ---
 
-  
-
 Každou poznámkou Sanchovou bavila se vévodkyně stejně, jako jí byl don Quijote pohněván; zakázal Sanchovi další mluvení a Dolorida pokračovala:
 
 „Infantka pevně trvala na svém prvním rozhodnutí a neuhnula ani o krok, a tak vikář po dlouhém soudním řízení rozhodl v prospěch dona Clavija a dal mu ji za zákonnou manželku. To pohněvalo královnu, doňu Maguncii, matku Antonomasiinu tak, že za tři dny jsme ji pohřbili.“

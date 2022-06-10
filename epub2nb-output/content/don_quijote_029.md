@@ -3,8 +3,6 @@ title: "KAPITOLA XXI\\., líčící dále svatbu Camachovu a\_jiné výborné ud
 contentType: prose
 ---
 
-  
-
 Když tak don Quijote a Sancho spolu mluvili, jak vylíčeno, zaznělo hlasité volání a hluk; křičeli a hlučeli to jezdci na kobylách, přijíždějíce tryskem s hlasitým voláním vstříc snoubencům, kteří se blížili uprostřed různých hudebníků, tanečníků, s farářem a příbuzenstvem obou rodin a význačnými, svátečně ustrojenými osobami přespolních osad.
 
 Sancho spatřiv nevěstu řekl:

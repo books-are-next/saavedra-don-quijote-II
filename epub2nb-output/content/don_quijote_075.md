@@ -3,8 +3,6 @@ title: "KAPITOLA LXV\\.,kde je dáno poučení, kdo byl rytíř Bílého měsíc
 contentType: prose
 ---
 
-  
-
 Don Antonio Moreno následoval rytíře Bílého měsíce a stejně ho následovalo, ba pronásledovalo mnoho kluků, dokud se neuzavřel v jistém domě uvnitř města. Don Antonio vstoupil touže ho poznat. Jakýsi zbrojnoš vyšel rytíře přivítat a pomoci mu ze zbroje; potom se rytíř uchýlil do pokojíku a s ním i don Antonio, plana zvědavostí, kdo to je.
 
 Když rytíř Bílého měsíce viděl, že jej onen kavalír neopouští, řekl mu:

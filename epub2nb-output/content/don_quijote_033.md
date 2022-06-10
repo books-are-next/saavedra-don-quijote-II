@@ -3,8 +3,6 @@ title: "KAPITOLA XXV\\.,kde se přesně vypráví o\_dobrodružství s\_hýkán�
 contentType: prose
 ---
 
-  
-
 Don Quijote by nepozřel sousta, jak se říká, kdyby dříve nevyslechl a nezvěděl podivné příběhy, o kterých se zmínil muž vezoucí zbraně. Šel za ním, jak mu hostinský řekl, našel jej a žádal, aby mu ihned pověděl, jak na cestě slíbil. Muž pravil:
 
 „Moje pozoruhodné vyprávění vyžaduje klidu a nesmí se při něm stát; dovolte, Milosti, abych nejprve obstaral svého mezka, a pak vám povím věci, nad nimiž užasnete.“

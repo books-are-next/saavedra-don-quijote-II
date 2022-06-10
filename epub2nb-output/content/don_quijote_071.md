@@ -3,8 +3,6 @@ title: "KAPITOLA LXI\\.,o\_tom, co potkalo dona Quijota při vstupu do Barcelony
 contentType: prose
 ---
 
-  
-
 Tři dny a tři noci pobyl don Quijote u Roqua, a kdyby byl zůstal i tři sta let, nebylo by mu chybělo věcí k obdivu a podivu na jeho životě: zde se probouzeli, tam jedli; jednou prchali nevědouce před kým, podruhé čekali nevědouce na koho; spali stojíce, přerušovali svůj spánek a přecházeli z místa na místo; stále se jen stavěli špehové, vyslýchaly stráže, zapalovaly doutnáky pušek, ač jich měli málo, neboť téměř všichni měli pistole na křemen. Roque trávil noci mimo své lidi, na místech a v útulcích, o kterých nevěděli, neboť četné odsudky na smrt, které místodržící barcelonský nad ním vynesl, jej zneklidňovaly a strašily, i neodvažoval se důvěřovat nikomu, boje se, že vlastní jeho lidé buď jej zabijí, buď vydají spravedlnosti. Jeho život byl dozajista bídný a svízelný.
 
 Konečně cestami neužívanými, stezkami a skrytými pěšinami vydali se Roque, don Quijote, Sancho a šest jiných zbrojnošů do Barcelony. Dorazili na pobřeží v noci před svatým Janem, Roque objal dona Quijota i Sancha, jemuž dal deset slíbených dukátů, jež mu byl dosud neodevzdal, a opustil je s tisíci slibů z jedné i druhé strany. Roque se vrátil.

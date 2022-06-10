@@ -3,8 +3,6 @@ title: "KAPITOLA XXVIII\\.,o\_které Benengeli tvrdí, že věci v\_ní obsažen
 contentType: prose
 ---
 
-  
-
 K útěku se hrdina obrátí, jen když zpozoroval úklad, ale mužové moudří mají šetřiti svých sil pro doby příhodnější. Tato zásada ukázala se pravdivou na donu Quijotovi, který uprchl před rozzuřeným davem a zlými nástrahami zuřivého lidu; nevšímaje si Sancha ani nebezpečí, ve kterém jej opustil, vzal nohy na ramena a hleděl utéci tak daleko, aby byl v bezpečí. Za ním přijel Sancho napříč přes osla, jak již bylo řečeno. Když dostihl dona Quijota, nabyv už vědomí, spadl z osla k nohám Rocinantovým zděšen, rozmlácen a zbit.
 
 Don Quijote seskočil a spěchal prohlédnout mu rány, a když viděl, že je zcela zdráv, pravil mu rozzlobeně:

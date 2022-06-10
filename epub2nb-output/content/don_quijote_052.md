@@ -3,8 +3,6 @@ title: "KAPITOLA XLII\\.o\_tom, jak don Quijote napomenul Sancha Panzu, než se 
 contentType: prose
 ---
 
-  
-
 Se šťastným a rozkošným výsledkem dobrodružství s Doloridou byli vévoda a vévodkyně tak spokojeni, že se rozhodli v žertech pokračovat, vidouce, že i nadále budou brány za bernou minci. Tudíž dali svým služebníkům a poddaným pokyny a rozkazy, jak se chovat k Sanchovi za jeho vlády na slíbeném ostrově, a druhého dne, to jest v den po letu Clavileñově, řekl vévoda Sanchovi, aby se připravil a přichystal jít vladařit, neboť prý ostrované naň již čekají jako na májový déšť. Sancho se poklonil řka:
 
 „Od chvíle, kdy jsem sestoupil z nebes a z jejich výše spatřil zemi a uviděl ji tak malou, přešla mě z velké části má velká chuť být vladařem. Neboť jaká sláva je vládnout zrnku hořčice a jaké důstojenství nebo moc řídit půl tuctu lidí velkých jako lískový ořech; vskutku, nezdálo se mi jich být více na zemi. Kdyby mi Vaše Milost laskavě dala kousíček nebe, a třebas by bylo jen půl míle, vzal bych jej raději než největší ostrov na světě.“

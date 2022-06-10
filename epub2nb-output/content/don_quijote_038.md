@@ -3,8 +3,6 @@ title: "KAPITOLA XXX\\.o\_příhodě dona Quijota u\_půvabné lovkyně\\."
 contentType: prose
 ---
 
-  
-
 V melancholické náladě a nevůli vrátili se k zvířatům; Sancha nejvíce mrzelo zbytečné vydání, neboť mu bylo, jako by vše, co mu berou, rvali mu ze srdce. Nepromluvivše ani slova vystoupili do sedel a opouštěli slavnou řeku, don Quijote přemýšleje o své lásce a Sancho o svém zbohatnutí a to se mu tentokráte zdálo velmi vzdálené; ačkoliv byl hloupý, přece věděl, že téměř všechny skutky jeho pána jsou bláznivé, a proto hledal příležitost sebrat se a vrátiti se domů bez dlouhého dohadování a loučení; ale náhoda určila vše jinak, než jak v bázni čekal.
 
 Druhého dne totiž při západu slunce vyjeli z lesa a don Quijote spatřil lidi na konci zelené louky; když se k nim přiblížil, rozeznal ovce a sokolníky. Přijel ještě blíže a spatřil uprostřed nich krásnou paní na bílém mimochodníku se zeleným postrojem a sedlem stříbrem kovaným. Paní byla oděna také v zelený, nádherný šat bohatý tak, že připomínala nádheru samu. Na levé ruce jí seděl sokol a z toho don Quijote usoudil, že jest dámou vznešenou a paní všech lovců, a také jí skutečně byla, a pravil Sanchovi:

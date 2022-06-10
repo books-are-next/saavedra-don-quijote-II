@@ -3,8 +3,6 @@ title: "KAPITOLA LVI\\.o\_neobyčejném a\_nevídaném boji mezi donem Quijotem 
 contentType: prose
 ---
 
-  
-
 Vévodští manželé nelitovali žertu, že udělili Sanchu Panzovi vladařství; toho dne přišel nadto sám správce a vylíčil jim bod za bodem všechny téměř výroky a skutky Sancha Panzy za ony dny a nakonec jim vylíčil i přepadení ostrova, strach Sanchův a jeho odchod, což se jim nemálo líbilo.
 
 Historie vypráví, že potom nastal den souboje. Vévoda mnohokrát byl vyložil lokaji Tosílovi, jak si má vésti s donem Quijotem, aby jej přemohl, ale nezabil, ani nezranil; rozkázal také, aby byly sňaty hroty kopí, řka donu Quijotovi, že křesťanství, jímž se honosí, nedovoluje, aby se souboj konal s takovým nebezpečím života, a ať je don Quijote spokojen, že mu na svém panství poskytuje volné zápasiště, ač je to proti výnosu svatého Koncilu, jenž takové souboje zapovídá; ať se tedy prý don Quijote nesnaží jednat v tomto vážném případu neústupně. Don Quijote odvětil, že Jeho Výsost může rozhodovati o okolnostech záležitosti, jak se jí uráčí, on že poslechne ve všem. Když pak nastal významný den a vévoda nařídil, aby v zámeckém dvoře bylo postaveno rozsáhlé lešení pro soudce klání a dueni-žalobce, matku i dceru, dostavilo se k podívané nevídaného boje ze všech okolních míst a vsí nekonečné množství lidu: neboť nikdy v tom kraji nikdo ze živých a nikdo z mrtvých nespatřil podobnou věc a neslyšel o ní.

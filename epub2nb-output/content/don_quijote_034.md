@@ -3,8 +3,6 @@ title: "KAPITOLA XXVI\\., pokračující v\_půvabném dobrodružství loutkář
 contentType: prose
 ---
 
-  
-
 Umlkli Tyrští a Trojané, totiž chci říci, že všichni diváci pozorně poslouchali vykladače tajemství, když tu se za jevištěm ozvalo bubnování, hlas trubek a rachocení četných děl; hluk na okamžik utichl a tlumočník zvolal:
 
 „Tato pravdivá hra, která se nyní Vašim Milostem předvádí, vzata jest přesně z francouzských kronik a španělských románů, které jdou od úst k ústům starých i mladých po ulicích. Hra představuje osvobození Melisendry, zajaté Maury ve španělském městě Sansueni, jejím manželem panem donem Gaiférem; městem Sansuení zvalo se kdysi nynější město Zaragoza; ale povšimněte si, Milosti, jak hraje don Gaiféros v kostky, jak také říká báseň:

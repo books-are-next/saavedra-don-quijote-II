@@ -3,8 +3,6 @@ title: "KAPITOLA III\\.,v\_níž se vypravuje o\_směšném uvažování dona Qu
 contentType: prose
 ---
 
-  
-
 Don Quijote se zamyslil, čekaje na bakaláře Carrasca, od kterého doufal, že se doví události, zaznamenané v knize, o které se Sancho zmínil; nechtěl vůbec věřiti, že by podobná historie už byla, neboť na ostří jeho meče neuschla dosud krev jeho nepřátel, nad kterými zvítězil, a už rozšiřovali, že jeho vznešené, hrdinské činy jsou vydány tiskem. Proto se domníval, že je vytiskl nějaký učenec, přítel nebo nepřítel, čarodějnou mocí; byl-li to přítel, že chtěl jeho činy oslaviti a povznést nad skutky vznešeného bludného rytířstva; jestliže nepřítel, že to udělal, aby je ponížil a zařadil mezi nejhanebnější činy, které kdy o nějakém zbrojnoši byly napsány.
 
 Pravda, řekl si v duchu, nikdy nic nebylo zaznamenáno o hrdinných skutcích zbrojnošů, a jestliže skutečně takové vyprávění je, potom musí býti skvělé, znamenité, vznešené, nádherné i pravdivé, neboť pojednává o bludném rytíři. Tím se poněkud utěšil; mrzelo ho ovšem, že historie jest napsána Maurem, soudě podle jména Cide, a od Maurů nelze očekávati pravdy, neboť většinou jsou to povídálkové a lháři. Bál se, že mluví o jeho lásce nepěkně, a tím že by čest jeho paní Dulciney z Tobosa byla poškozena; on, který pohrdal královnami, císařovnami i dívkami různých stavů, přemáhaje útoky pudů, přál si, aby spisovatel vytkl jeho věrnost a úctu, jakou k ní choval; a tak zamyšleného, pohříženého do tohoto přemýšlení našli jej Sancho a Carrasco, který byl donem Quijotem zdvořile uvítán, jakmile vešel.

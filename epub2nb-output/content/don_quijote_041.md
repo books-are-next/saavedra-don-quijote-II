@@ -3,8 +3,6 @@ title: "KAPITOLA XXXIII\\.o vtipném rozhovoru vévodkyně a\_jejích dívek se 
 contentType: prose
 ---
 
-  
-
 Vypravuje historie, že onoho odpoledne si Sancho nezdříml; dodržel své slovo a byl u paní vévodkyně, jež se těšila, že jej řádně vyzpovídá, a rozkázala mu usaditi se vedle ní na nízkou židličku, ačkoliv Sancho ze zdvořilosti nechtěl se posadit. Vévodkyně ho požádala, aby se usadil jakožto vladař a aby vypravoval jako zbrojnoš, že pro obojí své povolání jest hoden místa samotného Cida Rui Díaza Campeadora. Sancho krče rameny si sedl a všechny dívky a dueni vévodkyniny jej obklopily a tiše a bedlivě poslouchaly jeho slova.
 
 Vévodkyně první pravila:

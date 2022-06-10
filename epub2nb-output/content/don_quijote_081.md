@@ -3,8 +3,6 @@ title: "KAPITOLA LXXI\\.o\_tom, co potkalo dona Quijota a\_jeho zbrojnoše Sanch
 contentType: prose
 ---
 
-  
-
 Don Quijote, přemožený a štvaný, jel nesmírně zamyšlen, ale z druhé strany i značně vesel. Jeho smutek byl působen jeho porážkou, jeho veselost uvážením schopnosti Sanchovy projevené vzkříšením Altisidory, ač jen po jistém váhání uvěřil, že zamilovaná dívka byla opravdu mrtva. Sancho nebyl vesel vůbec, protože ho zarmucovalo, že Altisidora nesplnila slovo a nedala mu košile; přemýšleje o tom pravil pánovi:
 
 „Zajisté jsem, pane, nejnešťastnější lékař na světě; svět nosí na sobě doktory, co zabijí nemocného, jejž ošetřují, a chtějí dostat zaplaceno za svou práci, že podepsali jen nějakou ceduličku na lék, který nedělají ani oni, ale lékárník, a ty, nemocný hlupáku, užívej! Ale mně, kterého cizí zdraví stojí krev, šňupky, štípání, píchání a rány bičem, nedají ani troník. Ale povídám, že, přinesou-li mi na krk nějakého jiného nemocného, budou mě musit podmazat, abych se o něho staral, protože opat žije z toho, co si vyzpívá, a nechci si myslit, že mi nebesa dala moc, kterou mám, abych z ní udílel nazdařbůh kdekomu.“

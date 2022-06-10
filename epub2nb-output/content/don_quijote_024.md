@@ -3,8 +3,6 @@ title: "KAPITOLA XVI\\.o\_příhodě dona Quijota s\_rozumným rytířem z\_Manc
 contentType: prose
 ---
 
-  
-
 Spokojeně, hrdě a povzneseně putoval don Quijote dále, jak jsme již poznamenali, pokládaje se po tomto dobrodružství za nejstatečnějšího potulného rytíře té doby; byl jist, že všecka dobrodružství, která ho ještě v budoucnu potkají, skončí se šťastně, a zapomínal na kouzla čarodějů, na nesčetná bití, která si vysloužil na svých výpravách, na kamenování, při kterém ztratil polovinu zubů, na srážku s galejníky, na drzost a hole Yanguejců; myslil si, že, kdyby našel lék nebo prostředek k navrácení původní podoby paní Dulciney, že by nestál o největší štěstí, kterého kdy některý potulný rytíř dob dřívějších dosáhl.
 
 Zahloubán do těchto myšlenek, byl vyrušen Sanchem, který řekl:

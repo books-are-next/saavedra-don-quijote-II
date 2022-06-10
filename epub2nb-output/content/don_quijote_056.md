@@ -3,8 +3,6 @@ title: "KAPITOLA XLVI\\.o\_strašném úděsu zvonečkovém a\_kočičím, kter�
 contentType: prose
 ---
 
-  
-
 Zanechali jsme velkého dona Quijota tonoucího v myšlenkách probuzených v něm hudbou zamilované slečny Altisidory. Ulehl s nimi, ale jako by to byly blechy, nenechaly ho ani okamžik spát, ani zdřímnout, a k nim se mísily i myšlenky na punčochy. Ale poněvadž čas je lehký a žádná překážka ho nezdržuje, ujížděl jako jezdec na hodinách a velmi rychle přišlo jitro. Vida to don Quijote opustil měkké peří a hbitě oblékl svůj šat barvy kamzičí a obul své cestovní boty, aby schoval své ohavné punčochy. Navrch přehodil šarlatový plášť a hlavu pokryl čepicí ze zelného aksamitu, ozdobenou stříbrnými stuhami; přes ramena navlékl závěsník s dobrým svým a ostrým mečem, chopil se velkého růžence, který s sebou stále nosil, a velmi slavnostně a sebevědomě zamířil do síně, kde dleli vévoda s vévodkyní již ustrojeni a jako by naň čekali.
 
 Když šel jednou z chodeb, nalezl tam Altisidoru s druhou dívkou, její přítelkyní, any na něj čekaly; jakmile Altisidora spatřila don Quijota, napodobila mdloby a její přítelkyně ji zachytila do klína a velmi hbitě se jí jala rozpínati život. Don Quijote, který na to patřil, řekl přistoupiv k nim:

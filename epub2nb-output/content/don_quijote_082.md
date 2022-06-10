@@ -3,8 +3,6 @@ title: "KAPITOLA LXXII\\.o\_tom, jak don Quijote a\_Sancho dojeli do své vsi\\.
 contentType: prose
 ---
 
-  
-
 Celý onen den setrvali don Quijote a Sancho v té hospodě čekajíce na noc, tento, aby v otevřeném poli dokončil zbytek svého trestu, onen proto, aby viděl ukončení, jímž jeho touha docházela cíle.
 
 Zatím dorazil do hospody jízdný pocestný se třemi nebo čtyřmi sluhy, z nichž jeden řekl tomu, který se zdál mezi nimi pánem:

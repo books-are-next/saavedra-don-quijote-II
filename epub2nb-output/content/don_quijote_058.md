@@ -3,8 +3,6 @@ title: "KAPITOLA XLVIII\\.o\_tom, co potkalo dona Quijota s\_paní Rodríguezovo
 contentType: prose
 ---
 
-  
-
 Nesmírně mrzut a smuten byl zraněný don Quijote, s obličejem zavázaným a poznamenaným, ne rukou boží, ale drápy kočičími – neštěstí to, jež s sebou přináší potulné rytířství. Po šest dní nevyšel mezi lidi a jedné z těch nocí, bdě v myšlenkách na svá neštěstí a na to, jak ho Altisidora pronásleduje, uslyšel, že někdo klíčem otvírá dveře jeho pokoje; pomyslil si, že zamilovaná dívka přichází překvapit jeho počestnost a přimět ho k zradě věrnosti, již měl zachovat Dulcinei z Tobosa.
 
 „Ne,“ řekl přesvědčen o své domněnce a hlasem slyšitelným, „největší krása světa nedokáže, abych přestal zbožňovati tu, již jsem vryl a vtiskl do hloubi svého srdce a nejskrytějšího svého nitra, ať už jsi, paní moje, změněna v selku páchnoucí cibulí, ať v nymfu zlatého Taja, předoucí látky zlaté a hedvábné, a ať tě střeží Merlín nebo Montesínos kdekoliv. Neboť, buď si kdekoliv, jsi má, i já zůstanu tvůj, ať jsem kdekoliv.“

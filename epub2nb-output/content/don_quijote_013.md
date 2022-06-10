@@ -3,8 +3,6 @@ title: "KAPITOLA V\\.,ve které je zaznamenána vtipná a\_půvabná rozmluva Sa
 contentType: prose
 ---
 
-  
-
 Překladatel na začátku této kapitoly podotýká, že tato pátá je asi podvržená, neboť v ní Sancho mluví bystřeji, než lze očekávati od jeho chatrného rozumu, a mluví věci příliš rozumné, než aby je měl ze sebe; nechtěl ji však vynechati, aby splnil svoji povinnost, a proto dále vypravuje:
 
 Sancho se vrátil domů v radostné náladě; jeho žena, zpozorovavši zdaleka jeho náladu, tázala se ho:

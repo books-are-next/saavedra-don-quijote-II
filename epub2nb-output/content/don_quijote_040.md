@@ -3,8 +3,6 @@ title: "KAPITOLA XXXII\\.,zaznamenávající odpověď dona Quijota kazateli a\_
 contentType: prose
 ---
 
-  
-
 Povstal tedy don Quijote třesa se na celém těle jako v horečce a pravil o překot a přerývaně:
 
 „Dům, ve kterém jsem, přítomní hostitelé a vážnost, kterou cítím k vašemu postavení, Vaše Milosti, mi brání a svazují ruce mého oprávněného hněvu; a proto – i protože vím jako všichni ostatní, že zbraň lidí v klerice jest shodná se zbraní žen, totiž jazyk – dám se jazykem v rovný zápas s Vaší Milostí, od které bych byl spíše očekával dobré rady než podlé pomlouvání. Zbožná a dobře míněná pokárání mají zníti jinak a žádají si jiných okolností. Přinejmenším to, že jste mě káral veřejně a drsně, přesahuje meze slušnosti, neboť pokárání vyžaduje spíš klidu než hrubosti; a jest nesprávné nazvati hned hříšníka bláznem a šílencem, když ani nevíte o hříchu, který vytýkáte. Řekněte mi, Milosti, z jakého bláznovství mě káráte a urážíte a radíte mi, abych se vrátil domů a pečoval o své jmění, ženu a děti, ač nevíte, mám-li nějaké? Stačí snad vnutit se drze do cizích příbytků a poroučeti jejich majitelům? Mnohý nevyšel z těsných zdí lecjakéhož sirotčince a poznal leda dvacet či třicet mil okolí a nyní se opovažuje dávati předpisy rytířstvu a posuzovati potulné rytířstvo!
