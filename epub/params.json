@@ -7,7 +7,9 @@
       "identifier": "urn:uuid:0f7225a3-3607-4aa9-b27e-1560bd526691",
       "author": "Miguel de Cervantes Saavedra",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T08:39:49.736Z"
+      "modified": "2022-03-10T08:39:49.736Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
