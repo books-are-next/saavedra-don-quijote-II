@@ -11,6 +11,8 @@ meta:
   author: Miguel de Cervantes Saavedra
   publisher: Městská knihovna v Praze
   modified: '2022-03-10T08:39:49.736Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - don_quijote_001.html
   - promo.html
