@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-1d0950f",
-  "revision": "1d0950f",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-1e68122",
+  "revision": "1e68122",
   "readingOrder": [
     "don_quijote_001.html",
     "promo.html",
@@ -98,8 +98,8 @@
     "don_quijote_085.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:25:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979919837
+    "date": "Thu Jul 07 2022 09:53:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657187624715
   },
   "documents": [
     {
@@ -228,7 +228,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VĚNOVÁNÍ HRABĚTI DE LEMOS",
+          "name": "VĚNOVÁNÍ HRABĚTI DE LEMOS",
           "id": null,
           "children": []
         }
@@ -288,7 +288,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA II.,ve které se vypráví o pozoruhodném sporu Sancha Panzy s neteří a hospodyní dona Quijota a o jiných zajímavých událostech.",
+          "name": "KAPITOLA II.,ve které se vypráví o pozoruhodném sporu Sancha Panzy s neteří a hospodyní dona Quijota a o jiných zajímavých událostech.",
           "id": null,
           "children": []
         }
@@ -308,7 +308,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA III.,v níž se vypravuje o směšném uvažování dona Quijota, Sancha Panzy a bakaláře Sansona Carrasca.",
+          "name": "KAPITOLA III.,v níž se vypravuje o směšném uvažování dona Quijota, Sancha Panzy a bakaláře Sansona Carrasca.",
           "id": null,
           "children": []
         }
@@ -328,7 +328,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IV.,ve které Sancho Panza odpovídá na pochybnosti a dotazy Sansona Carrasca a kde se vypráví o různých událostech zasluhujících, aby se o nich mluvilo a vědělo.",
+          "name": "KAPITOLA IV.,ve které Sancho Panza odpovídá na pochybnosti a dotazy Sansona Carrasca a kde se vypráví o různých událostech zasluhujících, aby se o nich mluvilo a vědělo.",
           "id": null,
           "children": []
         }
@@ -348,7 +348,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA V.,ve které je zaznamenána vtipná a půvabná rozmluva Sancha Panzy s jeho ženou Terezou a jiné události hodné zapamatování.",
+          "name": "KAPITOLA V.,ve které je zaznamenána vtipná a půvabná rozmluva Sancha Panzy s jeho ženou Terezou a jiné události hodné zapamatování.",
           "id": null,
           "children": []
         }
@@ -388,7 +388,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA VII.,ve které se vypráví o rozmluvě mezi donem Quijotem a jeho zbrojnošem a různé jiné znamenité události.",
+          "name": "KAPITOLA VII.,ve které se vypráví o rozmluvě mezi donem Quijotem a jeho zbrojnošem a různé jiné znamenité události.",
           "id": null,
           "children": []
         }
@@ -428,7 +428,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA IX.,ve které se vypravuje, čeho se v ní dovíme.",
+          "name": "KAPITOLA IX.,ve které se vypravuje, čeho se v ní dovíme.",
           "id": null,
           "children": []
         }
@@ -588,7 +588,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVII.,jež líčí nejzazší mez, k níž došla a mohla dojít neslýchaná statečnost dona Quijota v dobrodružství se lvy, které mělo šťastný konec.",
+          "name": "KAPITOLA XVII.,jež líčí nejzazší mez, k níž došla a mohla dojít neslýchaná statečnost dona Quijota v dobrodružství se lvy, které mělo šťastný konec.",
           "id": null,
           "children": []
         }
@@ -608,7 +608,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVIII.,jak se dařilo donu Quijotovi v domě rytíře Zeleného pláště a jiné nezvyklé věci.",
+          "name": "KAPITOLA XVIII.,jak se dařilo donu Quijotovi v domě rytíře Zeleného pláště a jiné nezvyklé věci.",
           "id": null,
           "children": []
         }
@@ -648,7 +648,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XX.,kde se vypráví o svatbě bohatého Camacha a o příběhu chudého Basilia.",
+          "name": "KAPITOLA XX.,kde se vypráví o svatbě bohatého Camacha a o příběhu chudého Basilia.",
           "id": null,
           "children": []
         }
@@ -688,7 +688,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXII.,kde se líčí nádherné dobrodružství v jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se zdarem ukončil.",
+          "name": "KAPITOLA XXII.,kde se líčí nádherné dobrodružství v jeskyni Montesínově uprostřed Manche, které odvážný don Quijote de la Mancha se zdarem ukončil.",
           "id": null,
           "children": []
         }
@@ -708,7 +708,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXIII.o neuvěřitelných věcech, které výborný don Quijote spatřil v hluboké propasti Montesínově a jež pro svou nemožnost a úžasnost uvádějí v podezření z nepravdivosti tuto kapitolu.",
+          "name": "KAPITOLA XXIII.o neuvěřitelných věcech, které výborný don Quijote spatřil v hluboké propasti Montesínově a jež pro svou nemožnost a úžasnost uvádějí v podezření z nepravdivosti tuto kapitolu.",
           "id": null,
           "children": []
         }
@@ -748,7 +748,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXV.,kde se přesně vypráví o dobrodružství s hýkáním, o půvabnosti loutkářově a skvělých výpovědích věštící opice.",
+          "name": "KAPITOLA XXV.,kde se přesně vypráví o dobrodružství s hýkáním, o půvabnosti loutkářově a skvělých výpovědích věštící opice.",
           "id": null,
           "children": []
         }
@@ -788,7 +788,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVII.,kde se vypráví, kdo byl mistr Pedro a jeho opice a jaká nehoda stihla dona Quijota v hýkavém dobrodružství, které neskončilo, jak by si byl přál a jak myslil.",
+          "name": "KAPITOLA XXVII.,kde se vypráví, kdo byl mistr Pedro a jeho opice a jaká nehoda stihla dona Quijota v hýkavém dobrodružství, které neskončilo, jak by si byl přál a jak myslil.",
           "id": null,
           "children": []
         }
@@ -808,7 +808,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVIII.,o které Benengeli tvrdí, že věci v ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně.",
+          "name": "KAPITOLA XXVIII.,o které Benengeli tvrdí, že věci v ní obsažené pozná, kdo ji přečte, jestliže ji přečte pozorně.",
           "id": null,
           "children": []
         }
@@ -908,7 +908,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIII.o vtipném rozhovoru vévodkyně a jejích dívek se Sanchem Panzou, hodném, abychom si jej přečtli a zapamatovali.",
+          "name": "KAPITOLA XXXIII.o vtipném rozhovoru vévodkyně a jejích dívek se Sanchem Panzou, hodném, abychom si jej přečtli a zapamatovali.",
           "id": null,
           "children": []
         }
@@ -928,7 +928,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXIV., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z Tobosa, což je jedna z nejkrásnějších příhod celé historie.",
+          "name": "KAPITOLA XXXIV., která vypráví způsob, jak by bylo možno osvoboditi začarovanou Dulcineu z Tobosa, což je jedna z nejkrásnějších příhod celé historie.",
           "id": null,
           "children": []
         }
@@ -948,7 +948,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXV.,co dalšího se don Quijote dověděl o tom, jak vysvobodit Dulcineu, a jiná zajímavá dobrodružství.",
+          "name": "KAPITOLA XXXV.,co dalšího se don Quijote dověděl o tom, jak vysvobodit Dulcineu, a jiná zajímavá dobrodružství.",
           "id": null,
           "children": []
         }
@@ -1048,7 +1048,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXVIII.,vypravující, co řekla o smutném svém příběhu dueňa Dolorida.",
+          "name": "KAPITOLA XXXVIII.,vypravující, co řekla o smutném svém příběhu dueňa Dolorida.",
           "id": null,
           "children": []
         }
@@ -1088,7 +1088,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XL.o věcech týkajících se této příhody a tohoto památného dobrodružství.",
+          "name": "KAPITOLA XL.o věcech týkajících se této příhody a tohoto památného dobrodružství.",
           "id": null,
           "children": []
         }
@@ -1108,7 +1108,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLI.o příchodu Clavileña a konci tohoto dlouhého dobrodružství.",
+          "name": "KAPITOLA XLI.o příchodu Clavileña a konci tohoto dlouhého dobrodružství.",
           "id": null,
           "children": []
         }
@@ -1128,7 +1128,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLII.o tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i o jiných veledůležitých věcech.",
+          "name": "KAPITOLA XLII.o tom, jak don Quijote napomenul Sancha Panzu, než se odebral vládnout na ostrov, i o jiných veledůležitých věcech.",
           "id": null,
           "children": []
         }
@@ -1168,7 +1168,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLIV.,jak se Sancho Panza stal vladařem a co podivného potkalo dona Quijota v zámku.",
+          "name": "KAPITOLA XLIV.,jak se Sancho Panza stal vladařem a co podivného potkalo dona Quijota v zámku.",
           "id": null,
           "children": []
         }
@@ -1188,7 +1188,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLV.o tom, jak se velký Sancho Panza ujal ostrova a jak počal vládnout.",
+          "name": "KAPITOLA XLV.o tom, jak se velký Sancho Panza ujal ostrova a jak počal vládnout.",
           "id": null,
           "children": []
         }
@@ -1208,7 +1208,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVI.o strašném úděsu zvonečkovém a kočičím, který zažil don Quijote za hovoru o vášni zamilované Altisidory.",
+          "name": "KAPITOLA XLVI.o strašném úděsu zvonečkovém a kočičím, který zažil don Quijote za hovoru o vášni zamilované Altisidory.",
           "id": null,
           "children": []
         }
@@ -1228,7 +1228,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVII.,kde je pokračováno o tom, jak si vedl Sancho Panza ve svém vladaření.",
+          "name": "KAPITOLA XLVII.,kde je pokračováno o tom, jak si vedl Sancho Panza ve svém vladaření.",
           "id": null,
           "children": []
         }
@@ -1248,7 +1248,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLVIII.o tom, co potkalo dona Quijota s paní Rodríguezovou, dueňou vévodkyně, a o jiných příhodách hodných zapsání a věčné paměti.",
+          "name": "KAPITOLA XLVIII.o tom, co potkalo dona Quijota s paní Rodríguezovou, dueňou vévodkyně, a o jiných příhodách hodných zapsání a věčné paměti.",
           "id": null,
           "children": []
         }
@@ -1268,7 +1268,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLIX.o tom, co se stalo Sanchu Panzovi při toulce ostrovem.",
+          "name": "KAPITOLA XLIX.o tom, co se stalo Sanchu Panzovi při toulce ostrovem.",
           "id": null,
           "children": []
         }
@@ -1288,7 +1288,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA L.,kde se odkrývá, kdo byli čarodějové a katové, již natloukli dueně a poštípali a poškrábali dona Quijota, a vypráví o příhodách pážete, nesoucího psaní Tereze Panzové, ženě Sancha Panzy.",
+          "name": "KAPITOLA L.,kde se odkrývá, kdo byli čarodějové a katové, již natloukli dueně a poštípali a poškrábali dona Quijota, a vypráví o příhodách pážete, nesoucího psaní Tereze Panzové, ženě Sancha Panzy.",
           "id": null,
           "children": []
         }
@@ -1328,7 +1328,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LIL, kde se vypráví dobrodružství druhé dueni Doloridy či Angustiady, jinak paní Rodríguezové.",
+          "name": "KAPITOLA LIL, kde se vypráví dobrodružství druhé dueni Doloridy či Angustiady, jinak paní Rodríguezové.",
           "id": null,
           "children": []
         }
@@ -1348,7 +1348,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LIII.o úmorném skoncování vladaření Sancha Panzy.",
+          "name": "KAPITOLA LIII.o úmorném skoncování vladaření Sancha Panzy.",
           "id": null,
           "children": []
         }
@@ -1388,7 +1388,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LV.o tom, co potkalo Sancha cestou, a jiných věcech, které stály za spatření.",
+          "name": "KAPITOLA LV.o tom, co potkalo Sancha cestou, a jiných věcech, které stály za spatření.",
           "id": null,
           "children": []
         }
@@ -1408,7 +1408,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LVI.o neobyčejném a nevídaném boji mezi donem Quijotem de la Mancha a lokajem Tosílem na obranu dcery paní Rodríguezové, dueni.",
+          "name": "KAPITOLA LVI.o neobyčejném a nevídaném boji mezi donem Quijotem de la Mancha a lokajem Tosílem na obranu dcery paní Rodríguezové, dueni.",
           "id": null,
           "children": []
         }
@@ -1428,7 +1428,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LVII.o tom, jak se don Quijote rozloučil s vévodou a co ho potkalo s chytrou a rozpustilou Altisidorou, komornou vévodkyně.",
+          "name": "KAPITOLA LVII.o tom, jak se don Quijote rozloučil s vévodou a co ho potkalo s chytrou a rozpustilou Altisidorou, komornou vévodkyně.",
           "id": null,
           "children": []
         }
@@ -1448,7 +1448,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LVIII.o tom, jak se sesypalo na dona Quijota tolik dobrodružství, že jedno pro druhé nemá místa.",
+          "name": "KAPITOLA LVIII.o tom, jak se sesypalo na dona Quijota tolik dobrodružství, že jedno pro druhé nemá místa.",
           "id": null,
           "children": []
         }
@@ -1468,7 +1468,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LIX.,kde se vypráví o neobyčejné příhodě, již lze míti za dobrodružství, která potkala dona Quijota.",
+          "name": "KAPITOLA LIX.,kde se vypráví o neobyčejné příhodě, již lze míti za dobrodružství, která potkala dona Quijota.",
           "id": null,
           "children": []
         }
@@ -1488,7 +1488,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LX.,o tom, co se přihodilo donu Quijotovi cestou do Barcelony.",
+          "name": "KAPITOLA LX.,o tom, co se přihodilo donu Quijotovi cestou do Barcelony.",
           "id": null,
           "children": []
         }
@@ -1508,7 +1508,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXI.,o tom, co potkalo dona Quijota při vstupu do Barcelony, a o jiných věcech, spíše pravdivých než rozumných.",
+          "name": "KAPITOLA LXI.,o tom, co potkalo dona Quijota při vstupu do Barcelony, a o jiných věcech, spíše pravdivých než rozumných.",
           "id": null,
           "children": []
         }
@@ -1528,7 +1528,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXII.,jež jedná o dobrodružství čarovné hlavy a jiných dětinstvích, jež je dlužno vypovědět.",
+          "name": "KAPITOLA LXII.,jež jedná o dobrodružství čarovné hlavy a jiných dětinstvích, jež je dlužno vypovědět.",
           "id": null,
           "children": []
         }
@@ -1548,7 +1548,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXIII.o nehodě Sancha Panzy při návštěvě galejí a novém dobrodružství krásné Maurky.",
+          "name": "KAPITOLA LXIII.o nehodě Sancha Panzy při návštěvě galejí a novém dobrodružství krásné Maurky.",
           "id": null,
           "children": []
         }
@@ -1568,7 +1568,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXIV.,která jedná o dobrodružství, jež dona Quijota zarmoutilo nejvíce ze všech, která ho dosud byla potkala.",
+          "name": "KAPITOLA LXIV.,která jedná o dobrodružství, jež dona Quijota zarmoutilo nejvíce ze všech, která ho dosud byla potkala.",
           "id": null,
           "children": []
         }
@@ -1588,7 +1588,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXV.,kde je dáno poučení, kdo byl rytíř Bílého měsíce, a vypráví se o osvobození dona Gregoria i jiných událostech.",
+          "name": "KAPITOLA LXV.,kde je dáno poučení, kdo byl rytíř Bílého měsíce, a vypráví se o osvobození dona Gregoria i jiných událostech.",
           "id": null,
           "children": []
         }
@@ -1608,7 +1608,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXVI.,jež jedná o tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu.",
+          "name": "KAPITOLA LXVI.,jež jedná o tom, co uvidí, kdo ji přečte, nebo uslyší, kdo bude poslouchat její četbu.",
           "id": null,
           "children": []
         }
@@ -1628,7 +1628,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXVII.,o rozhodnutí dona Quijota stát se pastýřem a vést život venkovský, dokud neuplyne slíbený rok, a o jiných příhodách opravdu radostných a výborných.",
+          "name": "KAPITOLA LXVII.,o rozhodnutí dona Quijota stát se pastýřem a vést život venkovský, dokud neuplyne slíbený rok, a o jiných příhodách opravdu radostných a výborných.",
           "id": null,
           "children": []
         }
@@ -1688,7 +1688,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXX.,která následuje za šedesátou devátou a jedná o věcech nutných k jasnosti této historie.",
+          "name": "KAPITOLA LXX.,která následuje za šedesátou devátou a jedná o věcech nutných k jasnosti této historie.",
           "id": null,
           "children": []
         }
@@ -1708,7 +1708,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXXI.o tom, co potkalo dona Quijota a jeho zbrojnoše Sancha cestou domů.",
+          "name": "KAPITOLA LXXI.o tom, co potkalo dona Quijota a jeho zbrojnoše Sancha cestou domů.",
           "id": null,
           "children": []
         }
@@ -1728,7 +1728,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXXII.o tom, jak don Quijote a Sancho dojeli do své vsi.",
+          "name": "KAPITOLA LXXII.o tom, jak don Quijote a Sancho dojeli do své vsi.",
           "id": null,
           "children": []
         }
@@ -1748,7 +1748,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LXXIII.o znameních, jež spatřil don Quijote při vstupu do své vsi, a jiných příbězích dodávajících této velké historii ozdobnosti a pravděpodobnosti.",
+          "name": "KAPITOLA LXXIII.o znameních, jež spatřil don Quijote při vstupu do své vsi, a jiných příbězích dodávajících této velké historii ozdobnosti a pravděpodobnosti.",
           "id": null,
           "children": []
         }
@@ -1797,8 +1797,8 @@
   ],
   "totals": {
     "all": {
-      "words": 146386,
-      "chars": 869331,
+      "words": 146384,
+      "chars": 869341,
       "ideas": 3499
     },
     "chapters": {
