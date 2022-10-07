@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-5cc5a8e",
-  "revision": "5cc5a8e",
+  "identifier": "saavedra-dumyslny-rytir-don-quijote-de-la-mancha-ii-0de323c",
+  "revision": "0de323c",
   "readingOrder": [
     "don_quijote_001.html",
     "promo.html",
@@ -98,8 +98,8 @@
     "don_quijote_085.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:03:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924612451
+    "date": "Fri Oct 07 2022 13:58:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151124983
   },
   "documents": [
     {
